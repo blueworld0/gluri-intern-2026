@@ -1,0 +1,301 @@
+{
+  "date": {
+    "gedi_utc": "2025-04-25",
+    "sentinel_request": "2025-04-28",
+    "acquisition_verified": false,
+    "nominal_gap_days": [
+      3
+    ]
+  },
+  "calibration": {
+    "applied_scale": 1.5259021896696422e-05,
+    "applied_offset": 0,
+    "status": "provisional; TIFF has no radiometric tags",
+    "basis": "same named 16-bit Analytical Raw export convention as 2026"
+  },
+  "grids": {
+    "sentinel_2025": {
+      "crs": "EPSG:32652",
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "shape": [
+        1244,
+        731
+      ]
+    },
+    "sentinel_2026": {
+      "crs": "EPSG:32652",
+      "resolution_m": [
+        9.997473631487901,
+        9.994068244604474
+      ],
+      "bounds": [
+        501553.908895,
+        3897622.903269,
+        507332.448654,
+        3905957.956185
+      ],
+      "shape": [
+        834,
+        578
+      ]
+    }
+  },
+  "bands": {
+    "B02": {
+      "file": "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B02_(Raw).tiff",
+      "size": [
+        731,
+        1244
+      ],
+      "crs": "EPSG:32652",
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtype": "uint16",
+      "nodata": null,
+      "geotiff_scale": 1.0,
+      "geotiff_offset": 0.0,
+      "data_mask_zero_pixels": 152,
+      "valid_pixels": 909212,
+      "saturated_65535_pixels": 8,
+      "reflectance_min": 0.0,
+      "reflectance_median": 0.028198672458529472,
+      "reflectance_p99": 0.22519265115261078,
+      "reflectance_max": 1.0
+    },
+    "B03": {
+      "file": "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B03_(Raw).tiff",
+      "size": [
+        731,
+        1244
+      ],
+      "crs": "EPSG:32652",
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtype": "uint16",
+      "nodata": null,
+      "geotiff_scale": 1.0,
+      "geotiff_offset": 0.0,
+      "data_mask_zero_pixels": 152,
+      "valid_pixels": 909212,
+      "saturated_65535_pixels": 8,
+      "reflectance_min": 0.0,
+      "reflectance_median": 0.07100022584199905,
+      "reflectance_p99": 0.26280614733695984,
+      "reflectance_max": 1.0
+    },
+    "B04": {
+      "file": "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B04_(Raw).tiff",
+      "size": [
+        731,
+        1244
+      ],
+      "crs": "EPSG:32652",
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtype": "uint16",
+      "nodata": null,
+      "geotiff_scale": 1.0,
+      "geotiff_offset": 0.0,
+      "data_mask_zero_pixels": 152,
+      "valid_pixels": 909212,
+      "saturated_65535_pixels": 11,
+      "reflectance_min": 0.000396734569221735,
+      "reflectance_median": 0.038895245641469955,
+      "reflectance_p99": 0.2945941984653473,
+      "reflectance_max": 1.0
+    },
+    "B08": {
+      "file": "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B08_(Raw).tiff",
+      "size": [
+        731,
+        1244
+      ],
+      "crs": "EPSG:32652",
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtype": "uint16",
+      "nodata": null,
+      "geotiff_scale": 1.0,
+      "geotiff_offset": 0.0,
+      "data_mask_zero_pixels": 152,
+      "valid_pixels": 909212,
+      "saturated_65535_pixels": 6,
+      "reflectance_min": 0.0001983672846108675,
+      "reflectance_median": 0.3331044614315033,
+      "reflectance_p99": 0.5510032773017883,
+      "reflectance_max": 1.0
+    },
+    "B11": {
+      "file": "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B11_(Raw).tiff",
+      "size": [
+        731,
+        1244
+      ],
+      "crs": "EPSG:32652",
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtype": "uint16",
+      "nodata": null,
+      "geotiff_scale": 1.0,
+      "geotiff_offset": 0.0,
+      "data_mask_zero_pixels": 152,
+      "valid_pixels": 909212,
+      "saturated_65535_pixels": 0,
+      "reflectance_min": 0.01440451666712761,
+      "reflectance_median": 0.1893949806690216,
+      "reflectance_p99": 0.3792019486427307,
+      "reflectance_max": 0.8298923969268799
+    },
+    "B12": {
+      "file": "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B12_(Raw).tiff",
+      "size": [
+        731,
+        1244
+      ],
+      "crs": "EPSG:32652",
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtype": "uint16",
+      "nodata": null,
+      "geotiff_scale": 1.0,
+      "geotiff_offset": 0.0,
+      "data_mask_zero_pixels": 152,
+      "valid_pixels": 909212,
+      "saturated_65535_pixels": 0,
+      "reflectance_min": 0.009094377048313618,
+      "reflectance_median": 0.09370565414428711,
+      "reflectance_p99": 0.3185015618801117,
+      "reflectance_max": 0.8923017978668213
+    }
+  },
+  "counts": {
+    "gedi_input": 97,
+    "inside_2025_extent": 97,
+    "merge_success_2025": 97,
+    "merge_success_2026": 97,
+    "missing_any_index_2025": 0,
+    "nodata_affected_shots": 0,
+    "saturated_65535_shots": 0,
+    "cloud_shadow_confirmed_shots": 0,
+    "cloud_shadow_unassessed_shots": 97
+  },
+  "scl": "No SCL raster supplied; dataMask cannot establish cloud or shadow absence",
+  "index_extremes": {
+    "ndvi": {
+      "outside_minus1_plus1_pixels": 0,
+      "abs_gt2_pixels": 0
+    },
+    "evi": {
+      "outside_minus1_plus1_pixels": 1018,
+      "abs_gt2_pixels": 539
+    },
+    "ndmi": {
+      "outside_minus1_plus1_pixels": 0,
+      "abs_gt2_pixels": 0
+    }
+  },
+  "warnings": [
+    "Filename date is a request interval, not verified acquisition time"
+  ]
+}

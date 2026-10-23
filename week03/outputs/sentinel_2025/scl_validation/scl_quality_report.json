@@ -1,0 +1,97 @@
+{
+  "source": {
+    "file": "T52SDE_20250428T020711_SCL_20m.jp2",
+    "driver": "JP2OpenJPEG",
+    "dtype": "uint8",
+    "crs": "EPSG:32652",
+    "resolution_m": [
+      20.0,
+      20.0
+    ],
+    "shape": [
+      5490,
+      5490
+    ],
+    "bounds": [
+      399960.0,
+      3890220.0,
+      509760.0,
+      4000020.0
+    ],
+    "nodata": null,
+    "tile": "T52SDE",
+    "sensing_from_filename": "20250428T020711"
+  },
+  "product": {
+    "user_confirmed_satellite": "Sentinel-2C",
+    "user_confirmed_product": "S2C_MSIL2A",
+    "user_confirmed_tile": "T52SDE",
+    "user_confirmed_relative_orbit": "R103",
+    "user_confirmed_processing_baseline": "N05.11",
+    "user_confirmed_sensing_time_utc": "2025-04-28T02:07:11.025Z",
+    "scl_cloud_classes_8_9_10_percent_full_tile": 1.6366634483628122
+  },
+  "tiff_association": {
+    "status": "consistent_with_user_provenance_not_independently_proven",
+    "reason": "TIFFs match L2A request date, CRS and SCL coverage, but carry no tile, sensing-time or product-ID tags",
+    "analytical_tiffs": [
+      "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B02_(Raw).tiff",
+      "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B03_(Raw).tiff",
+      "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B04_(Raw).tiff",
+      "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B08_(Raw).tiff",
+      "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B11_(Raw).tiff",
+      "2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B12_(Raw).tiff"
+    ]
+  },
+  "alignment": {
+    "method": "nearest",
+    "source_resolution_m": [
+      20,
+      20
+    ],
+    "target_shape": [
+      1244,
+      731
+    ],
+    "target_crs": "EPSG:32652",
+    "target_bounds": [
+      500941.856816,
+      3897171.898472,
+      508251.373092,
+      3909609.309325
+    ],
+    "native_vs_aligned_disagreement_points": 1
+  },
+  "counts": {
+    "gedi_quality_valid_before_scl": 97,
+    "vegetation_native_20m": 91,
+    "vegetation_aligned_10m": 90,
+    "cloud_or_shadow_excluded": 0,
+    "other_or_boundary_excluded": 7,
+    "final_vegetation_candidates": 90,
+    "exclusion_reasons": {
+      "accepted_vegetation": 90,
+      "other_scl_class": 6,
+      "native_aligned_boundary_disagreement": 1
+    }
+  },
+  "observation_gap": {
+    "gedi_date_utc": "2025-04-25",
+    "sentinel_date_utc": "2025-04-28",
+    "calendar_days": 3,
+    "elapsed_hours_min": 56.94137330555556,
+    "elapsed_hours_max": 56.941795703333334
+  },
+  "reflectance": {
+    "index_source": "existing 2025 index GeoTIFFs",
+    "scale_status": "provisional; Analytical TIFFs have no verified scale/offset",
+    "analytical_tiff_pixel_divisor_used": 65535,
+    "scl_scale_applied": false,
+    "note": "Source-product DN and Browser Analytical UINT16 values are not interchangeable"
+  },
+  "limits": [
+    "SCL=4 means vegetation, not a confirmed forest boundary or tree species",
+    "SCL is an automated classification and may miss clouds or shadows",
+    "User product provenance cannot be independently proven from Analytical TIFF metadata"
+  ]
+}

@@ -1,0 +1,10 @@
+stage,count
+within_sentinel_extent,2090
+finite_nonnegative_agbd,864
+finite_nonnegative_agbd_se,864
+algorithm_run,864
+l2a_quality_rel3,814
+l4a_quality_rel3,97
+degrade_include,97
+no_elevation_outlier,97
+quality_valid,97

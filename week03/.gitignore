@@ -1,0 +1,8 @@
+.venv/
+.matplotlib/
+__pycache__/
+*.py[cod]
+
+# Large source granules and full intermediate table stay local.
+/GEDI04_A/*.h5
+/outputs/gedi/gedi_all_points.csv

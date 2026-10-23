@@ -1,0 +1,15 @@
+{
+  "source": "User-confirmed Copernicus Browser Visualise > Download Image > Analytical > TIFF 16-bit > Raw Bands, dataMask enabled",
+  "reference": "https://forum.dataspace.copernicus.eu/t/issues-with-download-image-analytical/3566",
+  "reflectance_scale": 0.000015259021896696421,
+  "reflectance_offset": 0.0,
+  "acquisition_date": "2026-09-12",
+  "sha256": {
+    "B02": "97849a6da4a51f2341553ff69d78b55581c0123ec4356a5987d34ff5f47f19f7",
+    "B03": "dda728d022dea5b1f4c171ecc14ca51108bc83c896546f54290c6dbad3ab0622",
+    "B04": "865f97a2147dfd0b32f1ecf4b8153f0b41f4a035f22e0b6b8c1c822913def60b",
+    "B08": "091d04eef43fe6a74baf5e59a54a64502a8307a55286fe26876de7247911b8b0",
+    "B11": "116ad9746048988304d26106f637205b925a390d3632d803df24f90de558e921",
+    "B12": "1aa3a903f0639ec696a51547e86f72da0d39611568f14a4ae3b7a378036a1679"
+  }
+}

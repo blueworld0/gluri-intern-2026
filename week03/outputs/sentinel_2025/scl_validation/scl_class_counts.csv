@@ -1,0 +1,13 @@
+scl_class,label,native_20m_point_count,aligned_10m_index_pixel_count
+0,No data,0,0
+1,Saturated/defective,0,0
+2,Dark area,0,0
+3,Cloud shadow,0,0
+4,Vegetation,91,90
+5,Bare soil,6,7
+6,Water,0,0
+7,Unclassified/low cloud probability,0,0
+8,Medium cloud probability,0,0
+9,High cloud probability,0,0
+10,Cirrus,0,0
+11,Snow/ice,0,0

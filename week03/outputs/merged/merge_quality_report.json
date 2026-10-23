@@ -1,0 +1,202 @@
+{
+  "input": {
+    "gedi_file": "outputs\\gedi\\gedi_valid_points.csv",
+    "gedi_rows": 97,
+    "column_mapping": {
+      "latitude": "latitude",
+      "longitude": "longitude",
+      "agbd": "agbd_Mg_ha",
+      "agbd_se": "agbd_se_Mg_ha",
+      "observed_at_utc": "observed_at_utc",
+      "source_file": "source_file",
+      "beam": "beam",
+      "shot_number": "shot_number"
+    },
+    "rasters": {
+      "ndvi": {
+        "file": "outputs\\rasters\\ndvi.tif",
+        "crs": "EPSG:32652",
+        "width": 578,
+        "height": 834,
+        "resolution_m": [
+          9.997473631487901,
+          9.994068244604474
+        ],
+        "bounds": [
+          501553.908895,
+          3897622.903269,
+          507332.448654,
+          3905957.956185
+        ],
+        "transform": [
+          9.997473631487901,
+          0.0,
+          501553.908895,
+          0.0,
+          -9.994068244604474,
+          3905957.956185
+        ],
+        "nodata": -9999.0,
+        "dtype": "float32",
+        "valid_pixel_count": 482052,
+        "valid_pixel_fraction": 1.0,
+        "acquisition_date": "2026-09-12"
+      },
+      "evi": {
+        "file": "outputs\\rasters\\evi.tif",
+        "crs": "EPSG:32652",
+        "width": 578,
+        "height": 834,
+        "resolution_m": [
+          9.997473631487901,
+          9.994068244604474
+        ],
+        "bounds": [
+          501553.908895,
+          3897622.903269,
+          507332.448654,
+          3905957.956185
+        ],
+        "transform": [
+          9.997473631487901,
+          0.0,
+          501553.908895,
+          0.0,
+          -9.994068244604474,
+          3905957.956185
+        ],
+        "nodata": -9999.0,
+        "dtype": "float32",
+        "valid_pixel_count": 482052,
+        "valid_pixel_fraction": 1.0,
+        "acquisition_date": "2026-09-12"
+      },
+      "ndmi": {
+        "file": "outputs\\rasters\\ndmi.tif",
+        "crs": "EPSG:32652",
+        "width": 578,
+        "height": 834,
+        "resolution_m": [
+          9.997473631487901,
+          9.994068244604474
+        ],
+        "bounds": [
+          501553.908895,
+          3897622.903269,
+          507332.448654,
+          3905957.956185
+        ],
+        "transform": [
+          9.997473631487901,
+          0.0,
+          501553.908895,
+          0.0,
+          -9.994068244604474,
+          3905957.956185
+        ],
+        "nodata": -9999.0,
+        "dtype": "float32",
+        "valid_pixel_count": 482052,
+        "valid_pixel_fraction": 1.0,
+        "acquisition_date": "2026-09-12"
+      }
+    }
+  },
+  "counts": {
+    "gedi_valid_input": 97,
+    "inside_sentinel_extent": 97,
+    "ndvi_sample_success": 97,
+    "evi_sample_success": 97,
+    "ndmi_sample_success": 97,
+    "all_three_indices_success": 97,
+    "clean_rows": 97,
+    "merge_failed": 0,
+    "missing_index_rows": 0,
+    "duplicate_point_ids": 0,
+    "duplicate_pixel_rows": 0,
+    "duplicate_pixel_groups": 0,
+    "nearby_point_rows_under_60m": 96
+  },
+  "minimum_nearest_neighbor_distance_m": 54.430636042086185,
+  "failure_reasons": {},
+  "missing_by_column": {
+    "gedi_file": 0,
+    "beam": 0,
+    "shot_number": 0,
+    "observed_at_utc": 0,
+    "latitude": 0,
+    "longitude": 0,
+    "agbd": 0,
+    "agbd_se": 0,
+    "agbd_pi_lower_Mg_ha": 10,
+    "agbd_pi_upper_Mg_ha": 0,
+    "l2_algrunflag": 0,
+    "l2a_quality_flag_rel3": 0,
+    "l4a_quality_flag_rel3": 0,
+    "degrade_flag": 0,
+    "degrade_include_flag": 0,
+    "elev_highestreturn_outlier_flag": 0,
+    "predictor_limit_flag": 0,
+    "response_limit_flag": 0,
+    "sensitivity": 0,
+    "within_sentinel_extent": 0,
+    "quality_valid": 0,
+    "easting_m": 0,
+    "northing_m": 0,
+    "raster_row": 0,
+    "raster_col": 0,
+    "inside_raster_extent": 0,
+    "coordinate_difference_m": 0,
+    "pixel_observation_count": 0,
+    "duplicate_pixel": 0,
+    "point_id": 0,
+    "gedi_observation_date": 0,
+    "sentinel_acquisition_date": 0,
+    "date_gap_days": 0,
+    "ndvi": 0,
+    "ndvi_sample_valid": 0,
+    "evi": 0,
+    "evi_sample_valid": 0,
+    "ndmi": 0,
+    "ndmi_sample_valid": 0,
+    "failure_reason": 0,
+    "merge_status": 0
+  },
+  "clean_shape": {
+    "rows": 97,
+    "columns": 41
+  },
+  "date_gap_days": {
+    "min": 505.0,
+    "max": 505.0,
+    "mean": 505.0,
+    "median": 505.0
+  },
+  "gedi_observation_date_counts": {
+    "2025-04-25": 97
+  },
+  "correlations_with_agbd": {
+    "ndvi": {
+      "n": 97,
+      "pearson": 0.1374033520534508,
+      "spearman": 0.27253839680201974
+    },
+    "evi": {
+      "n": 97,
+      "pearson": 0.06930490335074091,
+      "spearman": 0.061079844308857566
+    },
+    "ndmi": {
+      "n": 97,
+      "pearson": 0.22800306104767887,
+      "spearman": 0.3105144119503471
+    }
+  },
+  "diagnostics": {
+    "evi_abs_gt_2": 0,
+    "ndvi_outside_minus1_plus1": 0,
+    "ndmi_outside_minus1_plus1": 0,
+    "max_coordinate_difference_m": 0.0
+  },
+  "interpretation": "GEDI AGBD is a model prediction, not field truth; the Sentinel rectangle is not a forest boundary. Correlation is exploratory and does not establish causation or model performance."
+}
