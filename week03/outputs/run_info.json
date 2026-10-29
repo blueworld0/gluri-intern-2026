@@ -1,0 +1,9 @@
+{
+ "boundary": "임시(proxy)",
+ "boundary_file": "geumjeongsan_proxy.geojson",
+ "park_area_km2": 67.2019809350426,
+ "tree_area_km2": 66.2315507490795,
+ "R_mode": "species",
+ "R": 0.3213562071323395,
+ "CF": 0.5
+}
