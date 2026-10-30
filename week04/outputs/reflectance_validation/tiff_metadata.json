@@ -1,0 +1,790 @@
+{
+  "sources": {
+    "browser_staff": "https://forum.dataspace.copernicus.eu/t/issues-with-download-image-analytical/3566",
+    "evalscript": "https://docs.sentinel-hub.com/api/latest/evalscript/v3/",
+    "l2a_examples": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Process/Examples/S2L2A.html"
+  },
+  "interpretation": "No per-file radiometric provenance or scale tag; both conversions are assumptions.",
+  "files": [
+    {
+      "year": 2025,
+      "band": "B02",
+      "file": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B02_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        1244,
+        731
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2025,
+      "band": "B03",
+      "file": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B03_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        1244,
+        731
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2025,
+      "band": "B04",
+      "file": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B04_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        1244,
+        731
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2025,
+      "band": "B08",
+      "file": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B08_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        1244,
+        731
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2025,
+      "band": "B11",
+      "file": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B11_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        1244,
+        731
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2025,
+      "band": "B12",
+      "file": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B12_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        1244,
+        731
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "transform": [
+        9.999338270861847,
+        0.0,
+        500941.856816,
+        0.0,
+        -9.9979186921221,
+        3909609.309325
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2026,
+      "band": "B02",
+      "file": "week03\\Sentinel-2\\2026-09-12-00_00_2026-09-12-23_59_Sentinel-2_L2A_B02_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        834,
+        578
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.997473631487901,
+        9.994068244604474
+      ],
+      "transform": [
+        9.997473631487901,
+        0.0,
+        501553.908895,
+        0.0,
+        -9.994068244604474,
+        3905957.956185
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2026,
+      "band": "B03",
+      "file": "week03\\Sentinel-2\\2026-09-12-00_00_2026-09-12-23_59_Sentinel-2_L2A_B03_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        834,
+        578
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.997473631487901,
+        9.994068244604474
+      ],
+      "transform": [
+        9.997473631487901,
+        0.0,
+        501553.908895,
+        0.0,
+        -9.994068244604474,
+        3905957.956185
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2026,
+      "band": "B04",
+      "file": "week03\\Sentinel-2\\2026-09-12-00_00_2026-09-12-23_59_Sentinel-2_L2A_B04_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        834,
+        578
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.997473631487901,
+        9.994068244604474
+      ],
+      "transform": [
+        9.997473631487901,
+        0.0,
+        501553.908895,
+        0.0,
+        -9.994068244604474,
+        3905957.956185
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2026,
+      "band": "B08",
+      "file": "week03\\Sentinel-2\\2026-09-12-00_00_2026-09-12-23_59_Sentinel-2_L2A_B08_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        834,
+        578
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.997473631487901,
+        9.994068244604474
+      ],
+      "transform": [
+        9.997473631487901,
+        0.0,
+        501553.908895,
+        0.0,
+        -9.994068244604474,
+        3905957.956185
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2026,
+      "band": "B11",
+      "file": "week03\\Sentinel-2\\2026-09-12-00_00_2026-09-12-23_59_Sentinel-2_L2A_B11_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        834,
+        578
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.997473631487901,
+        9.994068244604474
+      ],
+      "transform": [
+        9.997473631487901,
+        0.0,
+        501553.908895,
+        0.0,
+        -9.994068244604474,
+        3905957.956185
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    },
+    {
+      "year": 2026,
+      "band": "B12",
+      "file": "week03\\Sentinel-2\\2026-09-12-00_00_2026-09-12-23_59_Sentinel-2_L2A_B12_(Raw).tiff",
+      "driver": "GTiff",
+      "shape": [
+        834,
+        578
+      ],
+      "crs": "EPSG:32652",
+      "resolution": [
+        9.997473631487901,
+        9.994068244604474
+      ],
+      "transform": [
+        9.997473631487901,
+        0.0,
+        501553.908895,
+        0.0,
+        -9.994068244604474,
+        3905957.956185
+      ],
+      "dtypes": [
+        "uint16",
+        "uint16"
+      ],
+      "nodata": [
+        null,
+        null
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ],
+      "mask_flags": [
+        [
+          "1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    }
+  ]
+}

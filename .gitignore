@@ -1,3 +1,6 @@
+# Reference papers (third-party copyrighted materials)
+week04/research/*.pdf
+
 # Python virtual environments
 .venv/
 venv/

@@ -1,1 +1,5 @@
 pandas>=2,<4
+numpy>=2,<3
+rasterio>=1.4,<2
+matplotlib>=3.8,<4
+scikit-learn==1.9.1
