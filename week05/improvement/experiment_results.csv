@@ -1,0 +1,11 @@
+validation,experiment,model,features,train_n,test_n,buffer_excluded_n,quality_condition,train_agbd_mean,test_agbd_mean,inner_cv_rmse,max_depth,min_samples_leaf,max_features,R2,RMSE,MAE,selected_candidate
+random_80_20,week04_baseline,RandomForest,"ndvi,evi,ndmi",72,18,0,all,106.70848411983914,92.8792823155721,,,1,1.0,-0.13937724098230575,52.33577688095095,42.8731881486045,
+random_80_20,week04_baseline,DummyMean,"ndvi,evi,ndmi",72,18,0,all,106.70848411983914,92.8792823155721,,,1,1.0,-0.07955443907342441,50.94331228658689,43.33865085648901,
+random_80_20,feature_selected_inner_cv,RandomForest,"ndvi,evi,ndmi,nbr_raw_ratio,raw_B03,raw_B12",72,18,0,all,106.70848411983914,92.8792823155721,76.83676542686142,,1,1.0,-0.158592254714349,52.77523983693665,43.03159619596269,base_plus_nbr_and_raw
+random_80_20,complexity_selected_inner_cv,RandomForest,"ndvi,evi,ndmi",72,18,0,all,106.70848411983914,92.8792823155721,76.58901853651562,3.0,4,1.0,-0.025375864865812447,49.648536431066304,41.16705935874168,depth3_leaf4_all
+random_80_20,quality_train_sens_ge_095,RandomForest,"ndvi,evi,ndmi",39,18,0,train_sensitivity_ge_0.95_test_all,134.24995273198837,92.8792823155721,,,1,1.0,-0.9022193076261487,67.62311899288417,54.350497786204016,
+random_80_20,quality_train_sens_ge_095,DummyMean,"ndvi,evi,ndmi",39,18,0,train_sensitivity_ge_0.95_test_all,134.24995273198837,92.8792823155721,,,1,1.0,-0.7119595290354621,64.15221441921793,52.58823258924349,
+spatial_block_500m_buffer,week04_baseline,RandomForest,"ndvi,evi,ndmi",55,20,15,all,89.7853264721957,130.91951808929443,,,1,1.0,-2.1653019020787947,70.60616609643117,57.70580945968628,
+spatial_block_500m_buffer,week04_baseline,DummyMean,"ndvi,evi,ndmi",55,20,15,all,89.7853264721957,130.91951808929443,,,1,1.0,-1.0743253222953473,57.15753555343177,48.06864429300482,
+spatial_block_500m_buffer,feature_selected_inner_cv,RandomForest,"ndvi,evi,ndmi,raw_B03,raw_B12",55,20,15,all,89.7853264721957,130.91951808929443,79.91773744948233,,1,1.0,-2.068989134921124,69.52367746278095,56.27493088483811,base_plus_unused_raw_bands
+spatial_block_500m_buffer,complexity_selected_inner_cv,RandomForest,"ndvi,evi,ndmi",55,20,15,all,89.7853264721957,130.91951808929443,82.003730638868,6.0,3,0.67,-1.4683954513003363,62.35085731878015,50.46812863732785,depth6_leaf3_two_thirds

@@ -1,0 +1,208 @@
+{
+  "source": "week03\\outputs\\sentinel_2025\\scl_validation\\gedi_scl_valid_points.csv",
+  "total_rows": 90,
+  "total_columns": 70,
+  "missing_by_column": {
+    "gedi_file": 0,
+    "beam": 0,
+    "shot_number": 0,
+    "observed_at_utc": 0,
+    "latitude": 0,
+    "longitude": 0,
+    "agbd": 0,
+    "agbd_se": 0,
+    "agbd_pi_lower_Mg_ha": 9,
+    "agbd_pi_upper_Mg_ha": 0,
+    "l2_algrunflag": 0,
+    "l2a_quality_flag_rel3": 0,
+    "l4a_quality_flag_rel3": 0,
+    "degrade_flag": 0,
+    "degrade_include_flag": 0,
+    "elev_highestreturn_outlier_flag": 0,
+    "predictor_limit_flag": 0,
+    "response_limit_flag": 0,
+    "sensitivity": 0,
+    "within_sentinel_extent": 0,
+    "quality_valid": 0,
+    "easting_m": 0,
+    "northing_m": 0,
+    "raster_row": 0,
+    "raster_col": 0,
+    "inside_raster_extent": 0,
+    "coordinate_difference_m": 0,
+    "pixel_observation_count": 0,
+    "duplicate_pixel": 0,
+    "point_id": 0,
+    "gedi_observation_date": 0,
+    "sentinel_acquisition_date": 0,
+    "date_gap_days": 0,
+    "ndvi": 0,
+    "ndvi_sample_valid": 0,
+    "evi": 0,
+    "evi_sample_valid": 0,
+    "ndmi": 0,
+    "ndmi_sample_valid": 0,
+    "failure_reason": 0,
+    "merge_status": 0,
+    "data_mask_valid": 0,
+    "raw_65535_any": 0,
+    "raw_zero_any": 0,
+    "B02_data_mask_valid": 0,
+    "B02_raw_65535": 0,
+    "B03_data_mask_valid": 0,
+    "B03_raw_65535": 0,
+    "B04_data_mask_valid": 0,
+    "B04_raw_65535": 0,
+    "B08_data_mask_valid": 0,
+    "B08_raw_65535": 0,
+    "B11_data_mask_valid": 0,
+    "B11_raw_65535": 0,
+    "B12_data_mask_valid": 0,
+    "B12_raw_65535": 0,
+    "scl_status": 0,
+    "scl_class": 90,
+    "nodata_affected": 0,
+    "quality_review_needed": 0,
+    "scl_native_20m": 0,
+    "scl_aligned_10m": 0,
+    "scl_native_label": 0,
+    "scl_aligned_label": 0,
+    "scl_boundary_disagreement": 0,
+    "scl_cloud_or_shadow": 0,
+    "scl_vegetation_native": 0,
+    "scl_vegetation_aligned": 0,
+    "scl_valid": 0,
+    "scl_exclusion_reason": 0
+  },
+  "numeric_summary": {
+    "agbd": {
+      "count": 90,
+      "min": 10.998291969299316,
+      "q1": 51.70622539520264,
+      "median": 103.08087539672852,
+      "mean": 103.94264375898572,
+      "q3": 147.24498748779297,
+      "max": 301.9659423828125,
+      "sample_std": 60.160341838810325,
+      "iqr_lower_fence": -91.60191774368286,
+      "iqr_upper_fence": 290.55313062667847,
+      "iqr_flagged_n": 1
+    },
+    "ndvi": {
+      "count": 90,
+      "min": 0.30064672231674194,
+      "q1": 0.777303084731102,
+      "median": 0.8098473846912384,
+      "mean": 0.7920634160439174,
+      "q3": 0.8363244831562042,
+      "max": 0.908877432346344,
+      "sample_std": 0.09812949469710772,
+      "iqr_lower_fence": 0.6887709870934486,
+      "iqr_upper_fence": 0.9248565807938576,
+      "iqr_flagged_n": 7
+    },
+    "evi": {
+      "count": 90,
+      "min": 0.14488168060779572,
+      "q1": 0.4574306234717369,
+      "median": 0.5092285573482513,
+      "mean": 0.5108764534195264,
+      "q3": 0.5684771090745926,
+      "max": 0.772257924079895,
+      "sample_std": 0.10469126615579481,
+      "iqr_lower_fence": 0.2908608950674534,
+      "iqr_upper_fence": 0.7350468374788761,
+      "iqr_flagged_n": 6
+    },
+    "ndmi": {
+      "count": 90,
+      "min": 0.04959174990653992,
+      "q1": 0.341718465089798,
+      "median": 0.38653403520584106,
+      "mean": 0.3596180085506704,
+      "q3": 0.4116997495293617,
+      "max": 0.49300524592399597,
+      "sample_std": 0.08624073029235597,
+      "iqr_lower_fence": 0.23674653843045235,
+      "iqr_upper_fence": 0.5166716761887074,
+      "iqr_flagged_n": 11
+    }
+  },
+  "agbd_ge_200_n": 4,
+  "agbd_ge_250_n": 1,
+  "invalid_index_range_n": {
+    "ndvi": 0,
+    "ndmi": 0,
+    "evi_abs_gt_2": 0
+  },
+  "duplicate_point_ids_n": 0,
+  "duplicate_raster_pixels_n": 0,
+  "date_gap_days": {
+    "min": 3,
+    "max": 3
+  },
+  "same_gedi_file_n": 1,
+  "raw_65535_any_n": 0,
+  "raw_zero_any_n": 1,
+  "scl_boundary_disagreement_n": 0,
+  "split_checks": {
+    "random_80_20": {
+      "train_n": 72,
+      "test_n": 18,
+      "buffer_excluded_n": 0,
+      "minimum_train_test_distance_m": 55.15873818853985,
+      "train_test_id_overlap_n": 0,
+      "train_test_raster_pixel_overlap_n": 0,
+      "train_mean_agbd": 106.70848411983914,
+      "test_mean_agbd": 92.8792823155721
+    },
+    "spatial_block_500m_buffer": {
+      "train_n": 55,
+      "test_n": 20,
+      "buffer_excluded_n": 15,
+      "minimum_train_test_distance_m": 500.60681920381836,
+      "train_test_id_overlap_n": 0,
+      "train_test_raster_pixel_overlap_n": 0,
+      "train_mean_agbd": 89.7853264721957,
+      "test_mean_agbd": 130.91951808929443
+    }
+  },
+  "reflectance_2025_tiff_raw_band_summary": {
+    "B02": {
+      "median_raw_uint16": 1848.0,
+      "median_if_divided_by_65535": 0.028198672465094988,
+      "valid_65535_pixels": 8
+    },
+    "B03": {
+      "median_raw_uint16": 4653.0,
+      "median_if_divided_by_65535": 0.07100022888532845,
+      "valid_65535_pixels": 8
+    },
+    "B04": {
+      "median_raw_uint16": 2549.0,
+      "median_if_divided_by_65535": 0.03889524681467918,
+      "valid_65535_pixels": 11
+    },
+    "B08": {
+      "median_raw_uint16": 21830.0,
+      "median_if_divided_by_65535": 0.33310444800488287,
+      "valid_65535_pixels": 6
+    },
+    "B11": {
+      "median_raw_uint16": 12412.0,
+      "median_if_divided_by_65535": 0.18939497978179598,
+      "valid_65535_pixels": 0
+    },
+    "B12": {
+      "median_raw_uint16": 6141.0,
+      "median_if_divided_by_65535": 0.09370565346761273,
+      "valid_65535_pixels": 0
+    }
+  },
+  "evi_mean_by_scale_assumption": {
+    "browser_65535_assumption": 0.5108764523109091,
+    "dn_10000_sensitivity": 1.3353499019656512,
+    "week03_saved": 0.5108764534195264
+  },
+  "week04_reflectance_assessment": "No per-file radiometric provenance or scale tag; both conversions are assumptions."
+}

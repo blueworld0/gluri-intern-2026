@@ -1,0 +1,454 @@
+{
+  "input_source": "week03\\Sentinel-2\\2025-04-28",
+  "n_total": 90,
+  "base_features": [
+    "ndvi",
+    "evi",
+    "ndmi"
+  ],
+  "feature_sets": {
+    "base_plus_nbr": [
+      "ndvi",
+      "evi",
+      "ndmi",
+      "nbr_raw_ratio"
+    ],
+    "base_plus_unused_raw_bands": [
+      "ndvi",
+      "evi",
+      "ndmi",
+      "raw_B03",
+      "raw_B12"
+    ],
+    "base_plus_nbr_and_raw": [
+      "ndvi",
+      "evi",
+      "ndmi",
+      "nbr_raw_ratio",
+      "raw_B03",
+      "raw_B12"
+    ]
+  },
+  "rf_base": {
+    "n_estimators": 100,
+    "random_state": 42,
+    "n_jobs": 1
+  },
+  "complexity_candidates": {
+    "depth4_leaf2_all": {
+      "max_depth": 4,
+      "min_samples_leaf": 2,
+      "max_features": 1.0
+    },
+    "depth6_leaf3_two_thirds": {
+      "max_depth": 6,
+      "min_samples_leaf": 3,
+      "max_features": 0.67
+    },
+    "depth3_leaf4_all": {
+      "max_depth": 3,
+      "min_samples_leaf": 4,
+      "max_features": 1.0
+    }
+  },
+  "quality_threshold": 0.95,
+  "minimum_quality_train_n": 30,
+  "inner_cv": "3-fold GroupKFold on 500 m easting groups within each outer train; no inner buffer",
+  "inner_folds": {
+    "random_80_20/baseline_reference": [
+      {
+        "fold": 1,
+        "train_n": 45,
+        "validation_n": 27,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 50,
+        "validation_n": 22,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 49,
+        "validation_n": 23,
+        "validation_group_ids": [
+          1,
+          10,
+          11
+        ]
+      }
+    ],
+    "random_80_20/A/base_plus_nbr": [
+      {
+        "fold": 1,
+        "train_n": 45,
+        "validation_n": 27,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 50,
+        "validation_n": 22,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 49,
+        "validation_n": 23,
+        "validation_group_ids": [
+          1,
+          10,
+          11
+        ]
+      }
+    ],
+    "random_80_20/A/base_plus_unused_raw_bands": [
+      {
+        "fold": 1,
+        "train_n": 45,
+        "validation_n": 27,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 50,
+        "validation_n": 22,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 49,
+        "validation_n": 23,
+        "validation_group_ids": [
+          1,
+          10,
+          11
+        ]
+      }
+    ],
+    "random_80_20/A/base_plus_nbr_and_raw": [
+      {
+        "fold": 1,
+        "train_n": 45,
+        "validation_n": 27,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 50,
+        "validation_n": 22,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 49,
+        "validation_n": 23,
+        "validation_group_ids": [
+          1,
+          10,
+          11
+        ]
+      }
+    ],
+    "random_80_20/B/depth4_leaf2_all": [
+      {
+        "fold": 1,
+        "train_n": 45,
+        "validation_n": 27,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 50,
+        "validation_n": 22,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 49,
+        "validation_n": 23,
+        "validation_group_ids": [
+          1,
+          10,
+          11
+        ]
+      }
+    ],
+    "random_80_20/B/depth6_leaf3_two_thirds": [
+      {
+        "fold": 1,
+        "train_n": 45,
+        "validation_n": 27,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 50,
+        "validation_n": 22,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 49,
+        "validation_n": 23,
+        "validation_group_ids": [
+          1,
+          10,
+          11
+        ]
+      }
+    ],
+    "random_80_20/B/depth3_leaf4_all": [
+      {
+        "fold": 1,
+        "train_n": 45,
+        "validation_n": 27,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 50,
+        "validation_n": 22,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 49,
+        "validation_n": 23,
+        "validation_group_ids": [
+          1,
+          10,
+          11
+        ]
+      }
+    ],
+    "spatial_block_500m_buffer/baseline_reference": [
+      {
+        "fold": 1,
+        "train_n": 20,
+        "validation_n": 35,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          1
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      }
+    ],
+    "spatial_block_500m_buffer/A/base_plus_nbr": [
+      {
+        "fold": 1,
+        "train_n": 20,
+        "validation_n": 35,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          1
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      }
+    ],
+    "spatial_block_500m_buffer/A/base_plus_unused_raw_bands": [
+      {
+        "fold": 1,
+        "train_n": 20,
+        "validation_n": 35,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          1
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      }
+    ],
+    "spatial_block_500m_buffer/A/base_plus_nbr_and_raw": [
+      {
+        "fold": 1,
+        "train_n": 20,
+        "validation_n": 35,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          1
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      }
+    ],
+    "spatial_block_500m_buffer/B/depth4_leaf2_all": [
+      {
+        "fold": 1,
+        "train_n": 20,
+        "validation_n": 35,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          1
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      }
+    ],
+    "spatial_block_500m_buffer/B/depth6_leaf3_two_thirds": [
+      {
+        "fold": 1,
+        "train_n": 20,
+        "validation_n": 35,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          1
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      }
+    ],
+    "spatial_block_500m_buffer/B/depth3_leaf4_all": [
+      {
+        "fold": 1,
+        "train_n": 20,
+        "validation_n": 35,
+        "validation_group_ids": [
+          0
+        ]
+      },
+      {
+        "fold": 2,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          1
+        ]
+      },
+      {
+        "fold": 3,
+        "train_n": 45,
+        "validation_n": 10,
+        "validation_group_ids": [
+          8,
+          9
+        ]
+      }
+    ],
+    "spatial_block_500m_buffer/C/skipped": {
+      "reason": "quality train n=10 below preset minimum 30"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+validation,experiment,candidate,features,R2,RMSE,MAE
+random_80_20,baseline_reference,week04_rf,"ndvi,evi,ndmi",-0.6649476419591043,79.90220958923618,66.55731390052372
+random_80_20,A_features,base_plus_nbr,"ndvi,evi,ndmi,nbr_raw_ratio",-0.632393618992626,79.1172062398246,66.4319807891051
+random_80_20,A_features,base_plus_unused_raw_bands,"ndvi,evi,ndmi,raw_B03,raw_B12",-0.5480078013993828,77.04510856921029,63.68881771140629
+random_80_20,A_features,base_plus_nbr_and_raw,"ndvi,evi,ndmi,nbr_raw_ratio,raw_B03,raw_B12",-0.5396469658988323,76.83676542686142,63.45185126927164
+random_80_20,B_complexity,depth4_leaf2_all,"ndvi,evi,ndmi",-0.5930561473151723,78.15810847631178,64.67062683426269
+random_80_20,B_complexity,depth6_leaf3_two_thirds,"ndvi,evi,ndmi",-0.5796842116803638,77.82939199732795,64.46169016161714
+random_80_20,B_complexity,depth3_leaf4_all,"ndvi,evi,ndmi",-0.5297343206239171,76.58901853651562,63.06972892848132
+spatial_block_500m_buffer,baseline_reference,week04_rf,"ndvi,evi,ndmi",-0.7690664655587305,84.57071432877783,74.75323520157552
+spatial_block_500m_buffer,A_features,base_plus_nbr,"ndvi,evi,ndmi,nbr_raw_ratio",-0.7757776381771686,84.73097721501817,74.48407763585176
+spatial_block_500m_buffer,A_features,base_plus_unused_raw_bands,"ndvi,evi,ndmi,raw_B03,raw_B12",-0.5797578150016447,79.91773744948233,69.49450115134499
+spatial_block_500m_buffer,A_features,base_plus_nbr_and_raw,"ndvi,evi,ndmi,nbr_raw_ratio,raw_B03,raw_B12",-0.6300139049420275,81.1789778061548,70.23020266983725
+spatial_block_500m_buffer,B_complexity,depth4_leaf2_all,"ndvi,evi,ndmi",-0.7167954371148846,83.3119306892375,72.68954802744042
+spatial_block_500m_buffer,B_complexity,depth6_leaf3_two_thirds,"ndvi,evi,ndmi",-0.6633030088891285,82.003730638868,71.22636292435746
+spatial_block_500m_buffer,B_complexity,depth3_leaf4_all,"ndvi,evi,ndmi",-0.7514916571336634,84.1495814789673,72.71805645213601

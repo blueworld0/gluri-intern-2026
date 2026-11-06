@@ -1,0 +1,321 @@
+{
+  "files": [
+    {
+      "band": "B02",
+      "path": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B02_(Raw).tiff",
+      "crs": "EPSG:32652",
+      "shape": [
+        1244,
+        731
+      ],
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "nodatavals": [
+        null,
+        null
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ]
+    },
+    {
+      "band": "B03",
+      "path": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B03_(Raw).tiff",
+      "crs": "EPSG:32652",
+      "shape": [
+        1244,
+        731
+      ],
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "nodatavals": [
+        null,
+        null
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ]
+    },
+    {
+      "band": "B04",
+      "path": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B04_(Raw).tiff",
+      "crs": "EPSG:32652",
+      "shape": [
+        1244,
+        731
+      ],
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "nodatavals": [
+        null,
+        null
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ]
+    },
+    {
+      "band": "B08",
+      "path": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B08_(Raw).tiff",
+      "crs": "EPSG:32652",
+      "shape": [
+        1244,
+        731
+      ],
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "nodatavals": [
+        null,
+        null
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ]
+    },
+    {
+      "band": "B11",
+      "path": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B11_(Raw).tiff",
+      "crs": "EPSG:32652",
+      "shape": [
+        1244,
+        731
+      ],
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "nodatavals": [
+        null,
+        null
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ]
+    },
+    {
+      "band": "B12",
+      "path": "week03\\Sentinel-2\\2025-04-28\\2025-04-28-00_00_2025-04-28-23_59_Sentinel-2_L2A_B12_(Raw).tiff",
+      "crs": "EPSG:32652",
+      "shape": [
+        1244,
+        731
+      ],
+      "resolution_m": [
+        9.999338270861847,
+        9.9979186921221
+      ],
+      "bounds": [
+        500941.856816,
+        3897171.898472,
+        508251.373092,
+        3909609.309325
+      ],
+      "scales": [
+        1.0,
+        1.0
+      ],
+      "offsets": [
+        0.0,
+        0.0
+      ],
+      "nodatavals": [
+        null,
+        null
+      ],
+      "units": [
+        null,
+        null
+      ],
+      "descriptions": [
+        null,
+        null
+      ],
+      "dataset_tags": {
+        "TIFFTAG_XRESOLUTION": "1",
+        "TIFFTAG_YRESOLUTION": "1",
+        "TIFFTAG_RESOLUTIONUNIT": "1 (unitless)",
+        "AREA_OR_POINT": "Area"
+      },
+      "band_tags": [
+        {},
+        {}
+      ]
+    }
+  ],
+  "common_valid_pixel_n": 909212,
+  "point_count": 90,
+  "point_data_mask_invalid_n": 0,
+  "point_raw_65535_any_n": 0,
+  "point_raw_zero_any_n": 1,
+  "point_raster_pixel_duplicates_n": 0,
+  "coordinate_difference_m_max": 0.0,
+  "point_to_pixel_center_distance_m": {
+    "min": 0.3550452828234941,
+    "median": 3.907774681436237,
+    "max": 6.89790346240076
+  },
+  "nominal_date_gap_days": [
+    3
+  ],
+  "scl_native_values": {
+    "4": 90
+  },
+  "scl_aligned_values": {
+    "4": 90
+  },
+  "scl_cloud_or_shadow_n": 0,
+  "scl_boundary_disagreement_n": 0
+}
