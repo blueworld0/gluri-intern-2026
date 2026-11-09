@@ -1,0 +1,9 @@
+earthaccess
+h5py
+numpy
+scipy
+shapely
+pyproj
+pyshp
+matplotlib
+pypdf

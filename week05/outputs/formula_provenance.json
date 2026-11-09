@@ -1,0 +1,11 @@
+{
+  "urls": [
+    "https://raw.githubusercontent.com/cran/itcSegment/master/R/dbh.R",
+    "https://raw.githubusercontent.com/atkinsjeff/NEONForestAGB/main/data/MasterTaxonList.csv",
+    "https://ndownloader.figshare.com/files/45710721"
+  ],
+  "sha256": {
+    "MasterTaxonList.csv": "5e54bef4802edc05534c838b8691e217a43157c689cad7d72f4714fb1ae75187",
+    "itcSegment_dbh.R": "cb557adfb768953b0e94d3c439aaa72aae4053d1b041c93a85f5a1fcfd290060"
+  }
+}

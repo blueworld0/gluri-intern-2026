@@ -1,0 +1,127 @@
+stage,item,reason
+coordinates,NEON.PLA.D07.GRSM.00022,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00025,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00031A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00031B,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00070A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00399,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00400,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00416,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00418,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00718,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00724,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00769,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00824,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.00834,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.01336A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.01791,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.01876A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.01897,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.01928,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.01945A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.01949,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.02017A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.02215A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.02219A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.02277A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.02280,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.02428A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.02457,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.02563,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.02599,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.02852,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.03124,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.03284A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.05874,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.12605,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.12606,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.12621,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.12635,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.GRSM.12824,400 Client Error: Bad Request for url: https://data.neonscience.org/api/v0/locations/GRSM_057.basePlot.vst.33
+coordinates,NEON.PLA.D07.ORNL.00857,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.00881,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.00911,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.01455,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.01510,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.01575,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.01635,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.02561,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.02730,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.02972,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.03000,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04046,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04059,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04071,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04087,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04116,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04123,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04293,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04319,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04322,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04338A,정확한 stem offset 없음
+coordinates,NEON.PLA.D07.ORNL.04396,정확한 stem offset 없음
+footprints,GRSM_006,"조사 면적 불일치: polygon=362.3, totalSampledAreaTrees=400.0; 빈 소구획/조사 범위 확인"
+footprints,GRSM_004,"조사 면적 불일치: polygon=364.3, totalSampledAreaTrees=400.0; 빈 소구획/조사 범위 확인"
+footprints,GRSM_008,"조사 면적 불일치: polygon=359.3, totalSampledAreaTrees=400.0; 빈 소구획/조사 범위 확인"
+footprints,GRSM_025,"조사 면적 불일치: polygon=380.0, totalSampledAreaTrees=400.0; 빈 소구획/조사 범위 확인"
+footprints,GRSM_011,"조사 면적 불일치: polygon=375.6, totalSampledAreaTrees=400.0; 빈 소구획/조사 범위 확인"
+footprints,ORNL_003,"조사 면적 불일치: polygon=378.9, totalSampledAreaTrees=400.0; 빈 소구획/조사 범위 확인"
+footprints,ORNL_002,"조사 면적 불일치: polygon=365.8, totalSampledAreaTrees=400.0; 빈 소구획/조사 범위 확인"
+footprints,ORNL_008,"조사 면적 불일치: polygon=370.6, totalSampledAreaTrees=400.0; 빈 소구획/조사 범위 확인"
+footprints,ORNL_007,"조사 면적 불일치: polygon=377.5, totalSampledAreaTrees=400.0; 빈 소구획/조사 범위 확인"
+outside_sampled_area,NEON.PLA.D07.GRSM.01277,GRSM_047
+outside_sampled_area,NEON.PLA.D07.GRSM.01287,GRSM_047
+outside_sampled_area,NEON.PLA.D07.GRSM.00794,GRSM_049
+outside_sampled_area,NEON.PLA.D07.GRSM.00823,GRSM_049
+outside_sampled_area,NEON.PLA.D07.GRSM.01973,GRSM_050
+outside_sampled_area,NEON.PLA.D07.GRSM.01983,GRSM_050
+outside_sampled_area,NEON.PLA.D07.GRSM.01985,GRSM_050
+outside_sampled_area,NEON.PLA.D07.GRSM.02090,GRSM_050
+outside_sampled_area,NEON.PLA.D07.GRSM.02111,GRSM_050
+outside_sampled_area,NEON.PLA.D07.GRSM.02459,GRSM_001
+outside_sampled_area,NEON.PLA.D07.GRSM.02487,GRSM_001
+outside_sampled_area,NEON.PLA.D07.GRSM.02565,GRSM_017
+outside_sampled_area,NEON.PLA.D07.GRSM.02565A,GRSM_017
+outside_sampled_area,NEON.PLA.D07.GRSM.03462,GRSM_012
+outside_sampled_area,NEON.PLA.D07.GRSM.03527,GRSM_012
+outside_sampled_area,NEON.PLA.D07.GRSM.03529,GRSM_014
+outside_sampled_area,NEON.PLA.D07.GRSM.03606,GRSM_014
+outside_sampled_area,NEON.PLA.D07.GRSM.05980,GRSM_016
+outside_sampled_area,NEON.PLA.D07.GRSM.05199,GRSM_059
+outside_sampled_area,NEON.PLA.D07.GRSM.01780,GRSM_060
+outside_sampled_area,NEON.PLA.D07.GRSM.01815,GRSM_060
+outside_sampled_area,NEON.PLA.D07.ORNL.02667,ORNL_027
+outside_sampled_area,NEON.PLA.D07.ORNL.02668,ORNL_027
+outside_sampled_area,NEON.PLA.D07.ORNL.00977,ORNL_004
+outside_sampled_area,NEON.PLA.D07.ORNL.00996,ORNL_004
+outside_sampled_area,NEON.PLA.D07.ORNL.00997,ORNL_004
+outside_sampled_area,NEON.PLA.D07.ORNL.00998,ORNL_004
+outside_sampled_area,NEON.PLA.D07.ORNL.01312,ORNL_010
+outside_sampled_area,NEON.PLA.D07.ORNL.01456,ORNL_010
+outside_sampled_area,NEON.PLA.D07.ORNL.01503,ORNL_009
+outside_sampled_area,NEON.PLA.D07.ORNL.01545,ORNL_009
+outside_sampled_area,NEON.PLA.D07.ORNL.04047,ORNL_049
+outside_sampled_area,NEON.PLA.D07.ORNL.04130,ORNL_049
+outside_sampled_area,NEON.PLA.D07.ORNL.04287,ORNL_049
+outside_sampled_area,NEON.PLA.D07.ORNL.04288,ORNL_049
+outside_sampled_area,NEON.PLA.D07.ORNL.04313,ORNL_049
+outside_sampled_area,NEON.PLA.D07.ORNL.02738,ORNL_057
+outside_sampled_area,NEON.PLA.D07.ORNL.02765,ORNL_057
+outside_sampled_area,NEON.PLA.D07.ORNL.02919,ORNL_057
+CHM_nodata,GRSM_012_470,CHM 없음
+CHM_nodata,GRSM_014_618,CHM 없음
+CHM_nodata,GRSM_016_423,CHM 없음
+CHM_nodata,GRSM_016_436,CHM 없음
+CHM_nodata,GRSM_009_591,CHM 없음
+CHM_nodata,GRSM_055_510,CHM 없음
+CHM_nodata,GRSM_055_529,CHM 없음
+CHM_nodata,GRSM_055_539,CHM 없음
+CHM_nodata,GRSM_055_616,CHM 없음
+CHM_nodata,GRSM_058_401,CHM 없음
+CHM_nodata,GRSM_058_442,CHM 없음
+CHM_nodata,GRSM_058_613,CHM 없음
+CHM_nodata,GRSM_057_440,CHM 없음
+CHM_nodata,GRSM_057_575,CHM 없음
+CHM_nodata,GRSM_060_452,CHM 없음
+CHM_nodata,ORNL_001_608,CHM 없음
+CHM_nodata,ORNL_010_675,CHM 없음

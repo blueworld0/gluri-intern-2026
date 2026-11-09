@@ -1,0 +1,5 @@
+siteID,product,imagery_year,site_crs,expected_tiles,tiff_tiles,extensions,folder
+GRSM,DP3.30010.001,2021,EPSG:32617,9,10,.tif,/content/drive/MyDrive/neon_grsm_ornl/data/raw/aop/GRSM/DP3.30010.001
+GRSM,DP3.30015.001,2021,EPSG:32617,9,14,.tif,/content/drive/MyDrive/neon_grsm_ornl/data/raw/aop/GRSM/DP3.30015.001
+ORNL,DP3.30010.001,2021,EPSG:32616,7,7,.tif,/content/drive/MyDrive/neon_grsm_ornl/data/raw/aop/ORNL/2021/DP3.30010.001
+ORNL,DP3.30015.001,2021,EPSG:32616,7,7,.tif,/content/drive/MyDrive/neon_grsm_ornl/data/raw/aop/ORNL/2021/DP3.30015.001

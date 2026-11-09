@@ -1,0 +1,95 @@
+﻿field,code,label,lower_inclusive,upper_exclusive,definition_pdf_pages
+FRTP_CD,0,무립목지/비산림,,,4
+FRTP_CD,1,침엽수림,,,4
+FRTP_CD,2,활엽수림,,,4
+FRTP_CD,3,혼효림,,,4
+FRTP_CD,4,죽림,,,4
+KOFTR_GROU,11,소나무,,,4-6
+KOFTR_GROU,12,잣나무,,,4-6
+KOFTR_GROU,13,낙엽송,,,4-6
+KOFTR_GROU,14,리기다소나무,,,4-6
+KOFTR_GROU,15,곰솔,,,4-6
+KOFTR_GROU,16,잔나무,,,4-6
+KOFTR_GROU,17,편백나무,,,4-6
+KOFTR_GROU,18,삼나무,,,4-6
+KOFTR_GROU,19,가문비나무,,,4-6
+KOFTR_GROU,20,비자나무,,,4-6
+KOFTR_GROU,21,은행나무,,,4-6
+KOFTR_GROU,10,기타침엽수,,,4-6
+KOFTR_GROU,31,상수리나무,,,4-6
+KOFTR_GROU,32,신갈나무,,,4-6
+KOFTR_GROU,33,굴참나무,,,4-6
+KOFTR_GROU,34,기타참나무류,,,4-6
+KOFTR_GROU,35,오리나무,,,4-6
+KOFTR_GROU,36,고로쇠나무,,,4-6
+KOFTR_GROU,37,자작나무,,,4-6
+KOFTR_GROU,38,박달나무,,,4-6
+KOFTR_GROU,39,밤나무,,,4-6
+KOFTR_GROU,40,물푸레나무,,,4-6
+KOFTR_GROU,41,서어나무,,,4-6
+KOFTR_GROU,42,때죽나무,,,4-6
+KOFTR_GROU,43,호두나무,,,4-6
+KOFTR_GROU,44,백합나무,,,4-6
+KOFTR_GROU,45,포플러,,,4-6
+KOFTR_GROU,46,벚나무,,,4-6
+KOFTR_GROU,47,느티나무,,,4-6
+KOFTR_GROU,48,층층나무,,,4-6
+KOFTR_GROU,49,아까시나무,,,4-6
+KOFTR_GROU,30,기타활엽수,,,4-6
+KOFTR_GROU,61,가시나무,,,4-6
+KOFTR_GROU,62,구실잣밤나무,,,4-6
+KOFTR_GROU,63,녹나무,,,4-6
+KOFTR_GROU,64,굴거리나무,,,4-6
+KOFTR_GROU,65,황칠나무,,,4-6
+KOFTR_GROU,66,사스레피나무,,,4-6
+KOFTR_GROU,67,후박나무,,,4-6
+KOFTR_GROU,68,새덕이,,,4-6
+KOFTR_GROU,60,기타상록활엽수,,,4-6
+KOFTR_GROU,77,침활혼효림,,,4-6
+KOFTR_GROU,78,죽림,,,4-6
+KOFTR_GROU,81,미립목지,,,4-6
+KOFTR_GROU,82,제지,,,4-6
+KOFTR_GROU,83,관목덤불,,,4-6
+KOFTR_GROU,91,주거지,,,4-6
+KOFTR_GROU,92,초지,,,4-6
+KOFTR_GROU,93,경작지,,,4-6
+KOFTR_GROU,94,수체,,,4-6
+KOFTR_GROU,95,과수원,,,4-6
+KOFTR_GROU,99,기타,,,4-6
+DMCLS_CD,0,치수,0,6,6-7
+DMCLS_CD,1,소경목,6,18,6-7
+DMCLS_CD,2,중경목,18,30,6-7
+DMCLS_CD,3,대경목,30,,6-7
+AGCLS_CD,1,1영급,,,7
+AGCLS_CD,2,2영급,,,7
+AGCLS_CD,3,3영급,,,7
+AGCLS_CD,4,4영급,,,7
+AGCLS_CD,5,5영급,,,7
+AGCLS_CD,6,6영급,,,7
+AGCLS_CD,7,7영급,,,7
+AGCLS_CD,8,8영급,,,7
+AGCLS_CD,9,9영급,,,7
+DNST_CD,A,소,,,7-8
+DNST_CD,B,중,,,7-8
+DNST_CD,C,밀,,,7-8
+HEIGHT,00,0m 이상 1m 미만,0.0,1.0,8-9
+HEIGHT,02,1m 이상 3m 미만,1.0,3.0,8-9
+HEIGHT,04,3m 이상 5m 미만,3.0,5.0,8-9
+HEIGHT,06,5m 이상 7m 미만,5.0,7.0,8-9
+HEIGHT,08,7m 이상 9m 미만,7.0,9.0,8-9
+HEIGHT,10,9m 이상 11m 미만,9.0,11.0,8-9
+HEIGHT,12,11m 이상 13m 미만,11.0,13.0,8-9
+HEIGHT,14,13m 이상 15m 미만,13.0,15.0,8-9
+HEIGHT,16,15m 이상 17m 미만,15.0,17.0,8-9
+HEIGHT,18,17m 이상 19m 미만,17.0,19.0,8-9
+HEIGHT,20,19m 이상 21m 미만,19.0,21.0,8-9
+HEIGHT,22,21m 이상 23m 미만,21.0,23.0,8-9
+HEIGHT,24,23m 이상 25m 미만,23.0,25.0,8-9
+HEIGHT,26,25m 이상 27m 미만,25.0,27.0,8-9
+HEIGHT,28,27m 이상 29m 미만,27.0,29.0,8-9
+HEIGHT,30,29m 이상 31m 미만,29.0,31.0,8-9
+HEIGHT,32,31m 이상 33m 미만,31.0,33.0,8-9
+HEIGHT,34,33m 이상 35m 미만,33.0,35.0,8-9
+HEIGHT,36,35m 이상 37m 미만,35.0,37.0,8-9
+HEIGHT,38,37m 이상 39m 미만,37.0,39.0,8-9
+HEIGHT,40,39m 이상 ,39.0,,8-9

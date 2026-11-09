@@ -1,0 +1,4 @@
+﻿threshold_Mg_ha,input_points,invalid_target,above_threshold,missing_features_after_target_filter,training_points,spatial_blocks
+400,3635,0,131,231,3273,91
+600,3635,0,52,237,3346,91
+800,3635,0,41,237,3357,91

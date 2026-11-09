@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>금정산 통합 현장 방문 목록: 야장50 + GEDI25</name><description>야장2009-2010, GEDI2019-2025, 임상도2013/2025의 시점 차이에 유의. 야장 좌표는 원문 측지계 미기재. 숲 연결은 근사 주능선 참고선 기준이며 지형학적 산 경계가 아님.</description><Style id="plot"><IconStyle><color>ffff8800</color><scale>0.8</scale></IconStyle></Style><Style id="gedi"><IconStyle><color>ff0000ff</color><scale>0.8</scale></IconStyle></Style><Style id="review"><IconStyle><color>ff00aaff</color><scale>0.8</scale></IconStyle></Style><Folder><name>야장 조사구</name><Placemark><name>중앙-01</name><styleUrl>#plot</styleUrl><description>야장 조사구: 중앙-01 / 중앙
+GEDI+야장 동시 비교 가능
+연계 야장: 중앙-01
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 4영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 22.00cm, 평균 수고 11.33m
+100m 이내 품질 GEDI 1점 / 후보 외 품질점</description><Point><coordinates>129.064444444,35.246388889,0</coordinates></Point></Placemark><Placemark><name>중앙-02</name><styleUrl>#plot</styleUrl><description>야장 조사구: 중앙-02 / 중앙
+100m 이내 품질 GEDI 없음
+연계 야장: 중앙-02
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 12
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 리기다소나무, 평균 DBH 23.83cm, 평균 수고 10.25m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.065000000,35.245555556,0</coordinates></Point></Placemark><Placemark><name>중앙-03</name><styleUrl>#plot</styleUrl><description>야장 조사구: 중앙-03 / 중앙
+100m 이내 품질 GEDI 없음
+연계 야장: 중앙-03
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 4영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 곰솔, 평균 DBH 17.71cm, 평균 수고 9.15m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.066388889,35.251111111,0</coordinates></Point></Placemark><Placemark><name>중앙-04</name><styleUrl>#plot</styleUrl><description>야장 조사구: 중앙-04 / 중앙
+GEDI+야장 동시 비교 가능
+연계 야장: 중앙-04
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 4영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 곰솔, 평균 DBH 20.84cm, 평균 수고 11.10m
+100m 이내 품질 GEDI 3점 / 후보 외 품질점</description><Point><coordinates>129.066388889,35.252500000,0</coordinates></Point></Placemark><Placemark><name>중앙-05</name><styleUrl>#plot</styleUrl><description>야장 조사구: 중앙-05 / 중앙
+GEDI+야장 동시 비교 가능
+연계 야장: 중앙-05
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 4영급, 임분고 코드 06
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 리기다소나무, 평균 DBH 13.18cm, 평균 수고 6.41m
+100m 이내 품질 GEDI 2점 / 후보 외 품질점</description><Point><coordinates>129.063888889,35.260277778,0</coordinates></Point></Placemark><Placemark><name>중앙-06</name><styleUrl>#plot</styleUrl><description>야장 조사구: 중앙-06 / 중앙
+GEDI+야장 동시 비교 가능
+연계 야장: 중앙-06
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 4.90cm, 평균 수고 2.50m
+100m 이내 품질 GEDI 3점 / 후보 외 품질점</description><Point><coordinates>129.065000000,35.259722222,0</coordinates></Point></Placemark><Placemark><name>중앙-07</name><styleUrl>#plot</styleUrl><description>야장 조사구: 중앙-07 / 중앙
+GEDI+야장 동시 비교 가능
+연계 야장: 중앙-07
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 4영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소사나무, 평균 DBH 8.75cm, 평균 수고 4.81m
+100m 이내 품질 GEDI 2점 / 후보 외 품질점</description><Point><coordinates>129.061111111,35.267500000,0</coordinates></Point></Placemark><Placemark><name>중앙-08</name><styleUrl>#plot</styleUrl><description>야장 조사구: 중앙-08 / 중앙
+GEDI+야장 동시 비교 가능
+연계 야장: 중앙-08
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 4영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 7.23cm, 평균 수고 3.92m
+100m 이내 품질 GEDI 3점 / 후보 외 품질점</description><Point><coordinates>129.061111111,35.267777778,0</coordinates></Point></Placemark><Placemark><name>중앙-09</name><styleUrl>#plot</styleUrl><description>야장 조사구: 중앙-09 / 중앙
+100m 이내 품질 GEDI 없음
+연계 야장: 중앙-09
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타활엽수, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 15.38cm, 평균 수고 11.28m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.058333333,35.274444444,0</coordinates></Point></Placemark><Placemark><name>중앙-10</name><styleUrl>#plot</styleUrl><description>야장 조사구: 중앙-10 / 중앙
+100m 이내 품질 GEDI 없음
+연계 야장: 중앙-10
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타활엽수, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 떡갈나무, 평균 DBH 9.71cm, 평균 수고 4.83m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.058611111,35.274166667,0</coordinates></Point></Placemark><Placemark><name>동측-01</name><styleUrl>#plot</styleUrl><description>야장 조사구: 동측-01 / 동측
+100m 이내 품질 GEDI 없음
+연계 야장: 동측-01
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 대경목, 7영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 16.00cm, 평균 수고 11.36m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.071388889,35.282500000,0</coordinates></Point></Placemark><Placemark><name>동측-02</name><styleUrl>#plot</styleUrl><description>야장 조사구: 동측-02 / 동측
+100m 이내 품질 GEDI 없음
+연계 야장: 동측-02
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 편백나무, 대경목, 5영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 25.83cm, 평균 수고 18.06m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.072222222,35.281388889,0</coordinates></Point></Placemark><Placemark><name>동측-03</name><styleUrl>#plot</styleUrl><description>야장 조사구: 동측-03 / 동측
+GEDI+야장 동시 비교 가능
+연계 야장: 동측-03
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타활엽수, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 개서어나무, 평균 DBH 17.96cm, 평균 수고 14.12m
+100m 이내 품질 GEDI 1점 / 후보 외 품질점</description><Point><coordinates>129.070555556,35.273611111,0</coordinates></Point></Placemark><Placemark><name>동측-04</name><styleUrl>#plot</styleUrl><description>야장 조사구: 동측-04 / 동측
+100m 이내 품질 GEDI 없음
+연계 야장: 동측-04
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타활엽수, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 굴참나무, 평균 DBH 18.76cm, 평균 수고 15.51m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.069722222,35.271666667,0</coordinates></Point></Placemark><Placemark><name>동측-05</name><styleUrl>#plot</styleUrl><description>야장 조사구: 동측-05 / 동측
+100m 이내 품질 GEDI 없음
+연계 야장: 동측-05
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 18
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 23.55cm, 평균 수고 18.18m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.069166667,35.270555556,0</coordinates></Point></Placemark><Placemark><name>동측-06</name><styleUrl>#plot</styleUrl><description>야장 조사구: 동측-06 / 동측
+100m 이내 품질 GEDI 없음
+연계 야장: 동측-06
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 08
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 20.16cm, 평균 수고 17.39m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.066944444,35.269166667,0</coordinates></Point></Placemark><Placemark><name>동측-07</name><styleUrl>#plot</styleUrl><description>야장 조사구: 동측-07 / 동측
+100m 이내 품질 GEDI 없음
+연계 야장: 동측-07
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 4영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 21.80cm, 평균 수고 17.29m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.066944444,35.267500000,0</coordinates></Point></Placemark><Placemark><name>동측-08</name><styleUrl>#plot</styleUrl><description>야장 조사구: 동측-08 / 동측
+100m 이내 품질 GEDI 없음
+연계 야장: 동측-08
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타활엽수, 중경목, 4영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 19.38cm, 평균 수고 13.35m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.063888889,35.262500000,0</coordinates></Point></Placemark><Placemark><name>동측-09</name><styleUrl>#plot</styleUrl><description>야장 조사구: 동측-09 / 동측
+100m 이내 품질 GEDI 없음
+연계 야장: 동측-09
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 18.20cm, 평균 수고 16.33m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.068333333,35.261388889,0</coordinates></Point></Placemark><Placemark><name>동측-10</name><styleUrl>#plot</styleUrl><description>야장 조사구: 동측-10 / 동측
+100m 이내 품질 GEDI 없음
+연계 야장: 동측-10
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 04
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 20.53cm, 평균 수고 17.76m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.069722222,35.260000000,0</coordinates></Point></Placemark><Placemark><name>서측-01</name><styleUrl>#plot</styleUrl><description>야장 조사구: 서측-01 / 서측
+100m 이내 품질 GEDI 없음
+연계 야장: 서측-01
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 소나무, 중경목, 4영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 16.86cm, 평균 수고 13.46m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.017500000,35.246666667,0</coordinates></Point></Placemark><Placemark><name>서측-02</name><styleUrl>#plot</styleUrl><description>야장 조사구: 서측-02 / 서측
+100m 이내 품질 GEDI 없음
+연계 야장: 서측-02
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 18
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 16.68cm, 평균 수고 13.68m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.020555556,35.249166667,0</coordinates></Point></Placemark><Placemark><name>서측-03</name><styleUrl>#plot</styleUrl><description>야장 조사구: 서측-03 / 서측
+GEDI+야장 동시 비교 가능
+연계 야장: 서측-03
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 18
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 19.11cm, 평균 수고 18.47m
+100m 이내 품질 GEDI 3점 / 후보 외 품질점</description><Point><coordinates>129.025555556,35.253333333,0</coordinates></Point></Placemark><Placemark><name>서측-04</name><styleUrl>#plot</styleUrl><description>야장 조사구: 서측-04 / 서측
+100m 이내 품질 GEDI 없음
+연계 야장: 서측-04
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 18
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 곰솔, 평균 DBH 18.11cm, 평균 수고 15.00m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.031666667,35.256666667,0</coordinates></Point></Placemark><Placemark><name>서측-05</name><styleUrl>#plot</styleUrl><description>야장 조사구: 서측-05 / 서측
+100m 이내 품질 GEDI 없음
+연계 야장: 서측-05
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 10
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 곰솔, 평균 DBH 16.00cm, 평균 수고 10.96m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.036944444,35.261111111,0</coordinates></Point></Placemark><Placemark><name>서측-06</name><styleUrl>#plot</styleUrl><description>야장 조사구: 서측-06 / 서측
+GEDI+야장 동시 비교 가능
+연계 야장: 서측-06
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 12
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 상수리나무, 평균 DBH 15.71cm, 평균 수고 13.71m
+100m 이내 품질 GEDI 1점 / 후보 외 품질점</description><Point><coordinates>129.038611111,35.262500000,0</coordinates></Point></Placemark><Placemark><name>서측-07</name><styleUrl>#plot</styleUrl><description>야장 조사구: 서측-07 / 서측
+100m 이내 품질 GEDI 없음
+연계 야장: 서측-07
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 04
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 상수리나무, 평균 DBH 13.00cm, 평균 수고 10.43m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.043055556,35.268888889,0</coordinates></Point></Placemark><Placemark><name>서측-08</name><styleUrl>#plot</styleUrl><description>야장 조사구: 서측-08 / 서측
+GEDI+야장 동시 비교 가능
+연계 야장: 서측-08
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 06
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 11.24cm, 평균 수고 7.18m
+100m 이내 품질 GEDI 2점 / 후보 외 품질점</description><Point><coordinates>129.046944444,35.273888889,0</coordinates></Point></Placemark><Placemark><name>서측-09</name><styleUrl>#plot</styleUrl><description>야장 조사구: 서측-09 / 서측
+100m 이내 품질 GEDI 없음
+연계 야장: 서측-09
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 16.41cm, 평균 수고 10.76m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.048611111,35.276944444,0</coordinates></Point></Placemark><Placemark><name>서측-10</name><styleUrl>#plot</styleUrl><description>야장 조사구: 서측-10 / 서측
+100m 이내 품질 GEDI 없음
+연계 야장: 서측-10
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 4영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 8.61cm, 평균 수고 9.09m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.049722222,35.279444444,0</coordinates></Point></Placemark><Placemark><name>남측-01</name><styleUrl>#plot</styleUrl><description>야장 조사구: 남측-01 / 남측
+100m 이내 품질 GEDI 없음
+연계 야장: 남측-01
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 4영급, 임분고 코드 22
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 18.15cm, 평균 수고 15.15m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.061388889,35.241388889,0</coordinates></Point></Placemark><Placemark><name>남측-02</name><styleUrl>#plot</styleUrl><description>야장 조사구: 남측-02 / 남측
+GEDI+야장 동시 비교 가능
+연계 야장: 남측-02
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 4영급, 임분고 코드 24
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 15.52cm, 평균 수고 13.56m
+100m 이내 품질 GEDI 3점 / 후보 외 품질점</description><Point><coordinates>129.061666667,35.239166667,0</coordinates></Point></Placemark><Placemark><name>남측-03</name><styleUrl>#plot</styleUrl><description>야장 조사구: 남측-03 / 남측
+100m 이내 품질 GEDI 없음
+연계 야장: 남측-03
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 20
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 곰솔, 평균 DBH 16.69cm, 평균 수고 13.37m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.061388889,35.236944444,0</coordinates></Point></Placemark><Placemark><name>남측-04</name><styleUrl>#plot</styleUrl><description>야장 조사구: 남측-04 / 남측
+GEDI+야장 동시 비교 가능
+연계 야장: 남측-04
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 18
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 곰솔, 평균 DBH 22.57cm, 평균 수고 15.36m
+100m 이내 품질 GEDI 3점 / 후보 외 품질점</description><Point><coordinates>129.059166667,35.233055556,0</coordinates></Point></Placemark><Placemark><name>남측-05</name><styleUrl>#plot</styleUrl><description>야장 조사구: 남측-05 / 남측
+100m 이내 품질 GEDI 없음
+연계 야장: 남측-05
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타활엽수, 중경목, 4영급, 임분고 코드 10
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 20.31cm, 평균 수고 14.08m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.058333333,35.229722222,0</coordinates></Point></Placemark><Placemark><name>남측-06</name><styleUrl>#plot</styleUrl><description>야장 조사구: 남측-06 / 남측
+100m 이내 품질 GEDI 없음
+연계 야장: 남측-06
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 10
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 곰솔, 평균 DBH 21.30cm, 평균 수고 15.39m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.056388889,35.228055556,0</coordinates></Point></Placemark><Placemark><name>남측-07</name><styleUrl>#plot</styleUrl><description>야장 조사구: 남측-07 / 남측
+100m 이내 품질 GEDI 없음
+연계 야장: 남측-07
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 10
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 곰솔, 평균 DBH 22.15cm, 평균 수고 16.70m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.056388889,35.224166667,0</coordinates></Point></Placemark><Placemark><name>남측-08</name><styleUrl>#plot</styleUrl><description>야장 조사구: 남측-08 / 남측
+100m 이내 품질 GEDI 없음
+연계 야장: 남측-08
+연계 GEDI 후보: 
+2025 임상도: 침엽수림, 곰솔, 중경목, 4영급, 임분고 코드 20
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 곰솔, 평균 DBH 20.43cm, 평균 수고 17.54m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.053888889,35.218611111,0</coordinates></Point></Placemark><Placemark><name>남측-09</name><styleUrl>#plot</styleUrl><description>야장 조사구: 남측-09 / 남측
+GEDI+야장 동시 비교 가능
+연계 야장: 남측-09
+연계 GEDI 후보: S17
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 20
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 곰솔, 평균 DBH 19.03cm, 평균 수고 18.21m
+100m 이내 품질 GEDI 19점 / 선정 후보25곳</description><Point><coordinates>129.052777778,35.215555556,0</coordinates></Point></Placemark><Placemark><name>남측-10</name><styleUrl>#plot</styleUrl><description>야장 조사구: 남측-10 / 남측
+GEDI+야장 동시 비교 가능
+연계 야장: 남측-10
+연계 GEDI 후보: 
+2025 임상도: , , , , 임분고 코드 
+주능선 연결: 2025 숲 폴리곤 밖
+
+야장 우점 곰솔, 평균 DBH 25.29cm, 평균 수고 18.58m
+100m 이내 품질 GEDI 2점 / 후보 외 품질점</description><Point><coordinates>129.051666667,35.211944444,0</coordinates></Point></Placemark><Placemark><name>북측-01</name><styleUrl>#plot</styleUrl><description>야장 조사구: 북측-01 / 북측
+100m 이내 품질 GEDI 없음
+연계 야장: 북측-01
+연계 GEDI 후보: 
+2025 임상도: 무립목지/비산림, 제지, , , 임분고 코드 
+주능선 연결: 2025 숲 폴리곤 밖
+
+야장 우점 소나무, 평균 DBH 7.77cm, 평균 수고 4.27m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.049722222,35.282500000,0</coordinates></Point></Placemark><Placemark><name>북측-02</name><styleUrl>#plot</styleUrl><description>야장 조사구: 북측-02 / 북측
+GEDI+야장 동시 비교 가능
+연계 야장: 북측-02
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 10.94cm, 평균 수고 7.47m
+100m 이내 품질 GEDI 2점 / 후보 외 품질점</description><Point><coordinates>129.051944444,35.287500000,0</coordinates></Point></Placemark><Placemark><name>북측-03</name><styleUrl>#plot</styleUrl><description>야장 조사구: 북측-03 / 북측
+100m 이내 품질 GEDI 없음
+연계 야장: 북측-03
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 12.23cm, 평균 수고 9.46m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.052222222,35.288888889,0</coordinates></Point></Placemark><Placemark><name>북측-04</name><styleUrl>#plot</styleUrl><description>야장 조사구: 북측-04 / 북측
+100m 이내 품질 GEDI 없음
+연계 야장: 북측-04
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 상수리나무, 평균 DBH 12.47cm, 평균 수고 9.82m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.056666667,35.291666667,0</coordinates></Point></Placemark><Placemark><name>북측-05</name><styleUrl>#plot</styleUrl><description>야장 조사구: 북측-05 / 북측
+100m 이내 품질 GEDI 없음
+연계 야장: 북측-05
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 08
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 12.50cm, 평균 수고 8.17m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.058055556,35.294166667,0</coordinates></Point></Placemark><Placemark><name>북측-06</name><styleUrl>#plot</styleUrl><description>야장 조사구: 북측-06 / 북측
+100m 이내 품질 GEDI 없음
+연계 야장: 북측-06
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 08
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 소나무, 평균 DBH 13.06cm, 평균 수고 7.11m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.054722222,35.300277778,0</coordinates></Point></Placemark><Placemark><name>북측-07</name><styleUrl>#plot</styleUrl><description>야장 조사구: 북측-07 / 북측
+100m 이내 품질 GEDI 없음
+연계 야장: 북측-07
+연계 GEDI 후보: 
+2025 임상도: 무립목지/비산림, 제지, , , 임분고 코드 
+주능선 연결: 2025 숲 폴리곤 밖
+
+야장 우점 신갈나무, 평균 DBH 9.20cm, 평균 수고 3.88m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.053611111,35.302500000,0</coordinates></Point></Placemark><Placemark><name>북측-08</name><styleUrl>#plot</styleUrl><description>야장 조사구: 북측-08 / 북측
+100m 이내 품질 GEDI 없음
+연계 야장: 북측-08
+연계 GEDI 후보: 
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 06
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 13.63cm, 평균 수고 7.97m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.053055556,35.305000000,0</coordinates></Point></Placemark><Placemark><name>북측-09</name><styleUrl>#plot</styleUrl><description>야장 조사구: 북측-09 / 북측
+100m 이내 품질 GEDI 없음
+연계 야장: 북측-09
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 신갈나무, 평균 DBH 12.21cm, 평균 수고 9.24m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.054444444,35.305833333,0</coordinates></Point></Placemark><Placemark><name>북측-10</name><styleUrl>#plot</styleUrl><description>야장 조사구: 북측-10 / 북측
+100m 이내 품질 GEDI 없음
+연계 야장: 북측-10
+연계 GEDI 후보: 
+2025 임상도: 활엽수림, 기타활엽수, 중경목, 5영급, 임분고 코드 08
+주능선 연결: 주능선 참고선 연결
+
+야장 우점 비목나무, 평균 DBH 16.32cm, 평균 수고 12.16m
+100m 이내 품질 GEDI 0점 / </description><Point><coordinates>129.055833333,35.308611111,0</coordinates></Point></Placemark></Folder><Folder><name>GEDI 후보</name><Placemark><name>S01</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S01 / 부산대 부산캠퍼스
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S01
+2025 임상도: 침엽수림, 곰솔, 대경목, 6영급, 임분고 코드 22
+주능선 연결: 주능선 참고선 연결
+캠퍼스(타 산 판정 제외)
+GEDI AGBD 112.1 Mg/ha (2020-03-14)</description><Point><coordinates>129.075482696,35.231938127,0</coordinates></Point></Placemark><Placemark><name>S02</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S02 / 부산대 부산캠퍼스
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S02
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 22
+주능선 연결: 주능선 참고선 연결
+캠퍼스(타 산 판정 제외)
+GEDI AGBD 116.9 Mg/ha (2020-03-14)</description><Point><coordinates>129.074099860,35.230888820,0</coordinates></Point></Placemark><Placemark><name>S03</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S03 / 부산대 부산캠퍼스
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S03
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 22
+주능선 연결: 주능선 참고선 연결
+캠퍼스(타 산 판정 제외)
+GEDI AGBD 127.4 Mg/ha (2020-03-06)</description><Point><coordinates>129.074290406,35.231592041,0</coordinates></Point></Placemark><Placemark><name>S04</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S04 / 부산대 부산캠퍼스
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S04
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 22
+주능선 연결: 주능선 참고선 연결
+캠퍼스(타 산 판정 제외)
+GEDI AGBD 135.5 Mg/ha (2020-03-14)</description><Point><coordinates>129.074560710,35.231238505,0</coordinates></Point></Placemark><Placemark><name>S05</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S05 / 부산대 부산캠퍼스
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S05
+2025 임상도: , , , , 임분고 코드 
+주능선 연결: 2025 숲 폴리곤 밖
+캠퍼스(타 산 판정 제외)
+GEDI AGBD 38.1 Mg/ha (2020-03-06)</description><Point><coordinates>129.077059184,35.233688262,0</coordinates></Point></Placemark><Placemark><name>S06</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S06 / 부산대 부산캠퍼스
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S06
+2025 임상도: 침엽수림, 곰솔, 대경목, 6영급, 임분고 코드 22
+주능선 연결: 주능선 참고선 연결
+캠퍼스(타 산 판정 제외)
+GEDI AGBD 169.0 Mg/ha (2020-03-14)</description><Point><coordinates>129.075021847,35.231588459,0</coordinates></Point></Placemark><Placemark><name>S07</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S07 / 부산대 부산캠퍼스
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S07
+2025 임상도: 침엽수림, 곰솔, 대경목, 6영급, 임분고 코드 22
+주능선 연결: 주능선 참고선 연결
+캠퍼스(타 산 판정 제외)
+GEDI AGBD 148.4 Mg/ha (2020-03-06)</description><Point><coordinates>129.074752537,35.231941422,0</coordinates></Point></Placemark><Placemark><name>S08</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S08 / 부산대 부산캠퍼스
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S08
+2025 임상도: , , , , 임분고 코드 
+주능선 연결: 2025 숲 폴리곤 밖
+캠퍼스(타 산 판정 제외)
+GEDI AGBD 112.7 Mg/ha (2020-03-06)</description><Point><coordinates>129.077525009,35.234035826,0</coordinates></Point></Placemark><Placemark><name>S09</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S09 / 부산대 부산캠퍼스
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S09
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 22
+주능선 연결: 주능선 참고선 연결
+캠퍼스(타 산 판정 제외)
+GEDI AGBD 167.5 Mg/ha (2025-04-25)</description><Point><coordinates>129.073961701,35.232362969,0</coordinates></Point></Placemark><Placemark><name>S10</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S10 / 부산대 부산캠퍼스
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S10
+2025 임상도: 침엽수림, 곰솔, 대경목, 6영급, 임분고 코드 22
+주능선 연결: 주능선 참고선 연결
+캠퍼스(타 산 판정 제외)
+GEDI AGBD 185.0 Mg/ha (2020-03-14)</description><Point><coordinates>129.076867966,35.232989777,0</coordinates></Point></Placemark><Placemark><name>S11</name><styleUrl>#review</styleUrl><description>GEDI 후보: S11 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S11
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 비연결
+다른 산 후보(아홉산둘레길)
+GEDI AGBD 34.5 Mg/ha (2020-03-14)</description><Point><coordinates>129.113808569,35.253329273,0</coordinates></Point></Placemark><Placemark><name>S12</name><styleUrl>#review</styleUrl><description>GEDI 후보: S12 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S12
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 26
+주능선 연결: 10m 이내 틈 민감·현장확인
+다른 산 후보(백양산)
+GEDI AGBD 79.0 Mg/ha (2020-03-06)</description><Point><coordinates>129.046663524,35.202967229,0</coordinates></Point></Placemark><Placemark><name>S13</name><styleUrl>#review</styleUrl><description>GEDI 후보: S13 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S13
+2025 임상도: , , , , 임분고 코드 
+주능선 연결: 2025 숲 폴리곤 밖
+임상도 숲 밖·GPS/경계 확인
+GEDI AGBD 59.2 Mg/ha (2024-05-09)</description><Point><coordinates>129.029815645,35.256806169,0</coordinates></Point></Placemark><Placemark><name>S14</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S14 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S14
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 18
+주능선 연결: 주능선 참고선 연결
+금정산 주능선 연결
+GEDI AGBD 99.7 Mg/ha (2020-02-02)</description><Point><coordinates>129.017757625,35.248531568,0</coordinates></Point></Placemark><Placemark><name>S15</name><styleUrl>#review</styleUrl><description>GEDI 후보: S15 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S15
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 18
+주능선 연결: 주능선 참고선 비연결
+다른 산 후보(윤산둘레길)
+GEDI AGBD 131.1 Mg/ha (2020-03-14)</description><Point><coordinates>129.099650038,35.234178927,0</coordinates></Point></Placemark><Placemark><name>S16</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S16 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S16
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 08
+주능선 연결: 주능선 참고선 연결
+금정산 주능선 연결
+GEDI AGBD 40.9 Mg/ha (2020-09-12)</description><Point><coordinates>129.032128421,35.279565325,0</coordinates></Point></Placemark><Placemark><name>S17</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S17 / 금정산 일대
+GEDI+야장 동시 비교 가능
+연계 야장: 남측-09
+연계 GEDI 후보: S17
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 20
+주능선 연결: 주능선 참고선 연결
+금정산 주능선 연결
+GEDI AGBD 60.3 Mg/ha (2020-03-14)</description><Point><coordinates>129.052891666,35.214782552,0</coordinates></Point></Placemark><Placemark><name>S18</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S18 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S18
+2025 임상도: 혼효림, 침활혼효림, 중경목, 5영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 연결
+금정산 주능선 연결
+GEDI AGBD 145.6 Mg/ha (2020-09-12)</description><Point><coordinates>129.035266735,35.259176981,0</coordinates></Point></Placemark><Placemark><name>S19</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S19 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S19
+2025 임상도: 침엽수림, 곰솔, 대경목, 5영급, 임분고 코드 12
+주능선 연결: 주능선 참고선 연결
+금정산 주능선 연결
+GEDI AGBD 144.9 Mg/ha (2024-05-09)</description><Point><coordinates>129.062345978,35.225162912,0</coordinates></Point></Placemark><Placemark><name>S20</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S20 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S20
+2025 임상도: 침엽수림, 곰솔, 중경목, 4영급, 임분고 코드 20
+주능선 연결: 주능선 참고선 연결
+금정산 주능선 연결
+GEDI AGBD 72.9 Mg/ha (2019-12-14)</description><Point><coordinates>129.015044468,35.220717884,0</coordinates></Point></Placemark><Placemark><name>S21</name><styleUrl>#gedi</styleUrl><description>GEDI 후보: S21 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S21
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 22
+주능선 연결: 주능선 참고선 연결
+금정산 주능선 연결
+GEDI AGBD 82.4 Mg/ha (2020-03-14)</description><Point><coordinates>129.067623497,35.225967711,0</coordinates></Point></Placemark><Placemark><name>S22</name><styleUrl>#review</styleUrl><description>GEDI 후보: S22 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S22
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 14
+주능선 연결: 주능선 참고선 비연결
+다른 산 후보(윤산둘레길)
+GEDI AGBD 72.7 Mg/ha (2020-03-06)</description><Point><coordinates>129.104778147,35.238618801,0</coordinates></Point></Placemark><Placemark><name>S23</name><styleUrl>#review</styleUrl><description>GEDI 후보: S23 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S23
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 08
+주능선 연결: 주능선 참고선 비연결
+다른 산 후보(아홉산둘레길)
+GEDI AGBD 55.2 Mg/ha (2021-07-11)</description><Point><coordinates>129.118956252,35.252084471,0</coordinates></Point></Placemark><Placemark><name>S24</name><styleUrl>#review</styleUrl><description>GEDI 후보: S24 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S24
+2025 임상도: 침엽수림, 곰솔, 중경목, 5영급, 임분고 코드 18
+주능선 연결: 주능선 참고선 비연결
+다른 산 후보(윤산)
+GEDI AGBD 139.7 Mg/ha (2020-03-06)</description><Point><coordinates>129.102038806,35.236516607,0</coordinates></Point></Placemark><Placemark><name>S25</name><styleUrl>#review</styleUrl><description>GEDI 후보: S25 / 금정산 일대
+100m 이내 야장 없음
+연계 야장: 
+연계 GEDI 후보: S25
+2025 임상도: 활엽수림, 기타참나무류, 중경목, 5영급, 임분고 코드 16
+주능선 연결: 주능선 참고선 비연결
+다른 산 후보(윤산둘레길)
+GEDI AGBD 38.1 Mg/ha (2020-03-14)</description><Point><coordinates>129.102590836,35.228829222,0</coordinates></Point></Placemark></Folder></Document></kml>

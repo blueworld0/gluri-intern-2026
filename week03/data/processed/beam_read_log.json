@@ -1,0 +1,674 @@
+[
+  {
+    "file": "GEDI04_A_2021151114355_O13969_03_T03821_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 442
+  },
+  {
+    "file": "GEDI04_A_2021151114355_O13969_03_T03821_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 442
+  },
+  {
+    "file": "GEDI04_A_2021151114355_O13969_03_T03821_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 443
+  },
+  {
+    "file": "GEDI04_A_2021151114355_O13969_03_T03821_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 444
+  },
+  {
+    "file": "GEDI04_A_2021151114355_O13969_03_T03821_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 441
+  },
+  {
+    "file": "GEDI04_A_2021151114355_O13969_03_T03821_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 420
+  },
+  {
+    "file": "GEDI04_A_2021151114355_O13969_03_T03821_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 386
+  },
+  {
+    "file": "GEDI04_A_2021151114355_O13969_03_T03821_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 368
+  },
+  {
+    "file": "GEDI04_A_2021152044553_O13980_02_T00527_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021152044553_O13980_02_T00527_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021152044553_O13980_02_T00527_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021152044553_O13980_02_T00527_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021152044553_O13980_02_T00527_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021152044553_O13980_02_T00527_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021152044553_O13980_02_T00527_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021152044553_O13980_02_T00527_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021155101109_O14030_03_T08243_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 134
+  },
+  {
+    "file": "GEDI04_A_2021155101109_O14030_03_T08243_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 157
+  },
+  {
+    "file": "GEDI04_A_2021155101109_O14030_03_T08243_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 172
+  },
+  {
+    "file": "GEDI04_A_2021155101109_O14030_03_T08243_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 193
+  },
+  {
+    "file": "GEDI04_A_2021155101109_O14030_03_T08243_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 223
+  },
+  {
+    "file": "GEDI04_A_2021155101109_O14030_03_T08243_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 246
+  },
+  {
+    "file": "GEDI04_A_2021155101109_O14030_03_T08243_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 276
+  },
+  {
+    "file": "GEDI04_A_2021155101109_O14030_03_T08243_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 296
+  },
+  {
+    "file": "GEDI04_A_2021159083819_O14091_03_T00975_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 403
+  },
+  {
+    "file": "GEDI04_A_2021159083819_O14091_03_T00975_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 382
+  },
+  {
+    "file": "GEDI04_A_2021159083819_O14091_03_T00975_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 367
+  },
+  {
+    "file": "GEDI04_A_2021159083819_O14091_03_T00975_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 344
+  },
+  {
+    "file": "GEDI04_A_2021159083819_O14091_03_T00975_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 313
+  },
+  {
+    "file": "GEDI04_A_2021159083819_O14091_03_T00975_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 288
+  },
+  {
+    "file": "GEDI04_A_2021159083819_O14091_03_T00975_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 262
+  },
+  {
+    "file": "GEDI04_A_2021159083819_O14091_03_T00975_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 244
+  },
+  {
+    "file": "GEDI04_A_2021163070526_O14152_03_T10936_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 326
+  },
+  {
+    "file": "GEDI04_A_2021163070526_O14152_03_T10936_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 304
+  },
+  {
+    "file": "GEDI04_A_2021163070526_O14152_03_T10936_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 285
+  },
+  {
+    "file": "GEDI04_A_2021163070526_O14152_03_T10936_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 263
+  },
+  {
+    "file": "GEDI04_A_2021163070526_O14152_03_T10936_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 234
+  },
+  {
+    "file": "GEDI04_A_2021163070526_O14152_03_T10936_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 213
+  },
+  {
+    "file": "GEDI04_A_2021163070526_O14152_03_T10936_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 181
+  },
+  {
+    "file": "GEDI04_A_2021163070526_O14152_03_T10936_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 164
+  },
+  {
+    "file": "GEDI04_A_2021164000722_O14163_02_T06066_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021164000722_O14163_02_T06066_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021164000722_O14163_02_T06066_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021164000722_O14163_02_T06066_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021164000722_O14163_02_T06066_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021164000722_O14163_02_T06066_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021164000722_O14163_02_T06066_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021164000722_O14163_02_T06066_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021167053230_O14213_03_T00822_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 160
+  },
+  {
+    "file": "GEDI04_A_2021167053230_O14213_03_T00822_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 137
+  },
+  {
+    "file": "GEDI04_A_2021167053230_O14213_03_T00822_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 121
+  },
+  {
+    "file": "GEDI04_A_2021167053230_O14213_03_T00822_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 98
+  },
+  {
+    "file": "GEDI04_A_2021167053230_O14213_03_T00822_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 70
+  },
+  {
+    "file": "GEDI04_A_2021167053230_O14213_03_T00822_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 48
+  },
+  {
+    "file": "GEDI04_A_2021167053230_O14213_03_T00822_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 19
+  },
+  {
+    "file": "GEDI04_A_2021167053230_O14213_03_T00822_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021167223426_O14224_02_T10335_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 237
+  },
+  {
+    "file": "GEDI04_A_2021167223426_O14224_02_T10335_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 214
+  },
+  {
+    "file": "GEDI04_A_2021167223426_O14224_02_T10335_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 194
+  },
+  {
+    "file": "GEDI04_A_2021167223426_O14224_02_T10335_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 172
+  },
+  {
+    "file": "GEDI04_A_2021167223426_O14224_02_T10335_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 150
+  },
+  {
+    "file": "GEDI04_A_2021167223426_O14224_02_T10335_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 128
+  },
+  {
+    "file": "GEDI04_A_2021167223426_O14224_02_T10335_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 103
+  },
+  {
+    "file": "GEDI04_A_2021167223426_O14224_02_T10335_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 81
+  },
+  {
+    "file": "GEDI04_A_2021171210127_O14285_02_T08759_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 383
+  },
+  {
+    "file": "GEDI04_A_2021171210127_O14285_02_T08759_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 361
+  },
+  {
+    "file": "GEDI04_A_2021171210127_O14285_02_T08759_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 338
+  },
+  {
+    "file": "GEDI04_A_2021171210127_O14285_02_T08759_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 315
+  },
+  {
+    "file": "GEDI04_A_2021171210127_O14285_02_T08759_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 293
+  },
+  {
+    "file": "GEDI04_A_2021171210127_O14285_02_T08759_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 271
+  },
+  {
+    "file": "GEDI04_A_2021171210127_O14285_02_T08759_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 239
+  },
+  {
+    "file": "GEDI04_A_2021171210127_O14285_02_T08759_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 220
+  },
+  {
+    "file": "GEDI04_A_2021175192837_O14346_02_T07336_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 340
+  },
+  {
+    "file": "GEDI04_A_2021175192837_O14346_02_T07336_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 362
+  },
+  {
+    "file": "GEDI04_A_2021175192837_O14346_02_T07336_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 383
+  },
+  {
+    "file": "GEDI04_A_2021175192837_O14346_02_T07336_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 405
+  },
+  {
+    "file": "GEDI04_A_2021175192837_O14346_02_T07336_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 432
+  },
+  {
+    "file": "GEDI04_A_2021175192837_O14346_02_T07336_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 442
+  },
+  {
+    "file": "GEDI04_A_2021175192837_O14346_02_T07336_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 444
+  },
+  {
+    "file": "GEDI04_A_2021175192837_O14346_02_T07336_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 442
+  },
+  {
+    "file": "GEDI04_A_2021246220124_O15448_03_T08090_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 439
+  },
+  {
+    "file": "GEDI04_A_2021246220124_O15448_03_T08090_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 417
+  },
+  {
+    "file": "GEDI04_A_2021246220124_O15448_03_T08090_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 399
+  },
+  {
+    "file": "GEDI04_A_2021246220124_O15448_03_T08090_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 378
+  },
+  {
+    "file": "GEDI04_A_2021246220124_O15448_03_T08090_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 348
+  },
+  {
+    "file": "GEDI04_A_2021246220124_O15448_03_T08090_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 325
+  },
+  {
+    "file": "GEDI04_A_2021246220124_O15448_03_T08090_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 291
+  },
+  {
+    "file": "GEDI04_A_2021246220124_O15448_03_T08090_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 274
+  },
+  {
+    "file": "GEDI04_A_2021251133203_O15520_02_T08606_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 87
+  },
+  {
+    "file": "GEDI04_A_2021251133203_O15520_02_T08606_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 110
+  },
+  {
+    "file": "GEDI04_A_2021251133203_O15520_02_T08606_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 131
+  },
+  {
+    "file": "GEDI04_A_2021251133203_O15520_02_T08606_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 153
+  },
+  {
+    "file": "GEDI04_A_2021251133203_O15520_02_T08606_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 176
+  },
+  {
+    "file": "GEDI04_A_2021251133203_O15520_02_T08606_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 201
+  },
+  {
+    "file": "GEDI04_A_2021251133203_O15520_02_T08606_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 222
+  },
+  {
+    "file": "GEDI04_A_2021251133203_O15520_02_T08606_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 246
+  },
+  {
+    "file": "GEDI04_A_2021306221611_O16378_03_T09666_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021306221611_O16378_03_T09666_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021306221611_O16378_03_T09666_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021306221611_O16378_03_T09666_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021306221611_O16378_03_T09666_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021306221611_O16378_03_T09666_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021306221611_O16378_03_T09666_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 0
+  },
+  {
+    "file": "GEDI04_A_2021306221611_O16378_03_T09666_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 15
+  },
+  {
+    "file": "GEDI04_A_2021319104120_O16572_02_T05913_02_002_02_V002.h5",
+    "beam": "BEAM0000",
+    "status": "read",
+    "bbox_count": 443
+  },
+  {
+    "file": "GEDI04_A_2021319104120_O16572_02_T05913_02_002_02_V002.h5",
+    "beam": "BEAM0001",
+    "status": "read",
+    "bbox_count": 443
+  },
+  {
+    "file": "GEDI04_A_2021319104120_O16572_02_T05913_02_002_02_V002.h5",
+    "beam": "BEAM0010",
+    "status": "read",
+    "bbox_count": 441
+  },
+  {
+    "file": "GEDI04_A_2021319104120_O16572_02_T05913_02_002_02_V002.h5",
+    "beam": "BEAM0011",
+    "status": "read",
+    "bbox_count": 440
+  },
+  {
+    "file": "GEDI04_A_2021319104120_O16572_02_T05913_02_002_02_V002.h5",
+    "beam": "BEAM0101",
+    "status": "read",
+    "bbox_count": 421
+  },
+  {
+    "file": "GEDI04_A_2021319104120_O16572_02_T05913_02_002_02_V002.h5",
+    "beam": "BEAM0110",
+    "status": "read",
+    "bbox_count": 398
+  },
+  {
+    "file": "GEDI04_A_2021319104120_O16572_02_T05913_02_002_02_V002.h5",
+    "beam": "BEAM1000",
+    "status": "read",
+    "bbox_count": 375
+  },
+  {
+    "file": "GEDI04_A_2021319104120_O16572_02_T05913_02_002_02_V002.h5",
+    "beam": "BEAM1011",
+    "status": "read",
+    "bbox_count": 349
+  }
+]

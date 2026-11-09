@@ -1,0 +1,9 @@
+{
+  "intercept": 0.7263742959770259,
+  "log_H": 0.6846370090182525,
+  "log_CD": 0.35119640757657755,
+  "smearing": 1.046254014367151,
+  "n": 122,
+  "n_plots": 23,
+  "detection_method": "A_DF_nested_OOF"
+}

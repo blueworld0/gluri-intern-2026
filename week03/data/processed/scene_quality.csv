@@ -1,0 +1,3 @@
+﻿scene_id,aoi_pixels_20m,covered_pixels,coverage_percent,cloud_shadow_pixels,cloud_shadow_percent_of_aoi,cloud_shadow_percent_of_covered,snow_percent_of_aoi
+S2A_52SDG_20210522_0_L2A,967759,967759,100.0,78756,8.13797650034771,8.13797650034771,0.0
+S2B_52SDG_20211024_0_L2A,967759,967758,99.99989666848874,950,0.09816493569163397,0.09816503712705035,0.0

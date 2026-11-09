@@ -1,0 +1,104 @@
+{
+  "sites": [
+    "GRSM",
+    "ORNL"
+  ],
+  "year": 2021,
+  "allow_adjacent_years": false,
+  "imagery_allow_adjacent_years": {
+    "GRSM": false,
+    "ORNL": true
+  },
+  "imagery_adjacent_priority": [
+    2022,
+    2020
+  ],
+  "aop_include_provisional": true,
+  "api_refresh": true,
+  "adjacent_priority": [
+    2020,
+    2022
+  ],
+  "min_plots_per_site": 5,
+  "max_plots_per_site": null,
+  "release": "current",
+  "buffer_m": 50,
+  "patch_size": 400,
+  "patch_overlap": 0.25,
+  "score_threshold": 0.15,
+  "nms_iou": 0.15,
+  "min_height_m": 3.0,
+  "expected_plot_count": 23,
+  "comparison_plot_ids": [
+    "GRSM_001",
+    "GRSM_009",
+    "GRSM_012",
+    "GRSM_014",
+    "GRSM_016",
+    "GRSM_017",
+    "GRSM_047",
+    "GRSM_049",
+    "GRSM_050",
+    "GRSM_051",
+    "GRSM_055",
+    "GRSM_057",
+    "GRSM_058",
+    "GRSM_059",
+    "GRSM_060",
+    "ORNL_001",
+    "ORNL_004",
+    "ORNL_006",
+    "ORNL_009",
+    "ORNL_010",
+    "ORNL_027",
+    "ORNL_049",
+    "ORNL_057"
+  ],
+  "search_score_thresholds": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5
+  ],
+  "search_patch_sizes": [
+    300,
+    400,
+    600
+  ],
+  "search_inner_folds": 4,
+  "chm_sigma_m": 1.0,
+  "chm_window_a": 2.51,
+  "chm_window_b": 0.00901,
+  "fusion_dedup_m": 1.0,
+  "default_method_metric": "carbon_RMSE_tC_ha",
+  "comparison_overlay_plots": [
+    "GRSM_016",
+    "GRSM_051",
+    "GRSM_012",
+    "ORNL_010"
+  ],
+  "min_field_dbh_cm": 10.0,
+  "visible_height_ratio": 0.8,
+  "visible_radius_m": 3.0,
+  "match_size": "stemDiameter",
+  "jucker": {
+    "a": 0.367,
+    "b": 0.887,
+    "g": 0.0,
+    "biome": 11
+  },
+  "agb_default": {
+    "beta0": -2.2118,
+    "beta1": 2.4133,
+    "group": "Chojnacky general hardwood surrogate (Cor/Eri/Lau/etc)"
+  },
+  "carbon_fraction": 0.5,
+  "carbon_alternative": 0.47,
+  "cv_folds": 5,
+  "model_name": "weecology/deepforest-tree",
+  "model_revision": "main",
+  "footprint_override": null,
+  "local_rgb": {},
+  "local_chm": {}
+}

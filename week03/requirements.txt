@@ -1,0 +1,10 @@
+earthaccess
+h5py
+numpy
+pandas
+geopandas
+rasterio
+matplotlib
+scikit-learn==1.6.1
+lightgbm
+pystac-client

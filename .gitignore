@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# credentials
+.env
+.netrc
+_netrc
+
+# large or redistributable-elsewhere inputs (re-download with scripts)
+week03/data/raw/
+week03/data/processed/*.tif
+week03/data/processed/*.joblib
+week03/data/processed/step2_cv_cache/
+week04/data/forest_map/
+week04/data/gedi_v3_geumjeongsan/
+week04/data/literature/
+week04/data/field/
+week04/tmp/
+
+# misc
+.matplotlib/
+*.pdf

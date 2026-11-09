@@ -1,0 +1,168 @@
+[
+  {
+    "date": "2021-05-22",
+    "id": "S2A_52SDG_20210522_0_L2A",
+    "assets": {
+      "B02": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/B02_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B03": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/B03_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B04": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/B04_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B05": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/B05_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B06": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/B06_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B07": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/B07_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B08": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/B08_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B8A": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/B8A_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B11": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/B11_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B12": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/B12_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "SCL": {
+        "path": "data/raw/s2/S2A_52SDG_20210522_0_L2A/SCL_bbox.tif",
+        "scale": 1,
+        "offset": 0,
+        "nodata": 0
+      }
+    },
+    "cloud_cover": 10.893501,
+    "aoi_quality": {
+      "scene_id": "S2A_52SDG_20210522_0_L2A",
+      "aoi_pixels_20m": 967759,
+      "covered_pixels": 967759,
+      "coverage_percent": 100.0,
+      "cloud_shadow_pixels": 78756,
+      "cloud_shadow_percent_of_aoi": 8.13797650034771,
+      "cloud_shadow_percent_of_covered": 8.13797650034771,
+      "snow_percent_of_aoi": 0.0
+    }
+  },
+  {
+    "date": "2021-10-24",
+    "id": "S2B_52SDG_20211024_0_L2A",
+    "assets": {
+      "B02": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/B02_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B03": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/B03_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B04": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/B04_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B05": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/B05_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B06": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/B06_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B07": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/B07_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B08": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/B08_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B8A": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/B8A_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B11": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/B11_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "B12": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/B12_bbox.tif",
+        "scale": 0.0001,
+        "offset": 0,
+        "nodata": 0
+      },
+      "SCL": {
+        "path": "data/raw/s2/S2B_52SDG_20211024_0_L2A/SCL_bbox.tif",
+        "scale": 1,
+        "offset": 0,
+        "nodata": 0
+      }
+    },
+    "cloud_cover": 1.434643,
+    "aoi_quality": {
+      "scene_id": "S2B_52SDG_20211024_0_L2A",
+      "aoi_pixels_20m": 967759,
+      "covered_pixels": 967758,
+      "coverage_percent": 99.99989666848874,
+      "cloud_shadow_pixels": 950,
+      "cloud_shadow_percent_of_aoi": 0.09816493569163397,
+      "cloud_shadow_percent_of_covered": 0.09816503712705035,
+      "snow_percent_of_aoi": 0.0
+    }
+  }
+]

@@ -1,0 +1,78 @@
+﻿test,passed,detail
+금지 패키지 미사용,True,sys.modules
+kg/t 변환,True,1000kg=1t
+면적변환,True,400m2=0.04ha
+조사구 확장,True,1000kg/400m2=25t/ha
+재적·질량·뿌리·탄소,True,100m3/ha×2ha×WD.5×BEF1.5×(1+R.2)×CF.5=90tC
+CO2분자량換算,True,12tC=44tCO2
+가지식 독립 수치검산,True,.069×24^1.995=39.117448kg; README39.6과 불일치
+계수22종·2식·4부위,True,"(22, 176)"
+식완비 강원지방소나무 a*D^b,True,4부위
+식완비 강원지방소나무 a*D^b*H^c,True,4부위
+식완비 중부지방소나무 a*D^b,True,4부위
+식완비 중부지방소나무 a*D^b*H^c,True,4부위
+식완비 리기다소나무 a*D^b,True,4부위
+식완비 리기다소나무 a*D^b*H^c,True,4부위
+식완비 곰솔 a*D^b,True,4부위
+식완비 곰솔 a*D^b*H^c,True,4부위
+식완비 잣나무 a*D^b,True,4부위
+식완비 잣나무 a*D^b*H^c,True,4부위
+식완비 일본잎갈나무 a*D^b,True,4부위
+식완비 일본잎갈나무 a*D^b*H^c,True,4부위
+식완비 삼나무 a*D^b,True,4부위
+식완비 삼나무 a*D^b*H^c,True,4부위
+식완비 편백 a*D^b,True,4부위
+식완비 편백 a*D^b*H^c,True,4부위
+식완비 상수리나무 a*D^b,True,4부위
+식완비 상수리나무 a*D^b*H^c,True,4부위
+식완비 굴참나무 a*D^b,True,4부위
+식완비 굴참나무 a*D^b*H^c,True,4부위
+식완비 신갈나무 a*D^b,True,4부위
+식완비 신갈나무 a*D^b*H^c,True,4부위
+식완비 졸참나무 a*D^b,True,4부위
+식완비 졸참나무 a*D^b*H^c,True,4부위
+식완비 아까시나무 a*D^b,True,4부위
+식완비 아까시나무 a*D^b*H^c,True,4부위
+식완비 자작나무 a*D^b,True,4부위
+식완비 자작나무 a*D^b*H^c,True,4부위
+식완비 서어나무 a*D^b,True,4부위
+식완비 서어나무 a*D^b*H^c,True,4부위
+식완비 튤립나무 a*D^b,True,4부위
+식완비 튤립나무 a*D^b*H^c,True,4부위
+식완비 밤나무 a*D^b,True,4부위
+식완비 밤나무 a*D^b*H^c,True,4부위
+식완비 현사시나무 a*D^b,True,4부위
+식완비 현사시나무 a*D^b*H^c,True,4부위
+식완비 구실잣밤나무 a*D^b,True,4부위
+식완비 구실잣밤나무 a*D^b*H^c,True,4부위
+식완비 붉가시나무 a*D^b,True,4부위
+식완비 붉가시나무 a*D^b*H^c,True,4부위
+식완비 동백나무 a*D^b,True,4부위
+식완비 동백나무 a*D^b*H^c,True,4부위
+식완비 종가시나무 a*D^b,True,4부위
+식완비 종가시나무 a*D^b*H^c,True,4부위
+A 조사구50·원자료1750,True,"(50, 1750)"
+A 나무kg→조사구tC 일치,True,나무합/1000=조사구합
+C shot_number 중복 없음,True,3578
+B2013 전체면적,True,전체폴리곤면적=구역합
+B2013 재적합,True,m3/ha×ha
+B2013 탄소합,True,tC/ha×ha
+B2013 금정산 forest_type 합,True,463224.0323730365
+B2013 금정산 species 합,True,463224.03237303655
+B2013 부산대 부산캠퍼스 forest_type 합,True,2241.9517432756797
+B2013 부산대 부산캠퍼스 species 합,True,2241.9517432756797
+B2013 클리핑 전체 forest_type 합,True,787313.6348400114
+B2013 클리핑 전체 species 합,True,787313.6348400118
+B2025 전체면적,True,전체폴리곤면적=구역합
+B2025 재적합,True,m3/ha×ha
+B2025 탄소합,True,tC/ha×ha
+B2025 금정산 forest_type 합,True,538726.7334836074
+B2025 금정산 species 합,True,538726.7334836073
+B2025 부산대 부산캠퍼스 forest_type 합,True,2431.040068263765
+B2025 부산대 부산캠퍼스 species 합,True,2431.0400682637655
+B2025 클리핑 전체 forest_type 합,True,855641.6842514273
+B2025 클리핑 전체 species 합,True,855641.6842514283
+C 금정산 총량,True,Mg/ha×ha×(1+R)×CF
+C 부산대 부산캠퍼스 총량,True,Mg/ha×ha×(1+R)×CF
+C 클리핑 전체 총량,True,Mg/ha×ha×(1+R)×CF
+금지패키지종료확인,True,최종sys.modules

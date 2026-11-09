@@ -1,0 +1,205 @@
+{
+  "bbox_lon_lat": [
+    129.0,
+    35.2,
+    129.12,
+    35.34
+  ],
+  "clip_epsg5179_bounds": [
+    1136314.0855316757,
+    1690438.116343219,
+    1147473.7354917624,
+    1706137.8667921573
+  ],
+  "campus_lon_lat": [
+    129.0738,
+    35.2299,
+    129.0847,
+    35.2386
+  ],
+  "layer_counts": {
+    "2013": 5640,
+    "2025": 3915
+  },
+  "trail_parts": 960,
+  "processing_logs": {
+    "2013": [
+      {
+        "path": "data\\forest_map\\2013_임상도\\금정구\\26410.shp",
+        "input_records": 2516,
+        "bbox_candidates": 2216,
+        "clipped_parts": 2486,
+        "repaired_geometries": 0,
+        "dropped_area_m2": 0.0
+      },
+      {
+        "path": "data\\forest_map\\2013_임상도\\북구\\26320.shp",
+        "input_records": 1163,
+        "bbox_candidates": 1064,
+        "clipped_parts": 1166,
+        "repaired_geometries": 0,
+        "dropped_area_m2": 0.0
+      },
+      {
+        "path": "data\\forest_map\\2013_임상도\\양산시\\48330.shp",
+        "input_records": 19680,
+        "bbox_candidates": 2382,
+        "clipped_parts": 2641,
+        "repaired_geometries": 0,
+        "dropped_area_m2": 0.0
+      },
+      {
+        "positive_overlap_removed_m2": 293092.70033062634,
+        "overlap_priority": "금정구→북구→양산시, 각 원본 레코드 순; 앞선 속성 유지",
+        "conflicting_overlap_m2": 0.005277751497743443
+      }
+    ],
+    "2025": [
+      {
+        "path": "data\\forest_map\\2025_임상도\\금정구\\26410.shp",
+        "input_records": 1715,
+        "bbox_candidates": 1474,
+        "clipped_parts": 1518,
+        "repaired_geometries": 0,
+        "dropped_area_m2": 0.0
+      },
+      {
+        "path": "data\\forest_map\\2025_임상도\\북구\\26320.shp",
+        "input_records": 866,
+        "bbox_candidates": 781,
+        "clipped_parts": 819,
+        "repaired_geometries": 0,
+        "dropped_area_m2": 0.0
+      },
+      {
+        "path": "data\\forest_map\\2025_임상도\\양산시\\48330.shp",
+        "input_records": 14432,
+        "bbox_candidates": 1545,
+        "clipped_parts": 1582,
+        "repaired_geometries": 0,
+        "dropped_area_m2": 0.0
+      },
+      {
+        "positive_overlap_removed_m2": 45129.65805448768,
+        "overlap_priority": "금정구→북구→양산시, 각 원본 레코드 순; 앞선 속성 유지",
+        "conflicting_overlap_m2": 0.00037795668372573395
+      }
+    ],
+    "trails": [
+      {
+        "path": "data\\forest_map\\등산로\\금정구\\26410.shp",
+        "input_records": 602,
+        "bbox_candidates": 554,
+        "clipped_parts": 572,
+        "repaired_geometries": 0,
+        "dropped_area_m2": 0.0
+      },
+      {
+        "path": "data\\forest_map\\등산로\\북구\\26320.shp",
+        "input_records": 297,
+        "bbox_candidates": 199,
+        "clipped_parts": 211,
+        "repaired_geometries": 0,
+        "dropped_area_m2": 0.0
+      },
+      {
+        "path": "data\\forest_map\\등산로\\양산시\\48330.shp",
+        "input_records": 1053,
+        "bbox_candidates": 155,
+        "clipped_parts": 177,
+        "repaired_geometries": 0,
+        "dropped_area_m2": 0.0
+      }
+    ]
+  },
+  "field_plots": 50,
+  "gedi_candidates": 25,
+  "combined_visits": 75,
+  "pair_count_100m": 1,
+  "field_plots_near_quality_gedi": 15,
+  "recommended_gedi_candidates": 17,
+  "ridge_method": {
+    "reference_controls_lon_lat": [
+      [
+        129.061,
+        35.235
+      ],
+      [
+        129.065,
+        35.245555555555555
+      ],
+      [
+        129.06444444444446,
+        35.24638888888889
+      ],
+      [
+        129.0663888888889,
+        35.25111111111111
+      ],
+      [
+        129.0663888888889,
+        35.2525
+      ],
+      [
+        129.065,
+        35.25972222222222
+      ],
+      [
+        129.0638888888889,
+        35.26027777777778
+      ],
+      [
+        129.06111111111113,
+        35.2675
+      ],
+      [
+        129.06111111111113,
+        35.26777777777777
+      ],
+      [
+        129.05861111111113,
+        35.274166666666666
+      ],
+      [
+        129.05833333333334,
+        35.27444444444444
+      ],
+      [
+        129.0506,
+        35.2801
+      ]
+    ],
+    "corridor_buffer_m": 100,
+    "strict_gap_tolerance_m": 0,
+    "sensitivity_gap_tolerance_m": 10,
+    "strict_component_count": 255,
+    "sensitivity_component_count": 211,
+    "seed_polygon_parts": 84,
+    "strict_seed_components": [
+      0
+    ],
+    "sensitivity_seed_components": [
+      0
+    ],
+    "south_reference_note": "35.235,129.061은 남문 일대 근사 참고점이며 성문 실측 좌표가 아님",
+    "reference_method": "남문 일대 참고점-중앙 야장 조사구열-사용자 제공 고당봉 위치를 연결한 참고선. 지형 능선의 실측 선형이 아님",
+    "limitations": "폴리곤 연결은 지형 능선 동일성을 보증하지 않음. 10m 결과는 단절 민감도이며 자동 연결 판정에 사용하지 않음."
+  },
+  "elapsed_seconds": 59.375,
+  "definitions": {
+    "2013": "data\\forest_map\\2013_임상도\\금정구\\DATA003_임상도(5000).pdf",
+    "2025": "data\\forest_map\\2025_임상도\\금정구\\DATA003_임상도(5000).pdf"
+  },
+  "input_shp_sha256": {
+    "data\\forest_map\\2013_임상도\\금정구\\26410.shp": "26ece5b31e18374d2fdedb41029caac7f93ad401f8bb11061c825ab020142f9b",
+    "data\\forest_map\\2013_임상도\\북구\\26320.shp": "ed4408d8fa4532d128d3cbe8401ba68c0b960b9b07c27dfd268e41ccdb2053d7",
+    "data\\forest_map\\2013_임상도\\양산시\\48330.shp": "8dee8a8a1236a375412cd45d1a1bfc13d8701d3af353d832ab73425d2962631e",
+    "data\\forest_map\\2025_임상도\\금정구\\26410.shp": "83bcd8cf2e9f9421684edb7442a6615f0106df93ca400bfedb6967f5e2d12716",
+    "data\\forest_map\\2025_임상도\\북구\\26320.shp": "35ffe26bcf50760879b65b901c7a561edc198c6f5b87d4c0d5e26be82657c235",
+    "data\\forest_map\\2025_임상도\\양산시\\48330.shp": "fd0eb79622949d6da3cafcc9b85c1c2877b4aedc0ca7fecac681a6b6193b4dc5",
+    "data\\forest_map\\등산로\\금정구\\26410.shp": "3bc8db7423dc78116b797273a69261abafb2177e8cccdd3924862c9432f765f2",
+    "data\\forest_map\\등산로\\북구\\26320.shp": "3482e417e8efedf3310b3b78b38acce0b7f43a9d67674acd1489b38b04c6e6a5",
+    "data\\forest_map\\등산로\\양산시\\48330.shp": "48514cbb4b2673b78774060bf58b5980b06737df58ce68ad13a534f93b9f9680"
+  },
+  "carbon_or_biomass_calculated": false
+}

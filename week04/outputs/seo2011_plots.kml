@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>서정범 2011 금정산 조사구 50개</name><description>2009년 5월–2010년 9월 조사. 각 조사구 20×20m. 좌표는 야장의 도분초를 십진수로 변환한 위치점이다. 야장 좌표란에는 측지계가 미기재되어 추가 측지계 변환 없이 KML에 표시했다. 외부 재배포용 자료가 아님.</description><Style id="z0"><IconStyle><color>ffB27200</color><scale>0.8</scale></IconStyle></Style><Style id="z1"><IconStyle><color>ff009FE6</color><scale>0.8</scale></IconStyle></Style><Style id="z2"><IconStyle><color>ff739E00</color><scale>0.8</scale></IconStyle></Style><Style id="z3"><IconStyle><color>ffA779CC</color><scale>0.8</scale></IconStyle></Style><Style id="z4"><IconStyle><color>ff9A3D6A</color><scale>0.8</scale></IconStyle></Style><Placemark><name>중앙-01</name><styleUrl>#z0</styleUrl><description>조사번호: 중앙-01
+부산광역시 금정구 금성동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 22.00 cm
+평균 수고: 11.33 m
+매목 기록: 39건 / 400m²
+흉고단면적: 43.409 m²/ha
+원문 PDF 147쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.064444444,35.246388889,0</coordinates></Point></Placemark><Placemark><name>중앙-02</name><styleUrl>#z0</styleUrl><description>조사번호: 중앙-02
+부산광역시 금정구 구서동 일원
+우점 수종(흉고단면적 기준): 리기다소나무
+평균 흉고직경: 23.83 cm
+평균 수고: 10.25 m
+매목 기록: 36건 / 400m²
+흉고단면적: 42.891 m²/ha
+원문 PDF 148쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.065000000,35.245555556,0</coordinates></Point></Placemark><Placemark><name>중앙-03</name><styleUrl>#z0</styleUrl><description>조사번호: 중앙-03
+부산광역시 금정구 금성동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 17.71 cm
+평균 수고: 9.15 m
+매목 기록: 34건 / 400m²
+흉고단면적: 25.690 m²/ha
+원문 PDF 149쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.066388889,35.251111111,0</coordinates></Point></Placemark><Placemark><name>중앙-04</name><styleUrl>#z0</styleUrl><description>조사번호: 중앙-04
+부산광역시 금정구 구서동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 20.84 cm
+평균 수고: 11.10 m
+매목 기록: 31건 / 400m²
+흉고단면적: 28.596 m²/ha
+원문 PDF 150쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.066388889,35.252500000,0</coordinates></Point></Placemark><Placemark><name>중앙-05</name><styleUrl>#z0</styleUrl><description>조사번호: 중앙-05
+부산광역시 금정구 금성동 일원
+우점 수종(흉고단면적 기준): 리기다소나무
+평균 흉고직경: 13.18 cm
+평균 수고: 6.41 m
+매목 기록: 39건 / 400m²
+흉고단면적: 16.014 m²/ha
+원문 PDF 151쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.063888889,35.260277778,0</coordinates></Point></Placemark><Placemark><name>중앙-06</name><styleUrl>#z0</styleUrl><description>조사번호: 중앙-06
+부산광역시 금정구 구서동 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 4.90 cm
+평균 수고: 2.50 m
+매목 기록: 20건 / 400m²
+흉고단면적: 0.982 m²/ha
+원문 PDF 152쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.065000000,35.259722222,0</coordinates></Point></Placemark><Placemark><name>중앙-07</name><styleUrl>#z0</styleUrl><description>조사번호: 중앙-07
+부산광역시 금정구 금성동 일원
+우점 수종(흉고단면적 기준): 소사나무
+평균 흉고직경: 8.75 cm
+평균 수고: 4.81 m
+매목 기록: 32건 / 400m²
+흉고단면적: 6.079 m²/ha
+원문 PDF 153쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.061111111,35.267500000,0</coordinates></Point></Placemark><Placemark><name>중앙-08</name><styleUrl>#z0</styleUrl><description>조사번호: 중앙-08
+부산광역시 금정구 남산동 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 7.23 cm
+평균 수고: 3.92 m
+매목 기록: 26건 / 400m²
+흉고단면적: 2.937 m²/ha
+원문 PDF 154쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.061111111,35.267777778,0</coordinates></Point></Placemark><Placemark><name>중앙-09</name><styleUrl>#z0</styleUrl><description>조사번호: 중앙-09
+부산광역시 금정구 금성동 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 15.38 cm
+평균 수고: 11.28 m
+매목 기록: 32건 / 400m²
+흉고단면적: 15.661 m²/ha
+원문 PDF 155쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.058333333,35.274444444,0</coordinates></Point></Placemark><Placemark><name>중앙-10</name><styleUrl>#z0</styleUrl><description>조사번호: 중앙-10
+부산광역시 금정구 남산동 일원
+우점 수종(흉고단면적 기준): 떡갈나무
+평균 흉고직경: 9.71 cm
+평균 수고: 4.83 m
+매목 기록: 35건 / 400m²
+흉고단면적: 7.351 m²/ha
+원문 PDF 156쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.058611111,35.274166667,0</coordinates></Point></Placemark><Placemark><name>동측-01</name><styleUrl>#z1</styleUrl><description>조사번호: 동측-01
+부산광역시 금정구 청룡동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 16.00 cm
+평균 수고: 11.36 m
+매목 기록: 47건 / 400m²
+흉고단면적: 37.244 m²/ha
+원문 PDF 157쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.071388889,35.282500000,0</coordinates></Point></Placemark><Placemark><name>동측-02</name><styleUrl>#z1</styleUrl><description>조사번호: 동측-02
+부산광역시 금정구 청룡동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 25.83 cm
+평균 수고: 18.06 m
+매목 기록: 35건 / 400m²
+흉고단면적: 51.035 m²/ha
+원문 PDF 158쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.072222222,35.281388889,0</coordinates></Point></Placemark><Placemark><name>동측-03</name><styleUrl>#z1</styleUrl><description>조사번호: 동측-03
+부산광역시 금정구 청룡동 일원
+우점 수종(흉고단면적 기준): 개서어나무
+평균 흉고직경: 17.96 cm
+평균 수고: 14.12 m
+매목 기록: 51건 / 400m²
+흉고단면적: 38.280 m²/ha
+원문 PDF 159쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.070555556,35.273611111,0</coordinates></Point></Placemark><Placemark><name>동측-04</name><styleUrl>#z1</styleUrl><description>조사번호: 동측-04
+부산광역시 금정구 남산동 일원
+우점 수종(흉고단면적 기준): 굴참나무
+평균 흉고직경: 18.76 cm
+평균 수고: 15.51 m
+매목 기록: 37건 / 400m²
+흉고단면적: 29.774 m²/ha
+원문 PDF 160쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.069722222,35.271666667,0</coordinates></Point></Placemark><Placemark><name>동측-05</name><styleUrl>#z1</styleUrl><description>조사번호: 동측-05
+부산광역시 금정구 남산동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 23.55 cm
+평균 수고: 18.18 m
+매목 기록: 49건 / 400m²
+흉고단면적: 57.860 m²/ha
+원문 PDF 161쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.069166667,35.270555556,0</coordinates></Point></Placemark><Placemark><name>동측-06</name><styleUrl>#z1</styleUrl><description>조사번호: 동측-06
+부산광역시 금정구 남산동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 20.16 cm
+평균 수고: 17.39 m
+매목 기록: 49건 / 400m²
+흉고단면적: 41.987 m²/ha
+원문 PDF 162쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.066944444,35.269166667,0</coordinates></Point></Placemark><Placemark><name>동측-07</name><styleUrl>#z1</styleUrl><description>조사번호: 동측-07
+부산광역시 금정구 남산동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 21.80 cm
+평균 수고: 17.29 m
+매목 기록: 49건 / 400m²
+흉고단면적: 51.663 m²/ha
+원문 PDF 163쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.066944444,35.267500000,0</coordinates></Point></Placemark><Placemark><name>동측-08</name><styleUrl>#z1</styleUrl><description>조사번호: 동측-08
+부산광역시 금정구 구서동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 19.38 cm
+평균 수고: 13.35 m
+매목 기록: 48건 / 400m²
+흉고단면적: 41.870 m²/ha
+원문 PDF 164쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.063888889,35.262500000,0</coordinates></Point></Placemark><Placemark><name>동측-09</name><styleUrl>#z1</styleUrl><description>조사번호: 동측-09
+부산광역시 금정구 구서동 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 18.20 cm
+평균 수고: 16.33 m
+매목 기록: 30건 / 400m²
+흉고단면적: 21.779 m²/ha
+원문 PDF 165쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.068333333,35.261388889,0</coordinates></Point></Placemark><Placemark><name>동측-10</name><styleUrl>#z1</styleUrl><description>조사번호: 동측-10
+부산광역시 금정구 구서동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 20.53 cm
+평균 수고: 17.76 m
+매목 기록: 38건 / 400m²
+흉고단면적: 34.825 m²/ha
+원문 PDF 166쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.069722222,35.260000000,0</coordinates></Point></Placemark><Placemark><name>서측-01</name><styleUrl>#z2</styleUrl><description>조사번호: 서측-01
+부산광역시 북구 금곡동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 16.86 cm
+평균 수고: 13.46 m
+매목 기록: 35건 / 400m²
+흉고단면적: 21.858 m²/ha
+원문 PDF 167쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.017500000,35.246666667,0</coordinates></Point></Placemark><Placemark><name>서측-02</name><styleUrl>#z2</styleUrl><description>조사번호: 서측-02
+부산광역시 북구 금곡동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 16.68 cm
+평균 수고: 13.68 m
+매목 기록: 38건 / 400m²
+흉고단면적: 25.251 m²/ha
+원문 PDF 168쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.020555556,35.249166667,0</coordinates></Point></Placemark><Placemark><name>서측-03</name><styleUrl>#z2</styleUrl><description>조사번호: 서측-03
+부산광역시 북구 금곡동 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 19.11 cm
+평균 수고: 18.47 m
+매목 기록: 36건 / 400m²
+흉고단면적: 27.300 m²/ha
+원문 PDF 169쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.025555556,35.253333333,0</coordinates></Point></Placemark><Placemark><name>서측-04</name><styleUrl>#z2</styleUrl><description>조사번호: 서측-04
+부산광역시 북구 금곡동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 18.11 cm
+평균 수고: 15.00 m
+매목 기록: 37건 / 400m²
+흉고단면적: 26.821 m²/ha
+원문 PDF 170쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.031666667,35.256666667,0</coordinates></Point></Placemark><Placemark><name>서측-05</name><styleUrl>#z2</styleUrl><description>조사번호: 서측-05
+부산광역시 북구 금곡동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 16.00 cm
+평균 수고: 10.96 m
+매목 기록: 28건 / 400m²
+흉고단면적: 15.896 m²/ha
+원문 PDF 171쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.036944444,35.261111111,0</coordinates></Point></Placemark><Placemark><name>서측-06</name><styleUrl>#z2</styleUrl><description>조사번호: 서측-06
+부산광역시 북구 금곡동 일원
+우점 수종(흉고단면적 기준): 상수리나무
+평균 흉고직경: 15.71 cm
+평균 수고: 13.71 m
+매목 기록: 34건 / 400m²
+흉고단면적: 18.842 m²/ha
+원문 PDF 172쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.038611111,35.262500000,0</coordinates></Point></Placemark><Placemark><name>서측-07</name><styleUrl>#z2</styleUrl><description>조사번호: 서측-07
+부산광역시 북구 금곡동 일원
+우점 수종(흉고단면적 기준): 상수리나무
+평균 흉고직경: 13.00 cm
+평균 수고: 10.43 m
+매목 기록: 28건 / 400m²
+흉고단면적: 11.514 m²/ha
+원문 PDF 173쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.043055556,35.268888889,0</coordinates></Point></Placemark><Placemark><name>서측-08</name><styleUrl>#z2</styleUrl><description>조사번호: 서측-08
+부산광역시 북구 금곡동 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 11.24 cm
+평균 수고: 7.18 m
+매목 기록: 34건 / 400m²
+흉고단면적: 9.700 m²/ha
+원문 PDF 174쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.046944444,35.273888889,0</coordinates></Point></Placemark><Placemark><name>서측-09</name><styleUrl>#z2</styleUrl><description>조사번호: 서측-09
+경상남도 양산시 동면 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 16.41 cm
+평균 수고: 10.76 m
+매목 기록: 34건 / 400m²
+흉고단면적: 19.863 m²/ha
+원문 PDF 175쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.048611111,35.276944444,0</coordinates></Point></Placemark><Placemark><name>서측-10</name><styleUrl>#z2</styleUrl><description>조사번호: 서측-10
+경상남도 양산시 동면 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 8.61 cm
+평균 수고: 9.09 m
+매목 기록: 33건 / 400m²
+흉고단면적: 5.137 m²/ha
+원문 PDF 176쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.049722222,35.279444444,0</coordinates></Point></Placemark><Placemark><name>남측-01</name><styleUrl>#z3</styleUrl><description>조사번호: 남측-01
+부산광역시 금정구 장전동 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 18.15 cm
+평균 수고: 15.15 m
+매목 기록: 27건 / 400m²
+흉고단면적: 21.434 m²/ha
+원문 PDF 177쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.061388889,35.241388889,0</coordinates></Point></Placemark><Placemark><name>남측-02</name><styleUrl>#z3</styleUrl><description>조사번호: 남측-02
+부산광역시 금정구 장전동 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 15.52 cm
+평균 수고: 13.56 m
+매목 기록: 25건 / 400m²
+흉고단면적: 13.603 m²/ha
+원문 PDF 178쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.061666667,35.239166667,0</coordinates></Point></Placemark><Placemark><name>남측-03</name><styleUrl>#z3</styleUrl><description>조사번호: 남측-03
+부산광역시 금정구 장전동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 16.69 cm
+평균 수고: 13.37 m
+매목 기록: 35건 / 400m²
+흉고단면적: 22.321 m²/ha
+원문 PDF 179쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.061388889,35.236944444,0</coordinates></Point></Placemark><Placemark><name>남측-04</name><styleUrl>#z3</styleUrl><description>조사번호: 남측-04
+부산광역시 금정구 장전동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 22.57 cm
+평균 수고: 15.36 m
+매목 기록: 28건 / 400m²
+흉고단면적: 30.096 m²/ha
+원문 PDF 180쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.059166667,35.233055556,0</coordinates></Point></Placemark><Placemark><name>남측-05</name><styleUrl>#z3</styleUrl><description>조사번호: 남측-05
+부산광역시 금정구 장전동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 20.31 cm
+평균 수고: 14.08 m
+매목 기록: 26건 / 400m²
+흉고단면적: 23.845 m²/ha
+원문 PDF 181쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.058333333,35.229722222,0</coordinates></Point></Placemark><Placemark><name>남측-06</name><styleUrl>#z3</styleUrl><description>조사번호: 남측-06
+부산광역시 북구 만덕동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 21.30 cm
+평균 수고: 15.39 m
+매목 기록: 23건 / 400m²
+흉고단면적: 21.653 m²/ha
+원문 PDF 182쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.056388889,35.228055556,0</coordinates></Point></Placemark><Placemark><name>남측-07</name><styleUrl>#z3</styleUrl><description>조사번호: 남측-07
+부산광역시 북구 만덕동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 22.15 cm
+평균 수고: 16.70 m
+매목 기록: 40건 / 400m²
+흉고단면적: 41.493 m²/ha
+원문 PDF 183쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.056388889,35.224166667,0</coordinates></Point></Placemark><Placemark><name>남측-08</name><styleUrl>#z3</styleUrl><description>조사번호: 남측-08
+부산광역시 북구 만덕동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 20.43 cm
+평균 수고: 17.54 m
+매목 기록: 37건 / 400m²
+흉고단면적: 33.599 m²/ha
+원문 PDF 184쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.053888889,35.218611111,0</coordinates></Point></Placemark><Placemark><name>남측-09</name><styleUrl>#z3</styleUrl><description>조사번호: 남측-09
+부산광역시 북구 만덕동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 19.03 cm
+평균 수고: 18.21 m
+매목 기록: 33건 / 400m²
+흉고단면적: 24.316 m²/ha
+원문 PDF 185쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.052777778,35.215555556,0</coordinates></Point></Placemark><Placemark><name>남측-10</name><styleUrl>#z3</styleUrl><description>조사번호: 남측-10
+부산광역시 북구 만덕동 일원
+우점 수종(흉고단면적 기준): 곰솔
+평균 흉고직경: 25.29 cm
+평균 수고: 18.58 m
+매목 기록: 31건 / 400m²
+흉고단면적: 40.228 m²/ha
+원문 PDF 186쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.051666667,35.211944444,0</coordinates></Point></Placemark><Placemark><name>북측-01</name><styleUrl>#z4</styleUrl><description>조사번호: 북측-01
+부산광역시 금정구 청룡동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 7.77 cm
+평균 수고: 4.27 m
+매목 기록: 44건 / 400m²
+흉고단면적: 10.391 m²/ha
+원문 PDF 187쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.049722222,35.282500000,0</coordinates></Point></Placemark><Placemark><name>북측-02</name><styleUrl>#z4</styleUrl><description>조사번호: 북측-02
+부산광역시 금정구 청룡동 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 10.94 cm
+평균 수고: 7.47 m
+매목 기록: 36건 / 400m²
+흉고단면적: 9.574 m²/ha
+원문 PDF 188쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.051944444,35.287500000,0</coordinates></Point></Placemark><Placemark><name>북측-03</name><styleUrl>#z4</styleUrl><description>조사번호: 북측-03
+부산광역시 금정구 청룡동 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 12.23 cm
+평균 수고: 9.46 m
+매목 기록: 35건 / 400m²
+흉고단면적: 12.519 m²/ha
+원문 PDF 189쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.052222222,35.288888889,0</coordinates></Point></Placemark><Placemark><name>북측-04</name><styleUrl>#z4</styleUrl><description>조사번호: 북측-04
+부산광역시 금정구 청룡동 일원
+우점 수종(흉고단면적 기준): 상수리나무
+평균 흉고직경: 12.47 cm
+평균 수고: 9.82 m
+매목 기록: 38건 / 400m²
+흉고단면적: 13.941 m²/ha
+원문 PDF 190쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.056666667,35.291666667,0</coordinates></Point></Placemark><Placemark><name>북측-05</name><styleUrl>#z4</styleUrl><description>조사번호: 북측-05
+부산광역시 금정구 청룡동 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 12.50 cm
+평균 수고: 8.17 m
+매목 기록: 36건 / 400m²
+흉고단면적: 14.978 m²/ha
+원문 PDF 191쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.058055556,35.294166667,0</coordinates></Point></Placemark><Placemark><name>북측-06</name><styleUrl>#z4</styleUrl><description>조사번호: 북측-06
+경상남도 양산시 동면 일원
+우점 수종(흉고단면적 기준): 소나무
+평균 흉고직경: 13.06 cm
+평균 수고: 7.11 m
+매목 기록: 36건 / 400m²
+흉고단면적: 15.307 m²/ha
+원문 PDF 192쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.054722222,35.300277778,0</coordinates></Point></Placemark><Placemark><name>북측-07</name><styleUrl>#z4</styleUrl><description>조사번호: 북측-07
+경상남도 양산시 동면 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 9.20 cm
+평균 수고: 3.88 m
+매목 기록: 40건 / 400m²
+흉고단면적: 7.053 m²/ha
+원문 PDF 193쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.053611111,35.302500000,0</coordinates></Point></Placemark><Placemark><name>북측-08</name><styleUrl>#z4</styleUrl><description>조사번호: 북측-08
+경상남도 양산시 동면 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 13.63 cm
+평균 수고: 7.97 m
+매목 기록: 38건 / 400m²
+흉고단면적: 15.763 m²/ha
+원문 PDF 194쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.053055556,35.305000000,0</coordinates></Point></Placemark><Placemark><name>북측-09</name><styleUrl>#z4</styleUrl><description>조사번호: 북측-09
+경상남도 양산시 동면 일원
+우점 수종(흉고단면적 기준): 신갈나무
+평균 흉고직경: 12.21 cm
+평균 수고: 9.24 m
+매목 기록: 29건 / 400m²
+흉고단면적: 8.867 m²/ha
+원문 PDF 195쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.054444444,35.305833333,0</coordinates></Point></Placemark><Placemark><name>북측-10</name><styleUrl>#z4</styleUrl><description>조사번호: 북측-10
+경상남도 양산시 동면 일원
+우점 수종(흉고단면적 기준): 비목나무
+평균 흉고직경: 16.32 cm
+평균 수고: 12.16 m
+매목 기록: 19건 / 400m²
+흉고단면적: 12.009 m²/ha
+원문 PDF 196쪽; 2009–2010년 조사
+원문 수종 표기 보존. 위치점의 초 단위 GPS 정밀도 및 미기재 측지계에 유의.</description><Point><coordinates>129.055833333,35.308611111,0</coordinates></Point></Placemark></Document></kml>

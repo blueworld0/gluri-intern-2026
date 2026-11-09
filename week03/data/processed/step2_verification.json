@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "cv_rows": 12,
+  "selected_model": "RF",
+  "map_checks": [
+    {
+      "model": "RF",
+      "checked_map_pixels": 3100393,
+      "AGB_sum_Mg": 5749744.689417133
+    },
+    {
+      "model": "LightGBM",
+      "checked_map_pixels": 3100393,
+      "AGB_sum_Mg": 5703910.889119778
+    }
+  ]
+}

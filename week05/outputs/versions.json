@@ -1,0 +1,11 @@
+{
+  "deepforest": "2.1.0",
+  "neonutilities": "2.0.2",
+  "numpy": "2.4.6",
+  "pandas": "2.2.3",
+  "rasterio": "1.5.2",
+  "geopandas": "1.2.0",
+  "shapely": "2.2.0",
+  "pyproj": "3.8.0",
+  "scikit-learn": "1.6.1"
+}

@@ -1,0 +1,9 @@
+{
+  "default_method": "A_DF_nested_OOF",
+  "selection_metric": "carbon_RMSE_tC_ha",
+  "selection_scope": "same 23 plot comparison; selection error is not independent generalization error",
+  "deployment_DF_patch_size": 600,
+  "deployment_DF_score_threshold": 0.2,
+  "current_evaluation": "outer GroupKFold OOF for A and C; globally selected parameters are deployment-only",
+  "chosen_carbon_RMSE_tC_ha": 81.23657228740976
+}

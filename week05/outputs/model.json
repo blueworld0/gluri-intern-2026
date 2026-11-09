@@ -1,0 +1,6 @@
+{
+  "version": "2.1.0",
+  "loader": "load_model",
+  "model": "weecology/deepforest-tree",
+  "revision": "main"
+}

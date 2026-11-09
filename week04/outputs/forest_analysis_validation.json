@@ -1,0 +1,16 @@
+{
+  "validation": "PASS",
+  "polygon_parts": {
+    "2013": 5640,
+    "2025": 3915
+  },
+  "trails": 960,
+  "plot_comparisons": 50,
+  "combined_visits": 75,
+  "kml_placemarks": 75,
+  "candidate_plot_pairs_100m": 1,
+  "roundtrip_area_errors": {
+    "2013_duplicate_area_m2": -4.3213367462158203e-07,
+    "2025_duplicate_area_m2": 4.470348358154297e-08
+  }
+}
