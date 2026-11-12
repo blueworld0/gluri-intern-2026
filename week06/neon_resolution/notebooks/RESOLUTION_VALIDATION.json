@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "cells": 50,
+  "guarded_legacy_cells": 16,
+  "preserved_core_functions": [
+    "estimate_dbh",
+    "estimate_agb",
+    "predict_crowns",
+    "match_one_to_one",
+    "nested_group_parameter_selection",
+    "evaluate_detection_method",
+    "plot_biomass_totals"
+  ],
+  "cohort": {
+    "GRSM": 15,
+    "ORNL": 8
+  },
+  "reference_trees": 617,
+  "coordinate_trees": 532,
+  "cached_10cm_F1_visible": 0.5458612975391499,
+  "cached_10cm_carbon_ratio": 0.6764955061585338,
+  "cached_10cm_carbon_RMSE": 81.23657228740976,
+  "cached_patch600_subset_winners": {
+    "0": 0.2,
+    "1": 0.2,
+    "2": 0.2,
+    "3": 0.2,
+    "4": 0.2
+  },
+  "actual_51cm_gsd_for_100m_crop": 0.5102040816326531,
+  "scientific_imports_executed": false,
+  "GPU_inference_executed": false,
+  "remaining": "실제 Rasterio 축소·DeepForest 추론·25/51cm 평가는 Colab 실행 필요"
+}

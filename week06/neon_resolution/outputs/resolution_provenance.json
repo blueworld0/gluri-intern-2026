@@ -1,0 +1,382 @@
+{
+  "base_directory": "/content/drive/MyDrive/neon_grsm_ornl/outputs/f55cc4636e94",
+  "base_signature": "9748558a963e83e06a06ba359fa9bb50237de2b721109028c661fe47fcdca543",
+  "schema": "resolution-v1-average-native-bilinear-10cm",
+  "source_files": {
+    "config.json": "6392eed33264df7fe979d913eb8fc64f0f1b1856bc5fdd2350bb4df6f4d16525",
+    "versions.json": "e3e1499a9d15922a6c92800f5d1f934173890c8e611c82c4e3d1c23693833b68",
+    "selected_detection_method.json": "15deced5196c8866c41c98adc65bbd2db29cadcc01081b0256775b409e0be9df",
+    "comparison_cohort.csv": "00a41dd7725055477887522159861e1bfcdfc4c4a9ef1233778350c468c68bb8",
+    "sampled_footprints.gpkg": "1ddc3e36a1cf1febe6eca3008f81567aea904a6418a1aecc9e4e232a9010d08c",
+    "raster_manifest.csv": "afe67194b5ac8a0de102c8cea7a985bf5d78c07229d1511b3e78d533f1557eb6",
+    "field_trees_all.csv": "1350bb8dd02cc3c9f7a3da6f119c0f3e2206ed28485940916275e43eeef2b607",
+    "field_trees.csv": "1d62b2909a4f10ad9318381dbe6358d841da118535739c4e88cb763fcc6af284",
+    "method_comparison.csv": "0f9bedcb83eaddbe87606248a2dfdd5bffb7347ebb88e76df9afe4ab788bdff4",
+    "A_outer_groupkfold.csv": "0225ad8b5fd7d14a9fe2a9002f3e80693206599b4f0501129a22c8772821fcfe",
+    "A_inner_grid_scores.csv": "47c90e1599713b71947aedff8e461fb951737a05f185a3eff12ab82f40bf5750",
+    "A_fold_plot_assignments.csv": "d398940a152a9b7134eb0f84a750c7fc1e1c3ee462b754be60bedb183be65eca",
+    "A_deployment_grid.csv": "fff6e36f7477a1a5bd6ccb754887290354eb64011f065baa13d3a9fbd2f6869c",
+    "report.md": "e83f271d7b55f295a7b5f34d3f7a7f868f1b36f1173e56fd653a951e82d36e9e",
+    "methods/baseline_015/detected_trees.csv": "72bad562e6f173d6e573307ab0296531c2f2ed3473798d2e3397e49891ced04c",
+    "methods/baseline_015/matched_trees_visible.csv": "47e83c0955d0f791daf2ec020edf9d803f7ea2a3f456cc322116fa86ae40e79d",
+    "methods/baseline_015/detection_metrics.csv": "3be2fc2b9450270a93f0045ff90781902f6cbc405ac086a8fe5df08d41fe43f5",
+    "methods/baseline_015/plot_comparison.csv": "095789596871d86d66389be44b8799f20649fda99bf6edfb35fbd06a8e694266",
+    "methods/baseline_015/matches_visible.csv": "a323c666b21dd64a9f432def4602e1601d172af4c18740bfbd461e58b83d92b6",
+    "methods/baseline_015/matches_all.csv": "71e5f5dd866e30dff7e7d3bc8d6a18e634f4fc68d383a2119b2afa86c2a8c4d8",
+    "methods/A_DF_nested_OOF/detected_trees.csv": "f2c3695947652694ffe9e36827c6c1b5a927df779246cac3540b4670b1d5bba7",
+    "methods/A_DF_nested_OOF/matched_trees_visible.csv": "019b823c96e455ec8710a51109e7cdce309847578fe48f8c07468e5f079a4e61",
+    "methods/A_DF_nested_OOF/detection_metrics.csv": "4a966937ae2d735e055d76c194fd32cd2ea456edbf8b0492d1191230c82fb7cb",
+    "methods/A_DF_nested_OOF/plot_comparison.csv": "0109466981fd99a47e59d037713ac31b362e8ae0dbfb873a38011212924cfbff",
+    "methods/A_DF_nested_OOF/matches_visible.csv": "93173f7e4332d97bf0a7532ec8f843a2ac602b1642c1a8fbc5c06ed87c0f071c",
+    "methods/A_DF_nested_OOF/matches_all.csv": "ae801dd520163bd7eb6049b08375f6d4afad32d6c43868c53db2913c315ebfb9",
+    "methods/B_CHM/detected_trees.csv": "9fc6239740479d0124db610b51a1db90e1a3a8c668e67a3629af9ae14d753608",
+    "methods/B_CHM/matched_trees_visible.csv": "1ce57da6b2b396f3e88e4f13c80b4f0ef46e76966412ea4b48d806f5ee97ca2f",
+    "methods/B_CHM/detection_metrics.csv": "1d702a30f770e9abf51ef12914ac145becf8dee5472721b6c669ee8a8d5452de",
+    "methods/B_CHM/plot_comparison.csv": "0220128b1eb8145ebf7f417762b37e74dafc4243a81f74ed38eda8d6488a631b",
+    "methods/B_CHM/matches_visible.csv": "8f98ae9a8ca35462423d158c2d4a4a2fbebaf5b07b1bbf328351349a46a0ddf4",
+    "methods/B_CHM/matches_all.csv": "eaa16f93f8b4931dbfc6dc41ad8aee880f66859cc28e4bb0143a372bc6f85b99",
+    "methods/C_fusion_nested_OOF/detected_trees.csv": "08c0fb0030b6d3a1a8f2547da64dd5c0305d8ad7842c41fb167963ec8c2b2fbf",
+    "methods/C_fusion_nested_OOF/matched_trees_visible.csv": "bca02f7e2dfabd23edcac1c97da978771a446c2f9c29c39fc86f53c3ef2cfeaa",
+    "methods/C_fusion_nested_OOF/detection_metrics.csv": "d51881a19e056d616793cb71eed015327770ae9cee3296559c07eb06f0151003",
+    "methods/C_fusion_nested_OOF/plot_comparison.csv": "0813d2bd0c8b300ffe896d2fc7a4b817ab9b79e04613a2e454e99160567ac245",
+    "methods/C_fusion_nested_OOF/matches_visible.csv": "b98eb406a49786d2aca148577dff565c6a3c0cd3a717d92993fa4cfceed9f8bb",
+    "methods/C_fusion_nested_OOF/matches_all.csv": "5735cdcd021c87c690ec80081de9e447ea264a7aabc61259397930aab9c2c527"
+  },
+  "settings": {
+    "schema": "resolution-v1-average-native-bilinear-10cm",
+    "code_sha": "15f59840aded39d66d1aabf2b2961794871a785efde480f7721a19467792e51c",
+    "source_files": {
+      "config.json": "6392eed33264df7fe979d913eb8fc64f0f1b1856bc5fdd2350bb4df6f4d16525",
+      "versions.json": "e3e1499a9d15922a6c92800f5d1f934173890c8e611c82c4e3d1c23693833b68",
+      "selected_detection_method.json": "15deced5196c8866c41c98adc65bbd2db29cadcc01081b0256775b409e0be9df",
+      "comparison_cohort.csv": "00a41dd7725055477887522159861e1bfcdfc4c4a9ef1233778350c468c68bb8",
+      "sampled_footprints.gpkg": "1ddc3e36a1cf1febe6eca3008f81567aea904a6418a1aecc9e4e232a9010d08c",
+      "raster_manifest.csv": "afe67194b5ac8a0de102c8cea7a985bf5d78c07229d1511b3e78d533f1557eb6",
+      "field_trees_all.csv": "1350bb8dd02cc3c9f7a3da6f119c0f3e2206ed28485940916275e43eeef2b607",
+      "field_trees.csv": "1d62b2909a4f10ad9318381dbe6358d841da118535739c4e88cb763fcc6af284",
+      "method_comparison.csv": "0f9bedcb83eaddbe87606248a2dfdd5bffb7347ebb88e76df9afe4ab788bdff4",
+      "A_outer_groupkfold.csv": "0225ad8b5fd7d14a9fe2a9002f3e80693206599b4f0501129a22c8772821fcfe",
+      "A_inner_grid_scores.csv": "47c90e1599713b71947aedff8e461fb951737a05f185a3eff12ab82f40bf5750",
+      "A_fold_plot_assignments.csv": "d398940a152a9b7134eb0f84a750c7fc1e1c3ee462b754be60bedb183be65eca",
+      "A_deployment_grid.csv": "fff6e36f7477a1a5bd6ccb754887290354eb64011f065baa13d3a9fbd2f6869c",
+      "report.md": "e83f271d7b55f295a7b5f34d3f7a7f868f1b36f1173e56fd653a951e82d36e9e",
+      "methods/baseline_015/detected_trees.csv": "72bad562e6f173d6e573307ab0296531c2f2ed3473798d2e3397e49891ced04c",
+      "methods/baseline_015/matched_trees_visible.csv": "47e83c0955d0f791daf2ec020edf9d803f7ea2a3f456cc322116fa86ae40e79d",
+      "methods/baseline_015/detection_metrics.csv": "3be2fc2b9450270a93f0045ff90781902f6cbc405ac086a8fe5df08d41fe43f5",
+      "methods/baseline_015/plot_comparison.csv": "095789596871d86d66389be44b8799f20649fda99bf6edfb35fbd06a8e694266",
+      "methods/baseline_015/matches_visible.csv": "a323c666b21dd64a9f432def4602e1601d172af4c18740bfbd461e58b83d92b6",
+      "methods/baseline_015/matches_all.csv": "71e5f5dd866e30dff7e7d3bc8d6a18e634f4fc68d383a2119b2afa86c2a8c4d8",
+      "methods/A_DF_nested_OOF/detected_trees.csv": "f2c3695947652694ffe9e36827c6c1b5a927df779246cac3540b4670b1d5bba7",
+      "methods/A_DF_nested_OOF/matched_trees_visible.csv": "019b823c96e455ec8710a51109e7cdce309847578fe48f8c07468e5f079a4e61",
+      "methods/A_DF_nested_OOF/detection_metrics.csv": "4a966937ae2d735e055d76c194fd32cd2ea456edbf8b0492d1191230c82fb7cb",
+      "methods/A_DF_nested_OOF/plot_comparison.csv": "0109466981fd99a47e59d037713ac31b362e8ae0dbfb873a38011212924cfbff",
+      "methods/A_DF_nested_OOF/matches_visible.csv": "93173f7e4332d97bf0a7532ec8f843a2ac602b1642c1a8fbc5c06ed87c0f071c",
+      "methods/A_DF_nested_OOF/matches_all.csv": "ae801dd520163bd7eb6049b08375f6d4afad32d6c43868c53db2913c315ebfb9",
+      "methods/B_CHM/detected_trees.csv": "9fc6239740479d0124db610b51a1db90e1a3a8c668e67a3629af9ae14d753608",
+      "methods/B_CHM/matched_trees_visible.csv": "1ce57da6b2b396f3e88e4f13c80b4f0ef46e76966412ea4b48d806f5ee97ca2f",
+      "methods/B_CHM/detection_metrics.csv": "1d702a30f770e9abf51ef12914ac145becf8dee5472721b6c669ee8a8d5452de",
+      "methods/B_CHM/plot_comparison.csv": "0220128b1eb8145ebf7f417762b37e74dafc4243a81f74ed38eda8d6488a631b",
+      "methods/B_CHM/matches_visible.csv": "8f98ae9a8ca35462423d158c2d4a4a2fbebaf5b07b1bbf328351349a46a0ddf4",
+      "methods/B_CHM/matches_all.csv": "eaa16f93f8b4931dbfc6dc41ad8aee880f66859cc28e4bb0143a372bc6f85b99",
+      "methods/C_fusion_nested_OOF/detected_trees.csv": "08c0fb0030b6d3a1a8f2547da64dd5c0305d8ad7842c41fb167963ec8c2b2fbf",
+      "methods/C_fusion_nested_OOF/matched_trees_visible.csv": "bca02f7e2dfabd23edcac1c97da978771a446c2f9c29c39fc86f53c3ef2cfeaa",
+      "methods/C_fusion_nested_OOF/detection_metrics.csv": "d51881a19e056d616793cb71eed015327770ae9cee3296559c07eb06f0151003",
+      "methods/C_fusion_nested_OOF/plot_comparison.csv": "0813d2bd0c8b300ffe896d2fc7a4b817ab9b79e04613a2e454e99160567ac245",
+      "methods/C_fusion_nested_OOF/matches_visible.csv": "b98eb406a49786d2aca148577dff565c6a3c0cd3a717d92993fa4cfceed9f8bb",
+      "methods/C_fusion_nested_OOF/matches_all.csv": "5735cdcd021c87c690ec80081de9e447ea264a7aabc61259397930aab9c2c527"
+    },
+    "rasters": [
+      {
+        "plotID": "GRSM_051",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_051_2021_rgb_f55cc4636e94.tif",
+        "sha256": "c688c6ac99822b024a558a37644d899fe78612c079de5c3189e65e46de1fa086"
+      },
+      {
+        "plotID": "GRSM_051",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_051_2021_chm_f55cc4636e94.tif",
+        "sha256": "4348d411dfb206da57f7f6583959efef6ed8998cf72845c5a7baa3e19112a131"
+      },
+      {
+        "plotID": "GRSM_047",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_047_2021_rgb_f55cc4636e94.tif",
+        "sha256": "d55bb8b972085738ef0296959f5edfc946c5443567ee83061fa228663ad67523"
+      },
+      {
+        "plotID": "GRSM_047",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_047_2021_chm_f55cc4636e94.tif",
+        "sha256": "1b87c493caab1ea8c7afce7e53db7470a2d0c47ba5fe22ba26910c0cfd5f3cf1"
+      },
+      {
+        "plotID": "GRSM_049",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_049_2021_rgb_f55cc4636e94.tif",
+        "sha256": "02f5a9433b939f853b86d2480c5eaf673a221953c5d64de45a6c4c7a26e538af"
+      },
+      {
+        "plotID": "GRSM_049",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_049_2021_chm_f55cc4636e94.tif",
+        "sha256": "f233f9e993d62966add5abb3afdce9def40fc8a80bbefb17d26a9990276d190c"
+      },
+      {
+        "plotID": "GRSM_050",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_050_2021_rgb_f55cc4636e94.tif",
+        "sha256": "f2067972070e828f508c3a983e3f8d42b72af8363dee1e6510c09b1c6657503e"
+      },
+      {
+        "plotID": "GRSM_050",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_050_2021_chm_f55cc4636e94.tif",
+        "sha256": "c84f0ee630a6427e488651aca9edd0c0a52ec5fdb721cf96363735e00d06cdc7"
+      },
+      {
+        "plotID": "GRSM_001",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_001_2021_rgb_f55cc4636e94.tif",
+        "sha256": "0a81321a86d145a4d51bab4c7aaea2371f9fe864277b185a2cf283ee1250a802"
+      },
+      {
+        "plotID": "GRSM_001",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_001_2021_chm_f55cc4636e94.tif",
+        "sha256": "8d6733a98233005d0c105fe4af26e707be4b96d2bcbf0e601c9cd19ce708a105"
+      },
+      {
+        "plotID": "GRSM_017",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_017_2021_rgb_f55cc4636e94.tif",
+        "sha256": "021892bcaed9c8902a50b719a0bde9bc2845b2adff95a849a53181e69ff1a3e3"
+      },
+      {
+        "plotID": "GRSM_017",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_017_2021_chm_f55cc4636e94.tif",
+        "sha256": "0019fa2e6be2a1b63a15e0e130e0c409f290dcee926e93d8c16e53996fe7ac8a"
+      },
+      {
+        "plotID": "GRSM_012",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_012_2021_rgb_f55cc4636e94.tif",
+        "sha256": "39e9e98336b60f34c89c3b9fde8407a0750210dde70123defdbc994d68dde5a4"
+      },
+      {
+        "plotID": "GRSM_012",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_012_2021_chm_f55cc4636e94.tif",
+        "sha256": "7a197f56f2af31c1893588b310ce4e1b62c32bf5e264ae85ee3b1f957c7b5a4d"
+      },
+      {
+        "plotID": "GRSM_014",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_014_2021_rgb_f55cc4636e94.tif",
+        "sha256": "6c977955eaf8fa31df07be9873d6ea079ea5e757908041f4a71a1c2796f53207"
+      },
+      {
+        "plotID": "GRSM_014",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_014_2021_chm_f55cc4636e94.tif",
+        "sha256": "5488a926dcfcfef74218fa5969563640b00ce7e21c2bc362a3101893cdedbcf4"
+      },
+      {
+        "plotID": "GRSM_016",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_016_2021_rgb_f55cc4636e94.tif",
+        "sha256": "e930c7342c6b67acfdaa5fdd9fe1b7a154c2ad9f4fe100b70bced810566421b4"
+      },
+      {
+        "plotID": "GRSM_016",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_016_2021_chm_f55cc4636e94.tif",
+        "sha256": "5c8720145f083dbea9d4e67ba56bd4372b1f5c51d79af8ec964b934bb69ed7aa"
+      },
+      {
+        "plotID": "GRSM_009",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_009_2021_rgb_f55cc4636e94.tif",
+        "sha256": "4fd296f459d9ff0810eaa928142741fa378327149dd97d073a2879a948154e67"
+      },
+      {
+        "plotID": "GRSM_009",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_009_2021_chm_f55cc4636e94.tif",
+        "sha256": "766b8b222d9589dfb0d5b5509150a382e21530108b7e0ec24a22403a9a35ae7c"
+      },
+      {
+        "plotID": "GRSM_055",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_055_2021_rgb_f55cc4636e94.tif",
+        "sha256": "eb1d0d25f08630b8c89cbf08cff45be3d1c8209a7cb742937b1a195d995580cf"
+      },
+      {
+        "plotID": "GRSM_055",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_055_2021_chm_f55cc4636e94.tif",
+        "sha256": "03cc8488a38903a33ca30dbda10d9d04588af824a3cc1b0c1e3434151a31a4ac"
+      },
+      {
+        "plotID": "GRSM_058",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_058_2021_rgb_f55cc4636e94.tif",
+        "sha256": "146b2c10629e2558707e0a448ffad4d218928db89dacc80eae2452d1d819831e"
+      },
+      {
+        "plotID": "GRSM_058",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_058_2021_chm_f55cc4636e94.tif",
+        "sha256": "69d61cf498d41917ef87f11b554f694ca023d7b9611a9cdb564c7dc594f11073"
+      },
+      {
+        "plotID": "GRSM_057",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_057_2021_rgb_f55cc4636e94.tif",
+        "sha256": "d681193e6105d420cac0f8c294a3a8590793815bc5f324f0f9e2f057528a860f"
+      },
+      {
+        "plotID": "GRSM_057",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_057_2021_chm_f55cc4636e94.tif",
+        "sha256": "f647a2013008f10a50a2388a27a0ee25c60646a4ea4e48f6a8edc71611fe6255"
+      },
+      {
+        "plotID": "GRSM_059",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_059_2021_rgb_f55cc4636e94.tif",
+        "sha256": "473143f044117f013ee151ddcbef0f20fc4149ab71f3e53e728cfd034691f725"
+      },
+      {
+        "plotID": "GRSM_059",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_059_2021_chm_f55cc4636e94.tif",
+        "sha256": "4b928733c9a30d7136ed31de3f470e1b967a557a15e495996941d4f5db5c5074"
+      },
+      {
+        "plotID": "GRSM_060",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_060_2021_rgb_f55cc4636e94.tif",
+        "sha256": "6b64bb55de18394fd4b28d59824bbb792d4964a6c72079d44066681b032902de"
+      },
+      {
+        "plotID": "GRSM_060",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/GRSM_060_2021_chm_f55cc4636e94.tif",
+        "sha256": "3215d5c8bc5c4dd751c82ea2af94c1a78b209853dea6b5218077073885653373"
+      },
+      {
+        "plotID": "ORNL_001",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_001_2021_rgb_f55cc4636e94.tif",
+        "sha256": "22388b0e286e2d051261f73ceef2c6288d49974d014bbb95ab533d6c518f953f"
+      },
+      {
+        "plotID": "ORNL_001",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_001_2021_chm_f55cc4636e94.tif",
+        "sha256": "6e259a2e89570a33154465f73b174e614df3ea77c5c30d53f2f46ea92e17ac53"
+      },
+      {
+        "plotID": "ORNL_027",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_027_2021_rgb_f55cc4636e94.tif",
+        "sha256": "268eb813b6714e57c5caa5316f445e4705fba1b50958fbff3fa6c65a4d7cdac5"
+      },
+      {
+        "plotID": "ORNL_027",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_027_2021_chm_f55cc4636e94.tif",
+        "sha256": "0efa7dc47db10ed50258d93d4f3f93d0d233c50d4fd740a78d71f037abf224b1"
+      },
+      {
+        "plotID": "ORNL_004",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_004_2021_rgb_f55cc4636e94.tif",
+        "sha256": "c92e1d9f412869b4b93956bf237c6f54bb6ba728998de922d4850da2cb207bb4"
+      },
+      {
+        "plotID": "ORNL_004",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_004_2021_chm_f55cc4636e94.tif",
+        "sha256": "d16c7077d32ee5541377013e0381675a4ca17218bad74b5537df082b8c89f4e6"
+      },
+      {
+        "plotID": "ORNL_006",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_006_2021_rgb_f55cc4636e94.tif",
+        "sha256": "b0de5d6e1e4a49c1f5b9eeb7c5c3ffd1a3cdd2867a1b8dee83c47bcf681ef321"
+      },
+      {
+        "plotID": "ORNL_006",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_006_2021_chm_f55cc4636e94.tif",
+        "sha256": "c1913a37fee7d386feafd3e21cf867a2095beadbb23ab23802198093cc36f8b7"
+      },
+      {
+        "plotID": "ORNL_010",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_010_2021_rgb_f55cc4636e94.tif",
+        "sha256": "3447f13a45cf2e510a202ab6cc45e644093588280dfe96eb941025e611901249"
+      },
+      {
+        "plotID": "ORNL_010",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_010_2021_chm_f55cc4636e94.tif",
+        "sha256": "1bcde0f6240b0828d91ce0cb00ae20f735995643d0a91ee95a4947888137b25f"
+      },
+      {
+        "plotID": "ORNL_009",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_009_2021_rgb_f55cc4636e94.tif",
+        "sha256": "ae088490ec8ea39ac30c1eb4b17b5d89837fd804f34f7fbd3e1c27fee6989b25"
+      },
+      {
+        "plotID": "ORNL_009",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_009_2021_chm_f55cc4636e94.tif",
+        "sha256": "09b456c44bea4434454de71c68b22cee5302201f7bab27a9392882d8b4089014"
+      },
+      {
+        "plotID": "ORNL_049",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_049_2021_rgb_f55cc4636e94.tif",
+        "sha256": "8443b53430e9440043e089b747fe86c2a2956e33848aa637b324f28506507ef9"
+      },
+      {
+        "plotID": "ORNL_049",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_049_2021_chm_f55cc4636e94.tif",
+        "sha256": "93d837dcdbcb046c5d670d3fb043c29b3c3e5406b71f4b3d523f8433e623df0a"
+      },
+      {
+        "plotID": "ORNL_057",
+        "kind": "rgb",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_057_2021_rgb_f55cc4636e94.tif",
+        "sha256": "f3bf40957416689b8f28cab42052c8d9bf00c7c6f14df060bc7932fc9fb4edcf"
+      },
+      {
+        "plotID": "ORNL_057",
+        "kind": "chm",
+        "path": "/content/drive/MyDrive/neon_grsm_ornl/data/crops/ORNL_057_2021_chm_f55cc4636e94.tif",
+        "sha256": "d64b930f415307a6e1ebbf2a2affe65d046869b3b6f2fb10956e54176f579a2c"
+      }
+    ],
+    "resolutions": [
+      10,
+      25,
+      51
+    ],
+    "patch": 600,
+    "thresholds": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5
+    ]
+  },
+  "no_imagery_download": true,
+  "old_methods_recomputed": false
+}

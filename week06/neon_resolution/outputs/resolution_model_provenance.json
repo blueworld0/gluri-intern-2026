@@ -1,0 +1,7 @@
+{
+  "model_name": "weecology/deepforest-tree",
+  "source_revision": "main",
+  "resolved_revision": "cc21436bc5d572dde8ff5f93c1e71a32f563cace",
+  "deepforest_version": "2.1.0",
+  "limitation": "3차 결과는 main으로만 기록되어 당시 가중치 SHA 동일 여부는 직접 검증할 수 없음"
+}

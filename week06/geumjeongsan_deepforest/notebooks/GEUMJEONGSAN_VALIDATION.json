@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "TIFF_XML_headers": 9,
+  "control_5179": {
+    "sheet": "35913003",
+    "width": 9504,
+    "height": 11496,
+    "left": 204500.48263364087,
+    "bottom": 292009.177324453,
+    "right": 206876.48263364087,
+    "top": 294883.177324453,
+    "width_difference_m": -1.3364569151308388,
+    "height_difference_m": -1.0560266118845902,
+    "control_5179_bbox": [
+      1140963.5577440017,
+      1693231.1101987464,
+      1143382.3381979708,
+      1696140.2363259408
+    ],
+    "control_5179_errors_m": [
+      0.5577440017368644,
+      0.11019874643534422,
+      -1.6618020292371511,
+      1.2363259408157319
+    ]
+  },
+  "field_reference": [
+    {
+      "threshold_cm": 6,
+      "n_trees": 1694,
+      "aboveground_carbon_tC": 125.83566865882129,
+      "mean_tC_ha": 62.917834329410645
+    },
+    {
+      "threshold_cm": 10,
+      "n_trees": 1422,
+      "aboveground_carbon_tC": 123.54646480898549,
+      "mean_tC_ha": 61.773232404492745
+    }
+  ],
+  "scientific_packages_imported": false,
+  "local_only": "stdlib; 원본픽셀/추론/원격다운로드 미실행"
+}

@@ -1,0 +1,3 @@
+metric,cached_A,fixed_10cm,difference,matches_cached_A,approximate_expected,within_approximate_tolerance
+F1_visible,0.5458612975391499,0.5458612975391499,0.0,True,0.55,True
+estimate_reference_ratio,0.6764955061585338,0.6764955061585338,0.0,True,0.68,True
