@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "A",
+        "region_id": "G025_515_140",
+        "quality_valid": 1595,
+        "boundary_type": "arbitrary_0.25_degree_grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.75,
+              35.0
+            ],
+            [
+              129.0,
+              35.0
+            ],
+            [
+              129.0,
+              35.25
+            ],
+            [
+              128.75,
+              35.25
+            ],
+            [
+              128.75,
+              35.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "B",
+        "region_id": "G025_516_141",
+        "quality_valid": 799,
+        "boundary_type": "arbitrary_0.25_degree_grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              129.0,
+              35.25
+            ],
+            [
+              129.25,
+              35.25
+            ],
+            [
+              129.25,
+              35.5
+            ],
+            [
+              129.0,
+              35.5
+            ],
+            [
+              129.0,
+              35.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "C",
+        "region_id": "G025_517_142",
+        "quality_valid": 1109,
+        "boundary_type": "arbitrary_0.25_degree_grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              129.25,
+              35.5
+            ],
+            [
+              129.5,
+              35.5
+            ],
+            [
+              129.5,
+              35.75
+            ],
+            [
+              129.25,
+              35.75
+            ],
+            [
+              129.25,
+              35.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "D",
+        "region_id": "G025_506_133",
+        "quality_valid": 841,
+        "boundary_type": "arbitrary_0.25_degree_grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.5,
+              33.25
+            ],
+            [
+              126.75,
+              33.25
+            ],
+            [
+              126.75,
+              33.5
+            ],
+            [
+              126.5,
+              33.5
+            ],
+            [
+              126.5,
+              33.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "E",
+        "region_id": "G025_513_143",
+        "quality_valid": 297,
+        "boundary_type": "arbitrary_0.25_degree_grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.25,
+              35.75
+            ],
+            [
+              128.5,
+              35.75
+            ],
+            [
+              128.5,
+              36.0
+            ],
+            [
+              128.25,
+              36.0
+            ],
+            [
+              128.25,
+              35.75
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

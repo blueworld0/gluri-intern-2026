@@ -1,0 +1,56 @@
+{
+  "created_at_utc": "2026-11-13T09:21:24.634598+00:00",
+  "product": "S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE",
+  "gedi_input": 1055,
+  "all_six_bands_valid": 1055,
+  "clear_valid_index_candidates": 1049,
+  "vegetation_candidates": 441,
+  "unique_vegetation_pixels": 441,
+  "scl_native_aligned_disagreements": 0,
+  "cloud_shadow_points_either_scl_grid": 0,
+  "classi_cloud_cirrus_snow_points": 0,
+  "forest_confirmed_new_samples": null,
+  "forest_status": "not_assessed; SCL vegetation is not forest",
+  "quantification": 10000.0,
+  "band_offsets": {
+    "B02": -1000.0,
+    "B03": -1000.0,
+    "B04": -1000.0,
+    "B08": -1000.0,
+    "B11": -1000.0,
+    "B12": -1000.0
+  },
+  "tile_sensing_time_utc_from_xml": "2025-04-28T02:18:18.132585Z",
+  "catalogue_start_utc": "2025-04-28T02:07:11.025Z",
+  "time_gap_hours_tile_min": 57.12705171583333,
+  "time_gap_hours_tile_max": 57.128322383055554,
+  "crop_grid": {
+    "crs": "EPSG:32652",
+    "width": 2334,
+    "height": 2586,
+    "transform": [
+      10.0,
+      0.0,
+      477660.0,
+      0.0,
+      -10.0,
+      3899140.0
+    ],
+    "bounds_utm": [
+      477660.0,
+      3873280.0,
+      501000.0,
+      3899140.0
+    ],
+    "resolution_m": 10
+  },
+  "quality_policy": "all 8 MSK_QUALIT layers zero and detector ID 1..12; mask native DN before bilinear; full valid interpolation support",
+  "scl_policy": "clear surface 4/5/6 on native and aligned grids; final vegetation 4/4; CLASSI cloud/cirrus/snow all zero",
+  "cloud_probability_policy": "recorded only; no arbitrary probability threshold applied",
+  "evi_policy": "finite required; no clipping; abs>1 and denominator<0.05 flagged only",
+  "input_points_sha256": "3bceba746147c38899f68376720cc420bae9334ea83fcf67c277a514f7233c63",
+  "source_zip_md5": "8a36a6515ea5310b4bbda79b7e53c493",
+  "original_baseline_csv_unchanged": true,
+  "input_points_unchanged": true,
+  "model_training_performed": false
+}

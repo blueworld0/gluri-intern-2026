@@ -1,0 +1,12 @@
+candidate,region_id,gedi_date_utc,gedi_orbits,gedi_quality_count,bbox_west,bbox_south,bbox_east,bbox_north,preferred_search_start_utc,preferred_search_end_utc,collection,bands,status,product_id
+A,G025_515_140,2025-02-04,O34820,533,128.756125,35.000957,129.009913,35.25993,2025-01-28,2025-02-11,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified
+A,G025_515_140,2025-03-14,O35415,7,128.756125,35.000957,129.009913,35.25993,2025-03-07,2025-03-21,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified
+A,G025_515_140,2025-04-25,O36071,1055,128.756125,35.000957,129.009913,35.25993,2025-04-18,2025-05-02,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified
+B,G025_516_141,2025-02-02,O34794,243,128.990298,35.240161,129.258527,35.469732,2025-01-26,2025-02-09,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified
+B,G025_516_141,2025-02-04,O34820,252,128.990298,35.240161,129.258527,35.469732,2025-01-28,2025-02-11,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified
+B,G025_516_141,2025-04-25,O36071,304,128.990298,35.240161,129.258527,35.469732,2025-04-18,2025-05-02,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified
+C,G025_517_142,2025-02-04,O34820,682,129.241996,35.490258,129.491152,35.727377,2025-01-28,2025-02-11,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified
+C,G025_517_142,2025-04-25,O36071,427,129.241996,35.490258,129.491152,35.727377,2025-04-18,2025-05-02,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified
+D,G025_506_133,2025-02-04,O34820,101,126.490791,33.240052,126.700794,33.50993,2025-01-28,2025-02-11,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified
+D,G025_506_133,2025-04-25,O36071,740,126.490791,33.240052,126.700794,33.50993,2025-04-18,2025-05-02,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified
+E,G025_513_143,2025-02-02,O34794,297,128.240287,35.758485,128.509789,35.998415,2025-01-26,2025-02-09,Sentinel-2 L2A,B02;B03;B04;B08;B11;B12;SCL;dataMask,planning_only_no_search_or_download,not_yet_identified

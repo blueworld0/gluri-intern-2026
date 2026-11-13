@@ -1,0 +1,12 @@
+{
+  "product_uuid": "6c4173d8-59e8-41f8-b339-c49620900f8f",
+  "product_name": "S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE",
+  "catalogue_url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products(6c4173d8-59e8-41f8-b339-c49620900f8f)?%24expand=Attributes",
+  "future_download_url_not_called": "https://download.dataspace.copernicus.eu/odata/v1/Products(6c4173d8-59e8-41f8-b339-c49620900f8f)/$value",
+  "token_url": "https://identity.dataspace.copernicus.eu/auth/realms/CDSE/protocol/openid-connect/token",
+  "oidc_discovery_url": "https://identity.dataspace.copernicus.eu/auth/realms/CDSE/.well-known/openid-configuration",
+  "client_id": "cdse-public",
+  "download_subdirectory": "downloads",
+  "minimum_free_space_bytes": 5368709120,
+  "downloads_enabled_in_step4": false
+}

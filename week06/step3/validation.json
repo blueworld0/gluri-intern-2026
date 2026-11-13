@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "catalogue_http_status": 200,
+  "catalogue_records": 16,
+  "catalogue_reported_count": 16,
+  "pagination_complete": true,
+  "unique_product_uuids": 16,
+  "gedi_unique_points": 1055,
+  "polygon_two_implementations_agree": true,
+  "primary_geometric_overlap": 1055,
+  "primary_covers_entire_candidate_grid": false,
+  "partial_sde_geometric_overlap": 375,
+  "primary_planned_file_count": 25,
+  "primary_planned_bytes_from_listing": 485041677,
+  "actual_image_data_downloaded": false,
+  "xml_content_downloaded": false,
+  "new_training_ready_count": null,
+  "pixel_cloud_and_forest_status": "not_evaluated"
+}

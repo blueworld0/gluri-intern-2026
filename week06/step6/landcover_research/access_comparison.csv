@@ -1,0 +1,5 @@
+dataset,official_route,access,analysis_format,native_epsg,status
+EGIS_2025_fine,https://egis.me.go.kr/req/intro.do,login_then_application_then_download,SHP with code attributes,not_confirmed,official_documentation_only
+EGIS_2025_medium,https://egis.me.go.kr/req/intro.do,login_then_application_then_download,classification GeoTIFF or SHP,not_confirmed,official_documentation_only
+EGIS_WMS_2025,https://egis.me.go.kr/api/land.do,map_service_docs_only,rendered_map_not_source_classification,3857 example is not source CRS,no_service_request_sent
+Forest_2025_large_scale,https://map.forest.go.kr/forest/,identity_verification_and_application,TIFF listed for public access; vector/attribute availability needs confirmation,not_confirmed,no_login_or_application

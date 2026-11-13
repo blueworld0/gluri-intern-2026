@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "source_counts": true,
+  "duplicates_zero": true,
+  "required_values_finite": true,
+  "all441_tested_once_in_spatial_cv": true,
+  "spatial_groups_disjoint": true,
+  "buffers_at_least_500m": true,
+  "split_ids_cover_each_dataset": true,
+  "original_input_hashes_unchanged": true,
+  "training_performed": false
+}

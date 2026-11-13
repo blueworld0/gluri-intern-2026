@@ -1,0 +1,43 @@
+{
+  "gedi_vegetation_points": 441,
+  "input_sha256": "e7a6a9079ab6d0124dcfc4a13f90ed438a4fd90e5a7f37b4ff97e15b85c22a72",
+  "input_path": "week06\\step5\\outputs\\vegetation_candidates.csv",
+  "actual_bbox_wgs84": [
+    128.7661245829803,
+    35.011331151418425,
+    128.99991274998158,
+    35.22626795469723
+  ],
+  "request_helper_bbox_100m_margin_utm_wgs84": [
+    128.76441622417028,
+    35.010412968079045,
+    129.00101161169815,
+    35.227169835243075
+  ],
+  "gedi_observation_date_utc": "2025-04-25",
+  "recommended_dataset": "EGIS_2025_fine_SHP",
+  "egis_fine_map_production_year": 2025,
+  "egis_fine_base_imagery_year": 2024,
+  "medium_forest_codes": [
+    310,
+    320,
+    330
+  ],
+  "fine_forest_codes": [
+    311,
+    321,
+    331
+  ],
+  "egis_coverage": "national coverage announced; actual local tile supply and point inclusion not tested",
+  "forest_2025_tile_coverage": "not_tested",
+  "native_epsg_2025_egis": null,
+  "native_epsg_2025_forest": null,
+  "actual_tile_ids": null,
+  "file_schema": null,
+  "forest_classified_sample_count": null,
+  "input_unchanged": true,
+  "datasets_downloaded": false,
+  "login_performed": false,
+  "application_submitted": false,
+  "model_trained": false
+}

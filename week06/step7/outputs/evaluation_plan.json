@@ -1,0 +1,70 @@
+{
+  "status": "prepared_not_trained",
+  "research_population": "Sentinel-2 SCL vegetation-screened GEDI L4A model-estimated AGBD samples; forest unverified",
+  "forest_validation": "deferred_by_user; no EGIS or WorldCover acquisition in this step",
+  "primary_dataset": "new441_evaluation_input.csv",
+  "primary_split": "new441_spatial5_fold1..5",
+  "primary_features": [
+    "ndvi",
+    "evi",
+    "ndmi"
+  ],
+  "target": "agbd",
+  "target_unit": "Mg/ha",
+  "models": {
+    "dummy_mean": {
+      "class": "DummyRegressor",
+      "strategy": "mean"
+    },
+    "week04_rf_baseline": {
+      "class": "RandomForestRegressor",
+      "n_estimators": 100,
+      "random_state": 42,
+      "max_depth": null,
+      "min_samples_leaf": 1,
+      "max_features": 1.0,
+      "n_jobs": 1
+    },
+    "week05_spatial_B_fixed": {
+      "class": "RandomForestRegressor",
+      "n_estimators": 100,
+      "random_state": 42,
+      "max_depth": 6,
+      "min_samples_leaf": 3,
+      "max_features": 0.67,
+      "n_jobs": 1
+    },
+    "week05_random_B_fixed_secondary": {
+      "class": "RandomForestRegressor",
+      "n_estimators": 100,
+      "random_state": 42,
+      "max_depth": 3,
+      "min_samples_leaf": 4,
+      "max_features": 1.0,
+      "n_jobs": 1
+    }
+  },
+  "model_parameter_source": "week05/improvement/experiment_design.json and model_comparison.md; fixed historical settings, not newly selected",
+  "metrics": [
+    "RMSE",
+    "MAE",
+    "R2"
+  ],
+  "pooled_cv": "one held-out prediction per point; report pooled metrics and each fold; not mean R2 as pooled R2",
+  "tuning": "none for primary frozen-parameter comparison; any later tuning must be entirely within buffered outer training data",
+  "evi_policy": {
+    "main": "retain all441; no silent deletion or clipping",
+    "sensitivity": "same frozen split IDs, remove only preflagged evi_review_required point from each role; report changed test counts and compare all models on same subset",
+    "review_rule": "abs(EVI)>2 or abs(SAFE EVI denominator)<0.05; heuristic diagnostic, not a validated error label"
+  },
+  "secondary_splits": [
+    "new441_random80_20_seed42",
+    "legacy90_to_new441_exploratory"
+  ],
+  "pooled_531_training": "deferred until legacy radiometry and quality policy harmonized; 531 table is comparison-only",
+  "orbit_holdout": "not_possible: all 531 from same O36071 and 2025-04-25",
+  "preprocessing": "No full-data imputation/scaling/selection. Fit any learned transformation on training only.",
+  "legacy_transfer_limits": "legacy EVI calibration provisional; quality policy and scene/tile differ; not an isolated geography effect or field validation",
+  "existing_model_objects": "No trained model objects loaded; future comparisons require refitting on designated train IDs",
+  "training_or_prediction_performed": false
+}

@@ -1,0 +1,9 @@
+stage,cumulative_count,independent_pass_count
+all_observations,6356011,6356011
+finite_nonnegative_agbd,1190999,1190999
+finite_nonnegative_agbd_se,1190999,1190999
+algorithm_run,1190999,2658136
+l2a_quality_rel3,733439,2139058
+l4a_quality_rel3,606424,606424
+degrade_include,503053,5346456
+no_elevation_outlier,503053,6356011

@@ -1,0 +1,51 @@
+{
+  "checked_at_utc": "2026-11-13T09:13:09.201208+00:00",
+  "archive": "D:\\Coding\\gluri-intern-2026\\week06\\step4\\downloads\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE.zip",
+  "product_name": "S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE",
+  "archive_bytes": 974110105,
+  "catalogue_expected_bytes": 974110105,
+  "size_matches": true,
+  "md5": "8a36a6515ea5310b4bbda79b7e53c493",
+  "catalogue_expected_md5": "8a36a6515ea5310b4bbda79b7e53c493",
+  "md5_matches": true,
+  "zip_crc_all_members_pass": true,
+  "first_crc_failure": null,
+  "zip_entries": 95,
+  "uncompressed_bytes": 974075119,
+  "unsafe_paths": [],
+  "duplicate_member_names": false,
+  "only_expected_safe_root": true,
+  "required_file_count": 25,
+  "missing_required_files": [],
+  "required_file_size_mismatches": [],
+  "product_uri_from_xml": [
+    "S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE"
+  ],
+  "processing_baseline_from_xml": [
+    "05.11"
+  ],
+  "boa_quantification_value_from_xml": [
+    "10000"
+  ],
+  "boa_add_offsets_by_band_from_xml": {
+    "B1": -1000.0,
+    "B2": -1000.0,
+    "B3": -1000.0,
+    "B4": -1000.0,
+    "B5": -1000.0,
+    "B6": -1000.0,
+    "B7": -1000.0,
+    "B8": -1000.0,
+    "B8A": -1000.0,
+    "B9": -1000.0,
+    "B10": -1000.0,
+    "B11": -1000.0,
+    "B12": -1000.0
+  },
+  "cloud_coverage_assessment_from_xml": [
+    "26.468134"
+  ],
+  "archive_extracted": false,
+  "image_pixels_processed": false,
+  "status": "passed"
+}

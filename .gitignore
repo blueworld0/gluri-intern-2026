@@ -12,6 +12,8 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+.matplotlib/
+.mplconfig/
 
 # Environment variables
 .env
@@ -37,3 +39,10 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# Week06 full-population GEDI exports and per-point intermediate mappings.
+# Keep local; regenerate with week06/step2/analyze_expansion.py.
+# Retain regional/candidate CSVs, aggregate summaries, reports, and figures.
+/week06/step2/quality_valid_points.csv
+/week06/step2/point_region_assignment.csv
+/week06/step2/point_component_assignment.csv

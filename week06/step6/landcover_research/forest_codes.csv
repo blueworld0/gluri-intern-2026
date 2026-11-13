@@ -1,0 +1,4 @@
+class_name,medium_code,fine_code,definition_summary,source_url,status
+활엽수림,310,311,활엽수림 비중이 전체 임분 면적의 75% 이상,https://egis.me.go.kr/intro/land.do,official_classification_verified_not_file_schema
+침엽수림,320,321,침엽수림 비중이 전체 임분 면적의 75% 이상,https://egis.me.go.kr/intro/land.do,official_classification_verified_not_file_schema
+혼효림,330,331,활엽수·침엽수 임분이 혼재하며 각각 75% 이하,https://egis.me.go.kr/intro/land.do,official_classification_verified_not_file_schema

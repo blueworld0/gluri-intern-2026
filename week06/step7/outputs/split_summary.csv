@@ -1,0 +1,8 @@
+split_id,train_n,test_n,buffer_excluded_n,buffer_m,minimum_train_test_distance_m,primary,train_evi_review_n,test_evi_review_n
+new441_spatial5_fold1,321,119,1,500,513.5204878602398,True,1,0
+new441_spatial5_fold2,349,79,13,500,513.4145442631218,True,0,1
+new441_spatial5_fold3,353,87,1,500,634.9766102617342,True,1,0
+new441_spatial5_fold4,344,80,17,500,513.6963101293694,True,1,0
+new441_spatial5_fold5,362,76,3,500,571.2422153022843,True,1,0
+new441_random80_20_seed42,352,89,0,0,54.32338255704445,False,0,1
+legacy90_to_new441_exploratory,90,441,0,500,1799.847132508377,False,0,1

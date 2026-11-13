@@ -1,0 +1,13 @@
+logical_field,old90,new441
+point_id,point_id,point_id
+gedi_file,gedi_file,source_file
+shot_number,shot_number,shot_number
+agbd,agbd,agbd_Mg_ha
+agbd_se,agbd_se,agbd_se_Mg_ha
+ndvi,ndvi,ndvi
+evi,evi,evi
+ndmi,ndmi,ndmi
+latitude,latitude,latitude
+longitude,longitude,longitude
+easting_m,easting_m,easting_m
+northing_m,northing_m,northing_m

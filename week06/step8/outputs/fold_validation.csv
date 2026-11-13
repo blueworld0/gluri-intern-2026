@@ -1,0 +1,6 @@
+fold,train_n,test_n,buffer_excluded_n,minimum_train_test_distance_m,outlier_role
+1,321,119,1,513.5204878602398,train
+2,349,79,13,513.4145442631218,test
+3,353,87,1,634.9766102617342,train
+4,344,80,17,513.6963101293694,train
+5,362,76,3,571.2422153022843,train

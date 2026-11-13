@@ -1,0 +1,91 @@
+{
+  "checked_at_utc": "2026-11-13T09:32:34.367470+00:00",
+  "sources": [
+    {
+      "id": "egis_land",
+      "title": "EGIS 토지피복지도 소개·분류체계·제작현황",
+      "url": "https://egis.me.go.kr/intro/land.do",
+      "supports": [
+        "2025년 중분류·세분류 전국 제공 안내",
+        "310/320/330 및 311/321/331 코드·정의",
+        "2025년 세분류의 2024년 기본영상",
+        "SHP 및 중분류 GeoTIFF 등 형식"
+      ],
+      "access": "official indexed page text; direct open timed out"
+    },
+    {
+      "id": "egis_request",
+      "title": "EGIS 자료신청 안내",
+      "url": "https://egis.me.go.kr/req/intro.do",
+      "supports": [
+        "로그인·신청 후 내역에서 다운로드",
+        "메타/지도·사각형·다각형 도엽 검색",
+        "공개제한 자료의 별도 절차"
+      ],
+      "access": "official indexed page text; direct open timed out"
+    },
+    {
+      "id": "egis_wms",
+      "title": "EGIS 토지피복지도 맵 서비스",
+      "url": "https://egis.me.go.kr/api/land.do",
+      "supports": [
+        "lv3_2025y 및 lv2_2025y",
+        "WMS 지도 예제의 EPSG:3857"
+      ],
+      "access": "official indexed page text; no WMS request sent"
+    },
+    {
+      "id": "egis_map",
+      "title": "EGIS 통합지도",
+      "url": "https://egis.me.go.kr/map/map.do",
+      "supports": [
+        "현재 지도 안내의 2024년 영상 기준 현행화 설명"
+      ],
+      "access": "official indexed page text; no UI interaction"
+    },
+    {
+      "id": "egis_statistics",
+      "title": "EGIS 국가 토지피복 통계 안내",
+      "url": "https://egis.me.go.kr/intro/stats.do",
+      "supports": [
+        "지도 제작연도와 통계 기준연도 구분",
+        "임상도 등 참조자료 활용"
+      ],
+      "access": "official indexed page text"
+    },
+    {
+      "id": "forest_service",
+      "title": "산림공간정보서비스",
+      "url": "https://map.forest.go.kr/forest/",
+      "supports": [
+        "2025 대축척 임상도 신청 항목",
+        "2024 임상도(2020~2024) 구분",
+        "유통신청 본인인증",
+        "일반인 원본 TIFF 안내",
+        "임상·수종·갱신년도 속성 안내"
+      ],
+      "access": "official indexed page text; direct root yielded no readable text; no identity verification"
+    },
+    {
+      "id": "forest_open_data",
+      "title": "산림청 공공데이터 임상도 안내",
+      "url": "https://www.forest.go.kr/kfsweb/kfi/kfs/trail/fTMap.do?mn=NKFS_06_08_02&pblicDataId=PBD0000059&subTitle=%EC%9E%84%EC%83%81%EB%8F%84&tabs=1",
+      "supports": [
+        "무료신청·일반인/공공연구 경로",
+        "과거 제5차 임상도 SHP 제공 사례"
+      ],
+      "access": "official indexed page text; direct open returned HTTP 403"
+    },
+    {
+      "id": "forest_legacy_schema",
+      "title": "산림청 과거 임상도 활용정보",
+      "url": "https://www.forest.go.kr/kfsweb/opda/dataMng/pblicDataPrusContView.do?pblicDataId=PBD0000059&mn=NKFS_01_01",
+      "supports": [
+        "과거 imsang_5th Polygon SHP ZIP·GRS80 TM 중부 설명; 2025에 그대로 적용 불가"
+      ],
+      "access": "official indexed page text observed on session-bearing legacy URL; canonical non-session reference stored"
+    }
+  ],
+  "datasets_downloaded": false,
+  "login_or_application_performed": false
+}

@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "unique_input_ids": true,
+  "stage_counts_match_final_selection": true,
+  "written_index_rasters_match_all_1055_samples": true,
+  "required_final_values_finite": true,
+  "source_zip_preserved": true,
+  "previous_data_unchanged": true,
+  "training_performed": false,
+  "native_10m_source_checks_points_per_band": 1055,
+  "manual_20m_bilinear_points_per_band": 30,
+  "independent_reflectance_max_absolute_errors": {
+    "B02": 0.0,
+    "B03": 0.0,
+    "B04": 0.0,
+    "B08": 0.0,
+    "B11": 2.0000000044984034e-08,
+    "B12": 1.9999999989472883e-08
+  },
+  "mask_regression_tests_passed": 2,
+  "utf8_report_verified": true
+}

@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "role": "actual_441_point_bbox",
+        "source_points": 441,
+        "boundary_type": "arbitrary_request_helper_not_admin_or_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.7661245829803,
+              35.011331151418425
+            ],
+            [
+              128.99991274998158,
+              35.011331151418425
+            ],
+            [
+              128.99991274998158,
+              35.22626795469723
+            ],
+            [
+              128.7661245829803,
+              35.22626795469723
+            ],
+            [
+              128.7661245829803,
+              35.011331151418425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "role": "request_helper_bbox_100m_margin_utm",
+        "source_points": 441,
+        "boundary_type": "arbitrary_request_helper_not_admin_or_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.76441622417028,
+              35.010412968079045
+            ],
+            [
+              129.00101161169815,
+              35.010412968079045
+            ],
+            [
+              129.00101161169815,
+              35.227169835243075
+            ],
+            [
+              128.76441622417028,
+              35.227169835243075
+            ],
+            [
+              128.76441622417028,
+              35.010412968079045
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

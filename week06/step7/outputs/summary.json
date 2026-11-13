@@ -1,0 +1,30 @@
+{
+  "old_n": 90,
+  "new_n": 441,
+  "comparison_n": 531,
+  "input_columns_old": 70,
+  "input_columns_new": 133,
+  "missing_or_nonfinite_required": 0,
+  "duplicates": {
+    "point_id_overlap": 0,
+    "shot_identity_overlap": 0,
+    "exact_coordinate_overlap": 0,
+    "common_utm_10m_cell_overlap": 0,
+    "within_cohort_duplicate_point_ids": 0,
+    "within_cohort_duplicate_shot_keys": 0,
+    "minimum_distance_between_cohorts_m": 1799.847132508377,
+    "new_to_old_nearest_distance_median_m": 13527.44285616222
+  },
+  "unique_gedi_orbits": 1,
+  "unique_gedi_dates": 1,
+  "new_evi_review_points": 1,
+  "old_evi_review_points": 0,
+  "forest_confirmed_sample_count": null,
+  "training_performed": false,
+  "prediction_performed": false,
+  "inputs_sha256": {
+    "week03\\outputs\\sentinel_2025\\scl_validation\\gedi_scl_valid_points.csv": "2fbfeca2fa7e155306928e010adbe5a42592d5114cde134940a6cb3a396ca60e",
+    "week06\\step5\\outputs\\vegetation_candidates.csv": "e7a6a9079ab6d0124dcfc4a13f90ed438a4fd90e5a7f37b4ff97e15b85c22a72"
+  },
+  "input_hashes_unchanged": true
+}

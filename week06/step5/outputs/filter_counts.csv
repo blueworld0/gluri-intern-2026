@@ -1,0 +1,9 @@
+stage,remaining,excluded_at_stage
+gedi_quality_input,1055,0
+all_six_bands_valid,1055,0
+finite_indices,1055,0
+ndvi_ndmi_range,1055,0
+time_gap_within_168h,1055,0
+clear_surface_both_scl_grids,1049,6
+classi_clear,1049,0
+vegetation_both_grids,441,608

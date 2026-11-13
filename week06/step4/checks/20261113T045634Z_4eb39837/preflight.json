@@ -1,0 +1,45 @@
+{
+  "checked_at_utc": "2026-11-13T04:56:34.111914+00:00",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "python_version": "3.12.2",
+  "python_executable": "D:\\Coding\\gluri-intern-2026\\week03\\.venv\\Scripts\\python.exe",
+  "openssl": "OpenSSL 3.0.13 30 Jan 2024",
+  "dependencies": "Python standard library only; no installation required",
+  "download_directory": "D:\\Coding\\gluri-intern-2026\\week06\\step4\\downloads",
+  "future_archive_path": "D:\\Coding\\gluri-intern-2026\\week06\\step4\\downloads\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE.zip",
+  "future_safe_path": "D:\\Coding\\gluri-intern-2026\\week06\\step4\\downloads\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE",
+  "directory_writable": true,
+  "free_space_bytes": 907857788928,
+  "minimum_free_space_bytes": 5368709120,
+  "has_planning_space": true,
+  "archive_exists": false,
+  "safe_directory_exists": false,
+  "partial_archive_exists": false,
+  "step3_planned_subset_files": 25,
+  "step3_planned_subset_bytes": 485041677,
+  "step3_manifest_sha256": "5da292666e37d72834e2c02d926f418a05a0fb7ca9c6ca0260f9a6ad40da8f86",
+  "credential_input": "hidden local interactive input only",
+  "authentication_tested": false,
+  "authenticated_download_access_tested": false,
+  "download_started": false,
+  "download_implementation_present": false,
+  "product_name": "S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE",
+  "product_uuid": "6c4173d8-59e8-41f8-b339-c49620900f8f",
+  "product_online": true,
+  "catalogue_content_length_bytes": 974110105,
+  "product_checksums": [
+    {
+      "Value": "8a36a6515ea5310b4bbda79b7e53c493",
+      "Algorithm": "MD5",
+      "ChecksumDate": "2025-04-28T06:49:45.245685Z"
+    },
+    {
+      "Value": "64e09824b4798d40214392f7354981e7271332be98d15af2ca0f9f3c3ff4d1bc",
+      "Algorithm": "BLAKE3",
+      "ChecksumDate": "2025-04-28T06:49:46.801998Z"
+    }
+  ],
+  "product_metadata_http_status": 200,
+  "oidc_endpoint_verified": true,
+  "oidc_password_grant_advertised": true
+}

@@ -1,0 +1,83 @@
+{
+  "all_observations": 6356011,
+  "quality_valid": 503053,
+  "quality_pass_percent": 7.914602413369014,
+  "quality_valid_invalid_coordinates": 0,
+  "quality_valid_invalid_time": 0,
+  "existing_week04_05_90": 90,
+  "existing_gedi_97": 97,
+  "additional_quality_valid_vs_90": 502963,
+  "outside_original_rectangle": 502956,
+  "inside_original_rectangle_not_in_90": 7,
+  "geolocatable_quality_valid": 503053,
+  "bounds_wgs84": {
+    "west": -178.8595429818964,
+    "south": -0.10788608446885273,
+    "east": 152.84374240855345,
+    "north": 51.83309115722787
+  },
+  "korea_screening_window": {
+    "west": 124.0,
+    "south": 33.0,
+    "east": 132.0,
+    "north": 39.0
+  },
+  "korea_window_counts": {
+    "quality_valid": 12444,
+    "existing_90": 90,
+    "additional_vs_90": 12354,
+    "existing_97": 97,
+    "outside_original_rectangle": 12347,
+    "latitude_min": 33.046986317777815,
+    "latitude_max": 38.323643801021845,
+    "longitude_min": 124.888030470965,
+    "longitude_max": 131.99682301752563,
+    "date_count": 4,
+    "orbit_count": 4,
+    "beam_count": 8,
+    "dates_utc": "2025-02-02;2025-02-04;2025-03-14;2025-04-25",
+    "orbits": "O34794;O34820;O35415;O36071",
+    "agbd_median_Mg_ha": 33.8641242980957
+  },
+  "occupied_025_degree_cells": 453,
+  "occupied_grid_components": 26,
+  "final_training_ready_new_points": null,
+  "final_training_ready_status": "Not evaluated: no new Sentinel-2 or forest mask checks",
+  "chunk_size": 100000,
+  "grid_cell_degrees": 0.25,
+  "source_quality_script_sha256": "69c4fd7ea269d977d95fadd029aad966c86ff4fdd3027d4ee5507e0cf9a929d2",
+  "baseline_90_sha256": "2fbfeca2fa7e155306928e010adbe5a42592d5114cde134940a6cb3a396ca60e",
+  "old_97_sha256": "17394c4ecb515996b79eefa38bb32628a43a3e6c39718c079dcc514ba75d9bec",
+  "inputs": [
+    {
+      "file": "week03\\GEDI04_A\\GEDI04_A_2025033081820_O34794_03_T05443_02_004_02_V003.h5",
+      "bytes": 283679065,
+      "all_observations": 1337397,
+      "quality_valid": 358068
+    },
+    {
+      "file": "week03\\GEDI04_A\\GEDI04_A_2025035003236_O34820_02_T08514_02_004_02_V003.h5",
+      "bytes": 289177233,
+      "all_observations": 1337395,
+      "quality_valid": 73075
+    },
+    {
+      "file": "week03\\GEDI04_A\\GEDI04_A_2025073092035_O35415_02_T01552_02_004_02_V003.h5",
+      "bytes": 270137333,
+      "all_observations": 1336519,
+      "quality_valid": 38347
+    },
+    {
+      "file": "week03\\GEDI04_A\\GEDI04_A_2025115163530_O36071_02_T10090_02_004_02_V003.h5",
+      "bytes": 272234778,
+      "all_observations": 1336687,
+      "quality_valid": 33563
+    },
+    {
+      "file": "week03\\GEDI04_A\\GEDI04_A_2025160060458_O36762_03_T00868_02_004_02_V003.h5",
+      "bytes": 206679019,
+      "all_observations": 1008013,
+      "quality_valid": 0
+    }
+  ]
+}

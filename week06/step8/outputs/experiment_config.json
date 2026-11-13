@@ -1,0 +1,84 @@
+{
+  "features": [
+    "ndvi",
+    "evi",
+    "ndmi"
+  ],
+  "target": "agbd",
+  "models": {
+    "dummy_mean": {
+      "constant": null,
+      "quantile": null,
+      "strategy": "mean"
+    },
+    "week04_rf_baseline": {
+      "bootstrap": true,
+      "ccp_alpha": 0.0,
+      "criterion": "squared_error",
+      "max_depth": null,
+      "max_features": 1.0,
+      "max_leaf_nodes": null,
+      "max_samples": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 1,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "n_estimators": 100,
+      "n_jobs": 1,
+      "oob_score": false,
+      "random_state": 42,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "week05_spatial_B_fixed": {
+      "bootstrap": true,
+      "ccp_alpha": 0.0,
+      "criterion": "squared_error",
+      "max_depth": 6,
+      "max_features": 0.67,
+      "max_leaf_nodes": null,
+      "max_samples": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "n_estimators": 100,
+      "n_jobs": 1,
+      "oob_score": false,
+      "random_state": 42,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  "fold_source": "week06/step7/outputs/split_assignments.csv",
+  "cases": [
+    "main_all441",
+    "sensitivity_exclude_evi"
+  ],
+  "no_scaling_imputation_or_feature_selection": true,
+  "random_state": 42,
+  "n_jobs": 1,
+  "thread_limits": 1,
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "sklearn": "1.9.1"
+  },
+  "script_sha256": "1d7b62caf497493f35d33b0c151deada9b422ad3ca81b4f3c513cafeb75956b3",
+  "input_sha256": {
+    "week06\\step7\\outputs\\new441_evaluation_input.csv": "cc9de4eaebfbe4a5ae4783d9bf47c7291317cbf71b11c004754a4fc908cebe9c",
+    "week06\\step7\\outputs\\split_assignments.csv": "82f17d3fc3c935da09478fa4d55dae9c861ed6b167995bc87ad4c57cd28e367f",
+    "week06\\step7\\outputs\\split_summary.csv": "a0ad486ed830dd7f16499865f67fe9f7bd40bd4409f1679dbf176d1aaae65b8b",
+    "week06\\step7\\outputs\\evaluation_plan.json": "040af10fbc7bc4c0ee769ca93fd8906dea3bdf71b7cc98fc386cb00783a36b58",
+    "week06\\step7\\outputs\\validation.json": "2c873c4cf84d0da59fca74d2c81e01afa83ea6cf1b7b79073b28d5f65a7b073a",
+    "week06\\step7\\outputs\\summary.json": "2e0b3e590162bb322e4fd6f5ed2f7c7bb54bfc465c935f5af71cbcca3a2a38c3",
+    "week06\\step7\\outputs\\report.md": "b73c5e898ba0b10199abdd7d4a292713fc5b2232514d0fa414957ae59639facd",
+    "week04\\train_baseline.py": "217f98039ee8dedbf2f5240255bb7b622bd83a502092d05a0eb8523b04192cc5",
+    "week05\\improvement\\experiment_design.json": "4428be3862a0574d17b77f3313dfd86e6642f24d6b456a07e062c9a328956592",
+    "week05\\improvement\\model_comparison.md": "11209ac2d186687e20e7dcade069f63b5a3d6c1f7405c971b66db4e1d075cdf7",
+    "week06\\step5\\outputs\\vegetation_candidates.csv": "e7a6a9079ab6d0124dcfc4a13f90ed438a4fd90e5a7f37b4ff97e15b85c22a72"
+  }
+}

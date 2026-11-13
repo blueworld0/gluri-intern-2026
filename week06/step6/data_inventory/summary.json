@@ -1,0 +1,43 @@
+{
+  "checked_at_utc": "2026-11-13T09:25:44.592595+00:00",
+  "scope": "workspace only; hidden and Git-ignored source data included",
+  "excluded_directories": [
+    ".git",
+    ".matplotlib",
+    ".venv",
+    "__pycache__",
+    "env",
+    "venv"
+  ],
+  "geospatial_file_counts_by_extension": {
+    ".geojson": 2,
+    ".h5": 5,
+    ".jp2": 69,
+    ".tif": 16,
+    ".tiff": 12,
+    ".zip": 1
+  },
+  "file_geodatabase_directories": [],
+  "unclassified_geodata_files": [],
+  "forest_boundary_dataset_found": false,
+  "landcover_dataset_found": false,
+  "forest_inventory_map_found": false,
+  "existing_vector_features": {
+    "candidate_grids": 5,
+    "sentinel2_product_footprints": 16
+  },
+  "vegetation_points": 441,
+  "bounds_wgs84": {
+    "west": 128.7661245829803,
+    "south": 35.011331151418425,
+    "east": 128.99991274998158,
+    "north": 35.22626795469723
+  },
+  "forest_status_counts": {
+    "not_assessed": 441
+  },
+  "new_downloads": false,
+  "external_requests": false,
+  "samples_filtered": false,
+  "note": "No dataset is inferred from a document citation or SCL vegetation class."
+}

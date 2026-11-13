@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "independent_hdf5_chunk_size": 131072,
+  "per_granule_all_and_quality_counts_match": true,
+  "existing_90_and_97_recovered_exactly": true,
+  "candidate_points_unique": 4641,
+  "candidate_points_outside_original_rectangle": 4641,
+  "candidate_date_counts_reconcile": true,
+  "source_and_existing_csv_hashes_unchanged_since_scan": true,
+  "grid_count_sum": 503053,
+  "component_count_sum": 503053
+}

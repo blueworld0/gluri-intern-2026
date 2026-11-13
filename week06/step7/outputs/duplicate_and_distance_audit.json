@@ -1,0 +1,10 @@
+{
+  "point_id_overlap": 0,
+  "shot_identity_overlap": 0,
+  "exact_coordinate_overlap": 0,
+  "common_utm_10m_cell_overlap": 0,
+  "within_cohort_duplicate_point_ids": 0,
+  "within_cohort_duplicate_shot_keys": 0,
+  "minimum_distance_between_cohorts_m": 1799.847132508377,
+  "new_to_old_nearest_distance_median_m": 13527.44285616222
+}

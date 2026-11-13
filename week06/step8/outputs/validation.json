@@ -1,0 +1,109 @@
+{
+  "status": "passed",
+  "input_sha256_before": {
+    "week06\\step7\\outputs\\new441_evaluation_input.csv": "cc9de4eaebfbe4a5ae4783d9bf47c7291317cbf71b11c004754a4fc908cebe9c",
+    "week06\\step7\\outputs\\split_assignments.csv": "82f17d3fc3c935da09478fa4d55dae9c861ed6b167995bc87ad4c57cd28e367f",
+    "week06\\step7\\outputs\\split_summary.csv": "a0ad486ed830dd7f16499865f67fe9f7bd40bd4409f1679dbf176d1aaae65b8b",
+    "week06\\step7\\outputs\\evaluation_plan.json": "040af10fbc7bc4c0ee769ca93fd8906dea3bdf71b7cc98fc386cb00783a36b58",
+    "week06\\step7\\outputs\\validation.json": "2c873c4cf84d0da59fca74d2c81e01afa83ea6cf1b7b79073b28d5f65a7b073a",
+    "week06\\step7\\outputs\\summary.json": "2e0b3e590162bb322e4fd6f5ed2f7c7bb54bfc465c935f5af71cbcca3a2a38c3",
+    "week06\\step7\\outputs\\report.md": "b73c5e898ba0b10199abdd7d4a292713fc5b2232514d0fa414957ae59639facd",
+    "week04\\train_baseline.py": "217f98039ee8dedbf2f5240255bb7b622bd83a502092d05a0eb8523b04192cc5",
+    "week05\\improvement\\experiment_design.json": "4428be3862a0574d17b77f3313dfd86e6642f24d6b456a07e062c9a328956592",
+    "week05\\improvement\\model_comparison.md": "11209ac2d186687e20e7dcade069f63b5a3d6c1f7405c971b66db4e1d075cdf7",
+    "week06\\step5\\outputs\\vegetation_candidates.csv": "e7a6a9079ab6d0124dcfc4a13f90ed438a4fd90e5a7f37b4ff97e15b85c22a72"
+  },
+  "errors": [],
+  "block_size_m": 5000,
+  "buffer_m": 500,
+  "folds": 5,
+  "crs": "EPSG:32652",
+  "source_data_modified": false,
+  "external_calls": false,
+  "hyperparameter_search": false,
+  "data_n": 441,
+  "spatial_group_n": 10,
+  "required_values_finite": true,
+  "fold_details": [
+    {
+      "fold": 1,
+      "train_n": 321,
+      "test_n": 119,
+      "buffer_excluded_n": 1,
+      "minimum_train_test_distance_m": 513.5204878602398,
+      "outlier_role": "train"
+    },
+    {
+      "fold": 2,
+      "train_n": 349,
+      "test_n": 79,
+      "buffer_excluded_n": 13,
+      "minimum_train_test_distance_m": 513.4145442631218,
+      "outlier_role": "test"
+    },
+    {
+      "fold": 3,
+      "train_n": 353,
+      "test_n": 87,
+      "buffer_excluded_n": 1,
+      "minimum_train_test_distance_m": 634.9766102617342,
+      "outlier_role": "train"
+    },
+    {
+      "fold": 4,
+      "train_n": 344,
+      "test_n": 80,
+      "buffer_excluded_n": 17,
+      "minimum_train_test_distance_m": 513.6963101293694,
+      "outlier_role": "train"
+    },
+    {
+      "fold": 5,
+      "train_n": 362,
+      "test_n": 76,
+      "buffer_excluded_n": 3,
+      "minimum_train_test_distance_m": 571.2422153022843,
+      "outlier_role": "train"
+    }
+  ],
+  "outlier_point_id": "GEDI04_A_2025115163530_O36071_02_T10090_02_004_02_V003.h5:BEAM0110:360710600200387796",
+  "outlier_evi": -41.465836,
+  "training_performed": true,
+  "oof_all_points_once": true,
+  "identical_test_points_across_models": true,
+  "buffers_verified": true,
+  "block_disjointness_verified": true,
+  "duplicate_counts_zero": true,
+  "sensitivity_original_fold_roles_preserved": true,
+  "fold2_common_predictions_identical": true,
+  "metrics_independently_recomputed_from_saved_predictions": true,
+  "reproduction_checks": [
+    {
+      "model": "week04_rf_baseline",
+      "fold": 1,
+      "max_abs_prediction_difference": 0.0
+    },
+    {
+      "model": "week05_spatial_B_fixed",
+      "fold": 1,
+      "max_abs_prediction_difference": 0.0
+    }
+  ],
+  "input_sha256_after": {
+    "week06\\step7\\outputs\\new441_evaluation_input.csv": "cc9de4eaebfbe4a5ae4783d9bf47c7291317cbf71b11c004754a4fc908cebe9c",
+    "week06\\step7\\outputs\\split_assignments.csv": "82f17d3fc3c935da09478fa4d55dae9c861ed6b167995bc87ad4c57cd28e367f",
+    "week06\\step7\\outputs\\split_summary.csv": "a0ad486ed830dd7f16499865f67fe9f7bd40bd4409f1679dbf176d1aaae65b8b",
+    "week06\\step7\\outputs\\evaluation_plan.json": "040af10fbc7bc4c0ee769ca93fd8906dea3bdf71b7cc98fc386cb00783a36b58",
+    "week06\\step7\\outputs\\validation.json": "2c873c4cf84d0da59fca74d2c81e01afa83ea6cf1b7b79073b28d5f65a7b073a",
+    "week06\\step7\\outputs\\summary.json": "2e0b3e590162bb322e4fd6f5ed2f7c7bb54bfc465c935f5af71cbcca3a2a38c3",
+    "week06\\step7\\outputs\\report.md": "b73c5e898ba0b10199abdd7d4a292713fc5b2232514d0fa414957ae59639facd",
+    "week04\\train_baseline.py": "217f98039ee8dedbf2f5240255bb7b622bd83a502092d05a0eb8523b04192cc5",
+    "week05\\improvement\\experiment_design.json": "4428be3862a0574d17b77f3313dfd86e6642f24d6b456a07e062c9a328956592",
+    "week05\\improvement\\model_comparison.md": "11209ac2d186687e20e7dcade069f63b5a3d6c1f7405c971b66db4e1d075cdf7",
+    "week06\\step5\\outputs\\vegetation_candidates.csv": "e7a6a9079ab6d0124dcfc4a13f90ed438a4fd90e5a7f37b4ff97e15b85c22a72"
+  },
+  "input_hashes_unchanged": true,
+  "prediction_rows": 2643,
+  "model_fits": 32,
+  "created_at_utc": "2026-11-13T09:49:04.530868+00:00"
+}

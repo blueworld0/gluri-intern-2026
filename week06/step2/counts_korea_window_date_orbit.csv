@@ -1,0 +1,5 @@
+observation_date_utc,orbit,quality_valid,existing_90,within_original_rectangle,additional_vs_90,outside_original_rectangle
+2025-02-02,O34794,4655,0,0,4655,4655
+2025-02-04,O34820,2930,0,0,2930,2930
+2025-03-14,O35415,7,0,0,7,7
+2025-04-25,O36071,4852,90,97,4762,4755

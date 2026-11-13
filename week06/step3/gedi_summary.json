@@ -1,0 +1,24 @@
+{
+  "count": 1055,
+  "bounds_wgs84": {
+    "west": 128.7661245829803,
+    "south": 35.01095718693811,
+    "east": 128.99991274998158,
+    "north": 35.22626795469723
+  },
+  "observed_at_utc_min": "2025-04-25T17:10:36.172006Z",
+  "observed_at_utc_max": "2025-04-25T17:10:40.746408Z",
+  "beam_counts": {
+    "BEAM0000": 118,
+    "BEAM0001": 100,
+    "BEAM0010": 149,
+    "BEAM0011": 156,
+    "BEAM0101": 98,
+    "BEAM0110": 137,
+    "BEAM1000": 154,
+    "BEAM1011": 143
+  },
+  "source_file": "week06\\step2\\recommended_candidate_points.csv",
+  "source_sha256": "f6549626cf6a7cf6e7227173c213b6da932f3c46f7d697f134035d3c3cbedb28",
+  "quality_status": "GEDI quality only; Sentinel-2 and forest suitability not evaluated"
+}

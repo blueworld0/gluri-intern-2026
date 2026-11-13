@@ -1,0 +1,30 @@
+{
+  "retrieved_at_utc": "2026-11-13T03:52:34.680619+00:00",
+  "authentication": "none; no credentials or API keys read or sent",
+  "search_bbox": [
+    128.75,
+    35,
+    129,
+    35.25
+  ],
+  "time_interval_utc": "[2025-04-18T00:00:00Z,2025-05-03T00:00:00Z)",
+  "cloud_filter": null,
+  "odata_parameters": {
+    "$filter": "Collection/Name eq 'SENTINEL-2' and contains(Name,'MSIL2A') and ContentDate/Start ge 2025-04-18T00:00:00.000Z and ContentDate/Start lt 2025-05-03T00:00:00.000Z and OData.CSC.Intersects(area=geography'SRID=4326;POLYGON((128.75 35.00,129.00 35.00,129.00 35.25,128.75 35.25,128.75 35.00))')",
+    "$expand": "Attributes",
+    "$top": "1000",
+    "$orderby": "ContentDate/Start asc",
+    "$count": "true"
+  },
+  "requests": [
+    {
+      "url": "https://catalogue.dataspace.copernicus.eu/odata/v1/Products?%24filter=Collection%2FName+eq+%27SENTINEL-2%27+and+contains%28Name%2C%27MSIL2A%27%29+and+ContentDate%2FStart+ge+2025-04-18T00%3A00%3A00.000Z+and+ContentDate%2FStart+lt+2025-05-03T00%3A00%3A00.000Z+and+OData.CSC.Intersects%28area%3Dgeography%27SRID%3D4326%3BPOLYGON%28%28128.75+35.00%2C129.00+35.00%2C129.00+35.25%2C128.75+35.25%2C128.75+35.00%29%29%27%29&%24expand=Attributes&%24top=1000&%24orderby=ContentDate%2FStart+asc&%24count=true",
+      "method": "GET",
+      "status": 200,
+      "response_file": "catalogue_odata_page_01.json",
+      "records": 16
+    }
+  ],
+  "records": 16,
+  "pagination_complete": true
+}
