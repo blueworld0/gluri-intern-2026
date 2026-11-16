@@ -1,0 +1,26 @@
+[
+  {
+    "path": "../20261030_geumjeongsan_carbon_3methods/scripts/forest_map_common.py",
+    "sha256": "08713a1b01d3474ebf9fdcc375293911442130ded5b8d901640fc61520ee4d15"
+  },
+  {
+    "path": "../20261030_geumjeongsan_carbon_3methods/scripts/calculate_carbon.py",
+    "sha256": "69c7baaad87122d87a0eba23e7bc0a2d7e3c0e16410f508f3a480f1a5c8f0074"
+  },
+  {
+    "path": "../../../../국내 산림탄소 산정기준.md",
+    "sha256": "7b1ce9bf92efd78dd5691e4bf7955864e16e4cb3097987c97e7056534ccbf7ef"
+  },
+  {
+    "path": "../../../../논문/고해상도 원격탐사 자료와 기계학습을 이용한 한국 산림의 탄소 저장량 산정.pdf",
+    "sha256": "120064fb9fb474890f6ff2ac192643509cadbc1c59f64421bd41047ba4269fef"
+  },
+  {
+    "path": "../20261030_geumjeongsan_carbon_3methods/data/reference/nifos2014_carbon_factors.csv",
+    "sha256": "261cee38c1f13e99ea510e0aef0e980e1cb3171b76876e6f368b9b48ea6033ed"
+  },
+  {
+    "path": "../20261030_geumjeongsan_carbon_3methods/data/reference/nifos2010_carbon_fraction.csv",
+    "sha256": "172f6d65c1990625c2f37a1517cc8958208488b2fb772614bd15a9d58fbb1bcb"
+  }
+]

@@ -1,0 +1,945 @@
+{
+  "product": "Meta/WRI Global Canopy Height v1",
+  "prefix": "forests/v1/alsgedi_global_v6_float/",
+  "resampling": "bilinear",
+  "buffer_m": 30.0,
+  "cover_threshold_m": 2,
+  "tiff_transfer_bytes": 24182784,
+  "tiff_transfer_errors": [],
+  "transfer_note": "Actual TIFF HTTP bodies including repeated ranges and metadata probes; optional JSON/XML excluded",
+  "metadata_audit": [
+    {
+      "url": "https://dataforgood-fb-data.s3.amazonaws.com/forests/v1/alsgedi_global_v6_float/chm/tiles.geojson",
+      "status": "미확인: 404 Client Error: Not Found for url: https://dataforgood-fb-data.s3.amazonaws.com/forests/v1/alsgedi_global_v6_float/chm/tiles.geojson"
+    },
+    {
+      "url": "https://dataforgood-fb-data.s3.amazonaws.com/forests/v1/alsgedi_global_v6_float/metadata/032003002.geojson",
+      "status": "미확인: 선택적 메타데이터 크기 한도 초과함"
+    },
+    {
+      "url": "https://dataforgood-fb-data.s3.amazonaws.com/forests/v1/alsgedi_global_v6_float/metadata/032003003.geojson",
+      "status": "미확인: 선택적 메타데이터 크기 한도 초과함"
+    },
+    {
+      "url": "https://dataforgood-fb-data.s3.amazonaws.com/forests/v1/alsgedi_global_v6_float/tiles.geojson",
+      "status": "미확인: 선택적 메타데이터 크기 한도 초과함"
+    }
+  ],
+  "tiles": [
+    {
+      "quadkey": "032003002",
+      "url": "https://dataforgood-fb-data.s3.amazonaws.com/forests/v1/alsgedi_global_v6_float/chm/032003002.tif",
+      "windows": [
+        {
+          "plotID": "ORNL_001",
+          "col_off": 9734,
+          "row_off": 11601,
+          "width": 85,
+          "height": 85,
+          "buffer_m": 30.0,
+          "n_blocks": 85,
+          "estimated_uncompressed_block_bytes": 5570560,
+          "estimated_uncompressed_block_MB": 5.57056,
+          "plot_estimated_read_bytes": 5570560,
+          "plot_estimated_read_MB": 5.57056,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "ORNL_004",
+          "col_off": 9259,
+          "row_off": 14168,
+          "width": 85,
+          "height": 85,
+          "buffer_m": 30.0,
+          "n_blocks": 85,
+          "estimated_uncompressed_block_bytes": 5570560,
+          "estimated_uncompressed_block_MB": 5.57056,
+          "plot_estimated_read_bytes": 5570560,
+          "plot_estimated_read_MB": 5.57056,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "ORNL_006",
+          "col_off": 4738,
+          "row_off": 10683,
+          "width": 87,
+          "height": 84,
+          "buffer_m": 30.0,
+          "n_blocks": 84,
+          "estimated_uncompressed_block_bytes": 5505024,
+          "estimated_uncompressed_block_MB": 5.505024,
+          "plot_estimated_read_bytes": 5505024,
+          "plot_estimated_read_MB": 5.505024,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "ORNL_009",
+          "col_off": 13660,
+          "row_off": 6510,
+          "width": 85,
+          "height": 85,
+          "buffer_m": 30.0,
+          "n_blocks": 85,
+          "estimated_uncompressed_block_bytes": 5570560,
+          "estimated_uncompressed_block_MB": 5.57056,
+          "plot_estimated_read_bytes": 5570560,
+          "plot_estimated_read_MB": 5.57056,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "ORNL_010",
+          "col_off": 3949,
+          "row_off": 8946,
+          "width": 85,
+          "height": 84,
+          "buffer_m": 30.0,
+          "n_blocks": 84,
+          "estimated_uncompressed_block_bytes": 5505024,
+          "estimated_uncompressed_block_MB": 5.505024,
+          "plot_estimated_read_bytes": 5505024,
+          "plot_estimated_read_MB": 5.505024,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "ORNL_027",
+          "col_off": 10370,
+          "row_off": 13205,
+          "width": 85,
+          "height": 85,
+          "buffer_m": 30.0,
+          "n_blocks": 85,
+          "estimated_uncompressed_block_bytes": 5570560,
+          "estimated_uncompressed_block_MB": 5.57056,
+          "plot_estimated_read_bytes": 5570560,
+          "plot_estimated_read_MB": 5.57056,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "ORNL_049",
+          "col_off": 8905,
+          "row_off": 7613,
+          "width": 85,
+          "height": 106,
+          "buffer_m": 30.0,
+          "n_blocks": 106,
+          "estimated_uncompressed_block_bytes": 6946816,
+          "estimated_uncompressed_block_MB": 6.946816,
+          "plot_estimated_read_bytes": 6946816,
+          "plot_estimated_read_MB": 6.946816,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "ORNL_057",
+          "col_off": 8781,
+          "row_off": 7608,
+          "width": 86,
+          "height": 107,
+          "buffer_m": 30.0,
+          "n_blocks": 107,
+          "estimated_uncompressed_block_bytes": 7012352,
+          "estimated_uncompressed_block_MB": 7.012352,
+          "plot_estimated_read_bytes": 7012352,
+          "plot_estimated_read_MB": 7.012352,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        }
+      ],
+      "warnings": [],
+      "http_requests": [
+        {
+          "start": 0,
+          "end": 16383,
+          "bytes": 16384
+        },
+        {
+          "start": 0,
+          "end": 32767,
+          "bytes": 32768
+        },
+        {
+          "start": 1048576,
+          "end": 1081343,
+          "bytes": 32768
+        },
+        {
+          "start": 65536,
+          "end": 98303,
+          "bytes": 32768
+        },
+        {
+          "start": 589824,
+          "end": 622591,
+          "bytes": 32768
+        },
+        {
+          "start": 137216000,
+          "end": 138297343,
+          "bytes": 1081344
+        },
+        {
+          "start": 98304,
+          "end": 131071,
+          "bytes": 32768
+        },
+        {
+          "start": 622592,
+          "end": 655359,
+          "bytes": 32768
+        },
+        {
+          "start": 169574400,
+          "end": 170704895,
+          "bytes": 1130496
+        },
+        {
+          "start": 125566976,
+          "end": 126681087,
+          "bytes": 1114112
+        },
+        {
+          "start": 32768,
+          "end": 65535,
+          "bytes": 32768
+        },
+        {
+          "start": 557056,
+          "end": 589823,
+          "bytes": 32768
+        },
+        {
+          "start": 77725696,
+          "end": 78807039,
+          "bytes": 1081344
+        },
+        {
+          "start": 105414656,
+          "end": 106381311,
+          "bytes": 966656
+        },
+        {
+          "start": 157384704,
+          "end": 158466047,
+          "bytes": 1081344
+        },
+        {
+          "start": 90865664,
+          "end": 92045311,
+          "bytes": 1179648
+        },
+        {
+          "start": 90800128,
+          "end": 90865663,
+          "bytes": 65536
+        }
+      ],
+      "object_bytes": 796491894,
+      "crs": "EPSG:3857",
+      "resolution": [
+        1.1943285669559032,
+        1.1943285669559174
+      ],
+      "crs_axis_units": [
+        "metre",
+        "metre"
+      ],
+      "dtype": "uint8",
+      "nodata": null,
+      "width": 65536,
+      "height": 65536,
+      "is_tiled": false,
+      "block_shapes": [
+        [
+          1,
+          65536
+        ]
+      ],
+      "compression": "deflate",
+      "tags": {
+        "default": {
+          "UNITS": "METERS",
+          "AREA_OR_POINT": "Area"
+        },
+        "band": {},
+        "namespaces": {
+          "IMAGE_STRUCTURE": {
+            "COMPRESSION": "DEFLATE",
+            "INTERLEAVE": "BAND",
+            "PREDICTOR": "2"
+          },
+          "DERIVED_SUBDATASETS": {
+            "DERIVED_SUBDATASET_1_NAME": "DERIVED_SUBDATASET:LOGAMPLITUDE:/vsicurl/http://127.0.0.1:33527/032003002.tif",
+            "DERIVED_SUBDATASET_1_DESC": "log10 of amplitude of input bands from /vsicurl/http://127.0.0.1:33527/032003002.tif"
+          }
+        }
+      },
+      "band_unit": null,
+      "unit_fields": {
+        "UNITS": "METERS"
+      },
+      "height_unit_status": "m confirmed in source metadata"
+    },
+    {
+      "quadkey": "032003003",
+      "url": "https://dataforgood-fb-data.s3.amazonaws.com/forests/v1/alsgedi_global_v6_float/chm/032003003.tif",
+      "windows": [
+        {
+          "plotID": "GRSM_001",
+          "col_off": 12986,
+          "row_off": 39834,
+          "width": 84,
+          "height": 85,
+          "buffer_m": 30.0,
+          "n_blocks": 85,
+          "estimated_uncompressed_block_bytes": 5570560,
+          "estimated_uncompressed_block_MB": 5.57056,
+          "plot_estimated_read_bytes": 5570560,
+          "plot_estimated_read_MB": 5.57056,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_009",
+          "col_off": 16911,
+          "row_off": 41407,
+          "width": 85,
+          "height": 85,
+          "buffer_m": 30.0,
+          "n_blocks": 85,
+          "estimated_uncompressed_block_bytes": 5570560,
+          "estimated_uncompressed_block_MB": 5.57056,
+          "plot_estimated_read_bytes": 5570560,
+          "plot_estimated_read_MB": 5.57056,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_012",
+          "col_off": 17687,
+          "row_off": 41419,
+          "width": 85,
+          "height": 85,
+          "buffer_m": 30.0,
+          "n_blocks": 85,
+          "estimated_uncompressed_block_bytes": 5570560,
+          "estimated_uncompressed_block_MB": 5.57056,
+          "plot_estimated_read_bytes": 5570560,
+          "plot_estimated_read_MB": 5.57056,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_014",
+          "col_off": 13719,
+          "row_off": 42140,
+          "width": 84,
+          "height": 85,
+          "buffer_m": 30.0,
+          "n_blocks": 85,
+          "estimated_uncompressed_block_bytes": 5570560,
+          "estimated_uncompressed_block_MB": 5.57056,
+          "plot_estimated_read_bytes": 5570560,
+          "plot_estimated_read_MB": 5.57056,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_016",
+          "col_off": 18341,
+          "row_off": 50337,
+          "width": 84,
+          "height": 83,
+          "buffer_m": 30.0,
+          "n_blocks": 83,
+          "estimated_uncompressed_block_bytes": 5439488,
+          "estimated_uncompressed_block_MB": 5.439488,
+          "plot_estimated_read_bytes": 5439488,
+          "plot_estimated_read_MB": 5.439488,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_017",
+          "col_off": 13890,
+          "row_off": 41517,
+          "width": 84,
+          "height": 84,
+          "buffer_m": 30.0,
+          "n_blocks": 84,
+          "estimated_uncompressed_block_bytes": 5505024,
+          "estimated_uncompressed_block_MB": 5.505024,
+          "plot_estimated_read_bytes": 5505024,
+          "plot_estimated_read_MB": 5.505024,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_047",
+          "col_off": 15380,
+          "row_off": 39476,
+          "width": 84,
+          "height": 106,
+          "buffer_m": 30.0,
+          "n_blocks": 106,
+          "estimated_uncompressed_block_bytes": 6946816,
+          "estimated_uncompressed_block_MB": 6.946816,
+          "plot_estimated_read_bytes": 6946816,
+          "plot_estimated_read_MB": 6.946816,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_049",
+          "col_off": 16246,
+          "row_off": 39485,
+          "width": 84,
+          "height": 104,
+          "buffer_m": 30.0,
+          "n_blocks": 104,
+          "estimated_uncompressed_block_bytes": 6815744,
+          "estimated_uncompressed_block_MB": 6.815744,
+          "plot_estimated_read_bytes": 6815744,
+          "plot_estimated_read_MB": 6.815744,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_050",
+          "col_off": 15604,
+          "row_off": 39782,
+          "width": 85,
+          "height": 104,
+          "buffer_m": 30.0,
+          "n_blocks": 104,
+          "estimated_uncompressed_block_bytes": 6815744,
+          "estimated_uncompressed_block_MB": 6.815744,
+          "plot_estimated_read_bytes": 6815744,
+          "plot_estimated_read_MB": 6.815744,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_051",
+          "col_off": 15308,
+          "row_off": 39385,
+          "width": 85,
+          "height": 104,
+          "buffer_m": 30.0,
+          "n_blocks": 104,
+          "estimated_uncompressed_block_bytes": 6815744,
+          "estimated_uncompressed_block_MB": 6.815744,
+          "plot_estimated_read_bytes": 6815744,
+          "plot_estimated_read_MB": 6.815744,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_055",
+          "col_off": 15779,
+          "row_off": 39717,
+          "width": 85,
+          "height": 105,
+          "buffer_m": 30.0,
+          "n_blocks": 105,
+          "estimated_uncompressed_block_bytes": 6881280,
+          "estimated_uncompressed_block_MB": 6.88128,
+          "plot_estimated_read_bytes": 6881280,
+          "plot_estimated_read_MB": 6.88128,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_057",
+          "col_off": 15775,
+          "row_off": 39595,
+          "width": 84,
+          "height": 107,
+          "buffer_m": 30.0,
+          "n_blocks": 107,
+          "estimated_uncompressed_block_bytes": 7012352,
+          "estimated_uncompressed_block_MB": 7.012352,
+          "plot_estimated_read_bytes": 7012352,
+          "plot_estimated_read_MB": 7.012352,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_058",
+          "col_off": 15481,
+          "row_off": 38979,
+          "width": 84,
+          "height": 105,
+          "buffer_m": 30.0,
+          "n_blocks": 105,
+          "estimated_uncompressed_block_bytes": 6881280,
+          "estimated_uncompressed_block_MB": 6.88128,
+          "plot_estimated_read_bytes": 6881280,
+          "plot_estimated_read_MB": 6.88128,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_059",
+          "col_off": 15352,
+          "row_off": 39603,
+          "width": 84,
+          "height": 104,
+          "buffer_m": 30.0,
+          "n_blocks": 104,
+          "estimated_uncompressed_block_bytes": 6815744,
+          "estimated_uncompressed_block_MB": 6.815744,
+          "plot_estimated_read_bytes": 6815744,
+          "plot_estimated_read_MB": 6.815744,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        },
+        {
+          "plotID": "GRSM_060",
+          "col_off": 15617,
+          "row_off": 39661,
+          "width": 84,
+          "height": 105,
+          "buffer_m": 30.0,
+          "n_blocks": 105,
+          "estimated_uncompressed_block_bytes": 6881280,
+          "estimated_uncompressed_block_MB": 6.88128,
+          "plot_estimated_read_bytes": 6881280,
+          "plot_estimated_read_MB": 6.88128,
+          "plot_read_limit_MB": 300,
+          "plot_read_within_limit": true
+        }
+      ],
+      "warnings": [],
+      "http_requests": [
+        {
+          "start": 0,
+          "end": 16383,
+          "bytes": 16384
+        },
+        {
+          "start": 0,
+          "end": 32767,
+          "bytes": 32768
+        },
+        {
+          "start": 1048576,
+          "end": 1081343,
+          "bytes": 32768
+        },
+        {
+          "start": 294912,
+          "end": 327679,
+          "bytes": 32768
+        },
+        {
+          "start": 819200,
+          "end": 851967,
+          "bytes": 32768
+        },
+        {
+          "start": 525287424,
+          "end": 526581759,
+          "bytes": 1294336
+        },
+        {
+          "start": 327680,
+          "end": 360447,
+          "bytes": 32768
+        },
+        {
+          "start": 851968,
+          "end": 884735,
+          "bytes": 32768
+        },
+        {
+          "start": 549044224,
+          "end": 550338559,
+          "bytes": 1294336
+        },
+        {
+          "start": 550338560,
+          "end": 552927231,
+          "bytes": 2588672
+        },
+        {
+          "start": 560250880,
+          "end": 561577983,
+          "bytes": 1327104
+        },
+        {
+          "start": 393216,
+          "end": 425983,
+          "bytes": 32768
+        },
+        {
+          "start": 917504,
+          "end": 950271,
+          "bytes": 32768
+        },
+        {
+          "start": 681852928,
+          "end": 683081727,
+          "bytes": 1228800
+        },
+        {
+          "start": 519962624,
+          "end": 521568255,
+          "bytes": 1605632
+        },
+        {
+          "start": 521568256,
+          "end": 524779519,
+          "bytes": 3211264
+        },
+        {
+          "start": 524779520,
+          "end": 525287423,
+          "bytes": 507904
+        },
+        {
+          "start": 518602752,
+          "end": 519962623,
+          "bytes": 1359872
+        },
+        {
+          "start": 512671744,
+          "end": 514179071,
+          "bytes": 1507328
+        }
+      ],
+      "object_bytes": 898085820,
+      "crs": "EPSG:3857",
+      "resolution": [
+        1.1943285669558747,
+        1.1943285669559174
+      ],
+      "crs_axis_units": [
+        "metre",
+        "metre"
+      ],
+      "dtype": "uint8",
+      "nodata": null,
+      "width": 65536,
+      "height": 65536,
+      "is_tiled": false,
+      "block_shapes": [
+        [
+          1,
+          65536
+        ]
+      ],
+      "compression": "deflate",
+      "tags": {
+        "default": {
+          "UNITS": "METERS",
+          "AREA_OR_POINT": "Area"
+        },
+        "band": {},
+        "namespaces": {
+          "IMAGE_STRUCTURE": {
+            "COMPRESSION": "DEFLATE",
+            "INTERLEAVE": "BAND",
+            "PREDICTOR": "2"
+          },
+          "DERIVED_SUBDATASETS": {
+            "DERIVED_SUBDATASET_1_NAME": "DERIVED_SUBDATASET:LOGAMPLITUDE:/vsicurl/http://127.0.0.1:33527/032003003.tif",
+            "DERIVED_SUBDATASET_1_DESC": "log10 of amplitude of input bands from /vsicurl/http://127.0.0.1:33527/032003003.tif"
+          }
+        }
+      },
+      "band_unit": null,
+      "unit_fields": {
+        "UNITS": "METERS"
+      },
+      "height_unit_status": "m confirmed in source metadata"
+    }
+  ],
+  "plot_observation_dates": {
+    "GRSM_001": "미확인",
+    "GRSM_009": "미확인",
+    "GRSM_012": "미확인",
+    "GRSM_014": "미확인",
+    "GRSM_016": "미확인",
+    "GRSM_017": "미확인",
+    "GRSM_047": "미확인",
+    "GRSM_049": "미확인",
+    "GRSM_050": "미확인",
+    "GRSM_051": "미확인",
+    "GRSM_055": "미확인",
+    "GRSM_057": "미확인",
+    "GRSM_058": "미확인",
+    "GRSM_059": "미확인",
+    "GRSM_060": "미확인",
+    "ORNL_001": "미확인",
+    "ORNL_004": "미확인",
+    "ORNL_006": "미확인",
+    "ORNL_009": "미확인",
+    "ORNL_010": "미확인",
+    "ORNL_027": "미확인",
+    "ORNL_049": "미확인",
+    "ORNL_057": "미확인"
+  },
+  "coefficients_original_sha256": "0a5746926b1a90cc35c7bf2af09af9d93e1f4d2ea679c8d2548823b817fc3b28",
+  "features_original_sha256": "41ff333270d5b5acf0e086106cf3080f8b471d6434daaebf0a97310d8a714c41",
+  "frozen_coefficients": [
+    {
+      "direction": "D1_GRSM_to_ORNL",
+      "train_site": "GRSM",
+      "test_site": "ORNL",
+      "b0": -385.5655652750414,
+      "b1": 9.11890418658884,
+      "b2": 456.60815051757095,
+      "train_n": 15,
+      "train_R2": 0.3593900956719329
+    },
+    {
+      "direction": "D2_ORNL_to_GRSM",
+      "train_site": "ORNL",
+      "test_site": "GRSM",
+      "b0": 18.74680024838113,
+      "b1": 8.505411493461185,
+      "b2": 0.0,
+      "train_n": 8,
+      "train_R2": 0.2991866220762685
+    }
+  ],
+  "neon_input_audit": [
+    {
+      "plotID": "GRSM_001",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_009",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_012",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_014",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_016",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_017",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_047",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_049",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_050",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_051",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_055",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_057",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_058",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_059",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "GRSM_060",
+      "crs": "EPSG:32617",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "ORNL_001",
+      "crs": "EPSG:32616",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "ORNL_004",
+      "crs": "EPSG:32616",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "ORNL_006",
+      "crs": "EPSG:32616",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "ORNL_009",
+      "crs": "EPSG:32616",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "ORNL_010",
+      "crs": "EPSG:32616",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "ORNL_027",
+      "crs": "EPSG:32616",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "ORNL_049",
+      "crs": "EPSG:32616",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    },
+    {
+      "plotID": "ORNL_057",
+      "crs": "EPSG:32616",
+      "res": [
+        1.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "nodata": -9999.0
+    }
+  ],
+  "elapsed_seconds": 44.83674700300003
+}

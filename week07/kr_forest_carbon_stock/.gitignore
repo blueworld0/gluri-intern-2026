@@ -1,0 +1,4 @@
+*.gpkg
+local_validation/
+__pycache__/
+.pytest_cache/

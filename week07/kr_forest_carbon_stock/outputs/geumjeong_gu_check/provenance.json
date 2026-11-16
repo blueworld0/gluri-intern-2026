@@ -1,0 +1,563 @@
+{
+  "run_time_utc": "2026-11-13T07:13:33.097347+00:00",
+  "python": "3.11.9",
+  "inputs": [
+    {
+      "path": "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/2025_임상도/금정구/26410.dbf",
+      "sha256": "58e024c6435c7501bb31049a0317b69c028086578127680fda4d6171d16a6381",
+      "edition": "2025_임상도 (구획별 갱신년도 함께 보존)"
+    },
+    {
+      "path": "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/2025_임상도/금정구/26410.prj",
+      "sha256": "e21b26451491c617318aab7d28abf4d07f5facc2aed1564e082ec8d4268cfa3b",
+      "edition": "2025_임상도 (구획별 갱신년도 함께 보존)"
+    },
+    {
+      "path": "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/2025_임상도/금정구/26410.sbn",
+      "sha256": "c87990d858aa48ad123553dc3ac7af85902592899223b3cc7e0d7adb7f596beb",
+      "edition": "2025_임상도 (구획별 갱신년도 함께 보존)"
+    },
+    {
+      "path": "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/2025_임상도/금정구/26410.sbx",
+      "sha256": "030014e9e898056291910773d1f9bc6e20299597cefdbcf4a27b470f5f8d4a69",
+      "edition": "2025_임상도 (구획별 갱신년도 함께 보존)"
+    },
+    {
+      "path": "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/2025_임상도/금정구/26410.shp",
+      "sha256": "83bcd8cf2e9f9421684edb7442a6615f0106df93ca400bfedb6967f5e2d12716",
+      "edition": "2025_임상도 (구획별 갱신년도 함께 보존)"
+    },
+    {
+      "path": "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/2025_임상도/금정구/26410.shp.xml",
+      "sha256": "07ee21d8b7495219faa7e06e38f7ad2235cb157dff5c511c64432b0ec1e85e16",
+      "edition": "2025_임상도 (구획별 갱신년도 함께 보존)"
+    },
+    {
+      "path": "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/2025_임상도/금정구/26410.shx",
+      "sha256": "4be9a0c5612fc17dc074677bca5bdc830534a42eb66953f3061b1a07e69569c0",
+      "edition": "2025_임상도 (구획별 갱신년도 함께 보존)"
+    },
+    {
+      "path": "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/산림청_임상도1대5000_속성정의서.pdf",
+      "sha256": "bdea67f6b8a25f33cfa7ba95945ec529294e85cfc7e6845379991e68464060da"
+    },
+    {
+      "path": "configs/geumjeong_gu_check.yaml",
+      "sha256": "861187a0f2167cb60f335f9e88bf77974bd8f17c951694de3a62e14c040f037b"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261030_금정산_탄소추정_v01/outputs/carbon_B_summary.csv",
+      "sha256": "f24afdfd421c186ed65cc41e88d893c363bbdd75ddeb02511dcbdc78df60ece0"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261030_금정산_탄소추정_v01/outputs/carbon_B_polygons_2025.csv",
+      "sha256": "ddaf356cbe09ddbede61e941ffa02ceeae633d8ea3ab4cdaac805407eedee247"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261030_금정산_탄소추정_v01/data/forest_map_merged/forest2025_geumjeong.shp",
+      "sha256": "14cf78a61590c6ec379020938482d7c200448e8b5430295811201fe7b3c52cef"
+    },
+    {
+      "path": "../../../../drive/01_원본자료/20261113_국가기준_재적표_경계/2025년 산림기본통계_통계표.zip",
+      "sha256": "39794e0b55d099cec1ff7d9aeaae348b326ca7e9b8ebf1fe66457681fe0958b7",
+      "edition": "산림기본통계 2025 / NFI8 2021–2025"
+    },
+    {
+      "path": "../../../../drive/01_원본자료/20261113_국가기준_재적표_경계/임상별_영급별_산림통계_표본점_단위면적당_임목축적_20261113144104.xlsx",
+      "sha256": "af470e4de2ce8154b5a3ca539bbd8c22ea7f896e56e135351e429958cc17ad16",
+      "edition": "KOSIS NFI 2020 / 20261113 다운로드"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/cf_rules.csv",
+      "sha256": "6029c7ab52768f882b28b2ab5d2f84b797d6526cc079a7f304e1d974fb312f4c",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/external_estimates_shin2023.csv",
+      "sha256": "03423b7feb1397db9afdd1269411de9afb1f892c0af7323a1417755e2584fa49",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/forest_map_codes.csv",
+      "sha256": "beba11167da3bc26e8454dcfd950db755b621eec0463e6070c2118a5fd253d91",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/forest_type_factors_shin2023.csv",
+      "sha256": "bd754d931c5093c3b2b24d7b2eff35891c2bd8f50683d74eebada1ef2d562d94",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/national_inventory_factors_nid2025.csv",
+      "sha256": "c75e14392156c7e5743dcc0a84be514e313b424eb86ebfa9deed128759c10fee",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/nifos2010_carbon_fraction.csv",
+      "sha256": "172f6d65c1990625c2f37a1517cc8958208488b2fb772614bd15a9d58fbb1bcb",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/nifos2014_carbon_factors.csv",
+      "sha256": "261cee38c1f13e99ea510e0aef0e980e1cb3171b76876e6f368b9b48ea6033ed",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/sido_codes.csv",
+      "sha256": "e6b895b7c83a3c972affaab12b767aa1266aeef7f9fb3b50c18f493593896beb",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/species_group_to_factor.csv",
+      "sha256": "7b7f77d7c392f0ac9b5aa416efd6e70b1bcc7e3a6b0620afa49dc9c6793206c6",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/uncertainty_overrides.csv",
+      "sha256": "0de21f93006e72c51315b2c13265d668a7ba214e3d4ba1486e4a671d01190085",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/volume_per_ha_2025.csv",
+      "sha256": "3c041c8180b6ead46c044e93e9a9073125ff51eaeeb099675da4599813892aba",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/volume_per_ha_kosis2020.csv",
+      "sha256": "a9f2ba7597aab535d5a276d11ffb8b1254e7d11c0a53d2bd8623d181f57eff64",
+      "edition": "NIFoS 2014 / CF 2010"
+    },
+    {
+      "path": "reference/uncertainty_overrides.csv",
+      "sha256": "0de21f93006e72c51315b2c13265d668a7ba214e3d4ba1486e4a671d01190085"
+    }
+  ],
+  "editions": {
+    "forest_map": "2025_임상도 (구획별 갱신년도 함께 보존)",
+    "sfs2025": "산림기본통계 2025 / NFI8 2021–2025",
+    "kosis2020": "KOSIS NFI 2020 / 20261113 다운로드",
+    "factors": "NIFoS 2014 / CF 2010"
+  },
+  "volume": {
+    "provider": "stat_table",
+    "cache": {
+      "path": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference/volume_per_ha_2025.csv",
+      "sha256": "3c041c8180b6ead46c044e93e9a9073125ff51eaeeb099675da4599813892aba",
+      "edition": "산림기본통계 2025 / NFI8 2021–2025"
+    },
+    "source": {
+      "path": "../../../../drive/01_원본자료/20261113_국가기준_재적표_경계/2025년 산림기본통계_통계표.zip",
+      "sha256": "39794e0b55d099cec1ff7d9aeaae348b326ca7e9b8ebf1fe66457681fe0958b7"
+    },
+    "rules": {
+      "provider": "stat_table",
+      "table": "sfs2025",
+      "age1_rule": "zero",
+      "edition": "user supplied volume map",
+      "raster_path": null,
+      "raster_unit": "m3_per_ha",
+      "band": 1,
+      "edge_segments": 64,
+      "cache_files": {
+        "sfs2025": "volume_per_ha_2025.csv",
+        "kosis2020": "volume_per_ha_kosis2020.csv"
+      }
+    },
+    "audit": {
+      "age1_zero": {
+        "count": 2,
+        "area_ha": 2.2955967152459853
+      },
+      "direct": {
+        "count": 1544,
+        "area_ha": 3912.4286845309243
+      },
+      "excluded_forest_type": {
+        "count": 169,
+        "area_ha": 61.03519043250044
+      }
+    }
+  },
+  "factor_set": {
+    "set": "nifos2014_species",
+    "mapping_profile": "legacy_week4",
+    "mixed_rule": "factor_average_50_50",
+    "cf_mode": "ipcc_inventory",
+    "uniform_cf": 0.5,
+    "missing_cf": 0.5,
+    "mixed_weights": {
+      "conifer": 0.5,
+      "broadleaf": 0.5
+    },
+    "split_groups": {
+      "conifer": {
+        "species_type": "침엽수",
+        "inventory_type": "침엽수"
+      },
+      "broadleaf": {
+        "species_type": "낙엽활엽수",
+        "inventory_type": "활엽수"
+      }
+    }
+  },
+  "config": {
+    "drive_root": "../../../../drive",
+    "reference_dir": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/reference",
+    "output_dir": "../../../../drive/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/final/geumjeong_gu_check",
+    "editions": {
+      "forest_map": "2025_임상도 (구획별 갱신년도 함께 보존)",
+      "sfs2025": "산림기본통계 2025 / NFI8 2021–2025",
+      "kosis2020": "KOSIS NFI 2020 / 20261113 다운로드",
+      "factors": "NIFoS 2014 / CF 2010"
+    },
+    "inputs": {
+      "forest_maps": [
+        "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/2025_임상도/금정구/26410.shp"
+      ],
+      "encoding": "cp949",
+      "sfs_zip": "../../../../drive/01_원본자료/20261113_국가기준_재적표_경계/2025년 산림기본통계_통계표.zip",
+      "kosis_xlsx": "../../../../drive/01_원본자료/20261113_국가기준_재적표_경계/임상별_영급별_산림통계_표본점_단위면적당_임목축적_20261113144104.xlsx",
+      "attribute_pdf": "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/산림청_임상도1대5000_속성정의서.pdf"
+    },
+    "boundary": {
+      "path": "none",
+      "select": {},
+      "scope": "partial_sido",
+      "full_sido_codes": [],
+      "official": false
+    },
+    "spatial": {
+      "crs": "EPSG:5179",
+      "overlap_priority": "configured forest_maps order, then source record order"
+    },
+    "units": {
+      "m2_per_ha": 10000
+    },
+    "classification": {
+      "eligible_codes": [
+        "1",
+        "2",
+        "3"
+      ],
+      "bamboo_codes": [
+        "4"
+      ],
+      "unstocked_codes": [
+        "0"
+      ],
+      "age_min": 1,
+      "age2": 2,
+      "age_max": 6,
+      "national_code": "00"
+    },
+    "volume": {
+      "provider": "stat_table",
+      "table": "sfs2025",
+      "age1_rule": "zero",
+      "edition": "user supplied volume map",
+      "raster_path": null,
+      "raster_unit": "m3_per_ha",
+      "band": 1,
+      "edge_segments": 64,
+      "cache_files": {
+        "sfs2025": "volume_per_ha_2025.csv",
+        "kosis2020": "volume_per_ha_kosis2020.csv"
+      }
+    },
+    "factors": {
+      "set": "nifos2014_species",
+      "mapping_profile": "legacy_week4",
+      "mixed_rule": "factor_average_50_50",
+      "cf_mode": "ipcc_inventory",
+      "uniform_cf": 0.5,
+      "missing_cf": 0.5,
+      "mixed_weights": {
+        "conifer": 0.5,
+        "broadleaf": 0.5
+      },
+      "split_groups": {
+        "conifer": {
+          "species_type": "침엽수",
+          "inventory_type": "침엽수"
+        },
+        "broadleaf": {
+          "species_type": "낙엽활엽수",
+          "inventory_type": "활엽수"
+        }
+      }
+    },
+    "uncertainty": {
+      "enabled": true,
+      "n": 1000,
+      "seed": 42,
+      "parameters": [
+        "WD",
+        "BEF",
+        "R"
+      ],
+      "ci_halfwidth_divisor": 196,
+      "quantiles": [
+        0.05,
+        0.5,
+        0.95
+      ],
+      "overrides": "reference/uncertainty_overrides.csv",
+      "warning_threshold_pct": 50
+    },
+    "table_parser": {
+      "roman_ages": [
+        "Ⅰ",
+        "Ⅱ",
+        "Ⅲ",
+        "Ⅳ",
+        "Ⅴ",
+        "Ⅵ"
+      ],
+      "total_label": "총계",
+      "total_label_count": 2,
+      "sum_label": "합계",
+      "sfs_member_label": "전국 및 시도별 통계총괄",
+      "sfs_sheet_titles": {
+        "총계": "전체",
+        "침엽수": "침엽수림",
+        "혼효림": "혼효림"
+      },
+      "all_type": "전체",
+      "conifer_type": "침엽수림",
+      "broadleaf_type": "활엽수림",
+      "mixed_type": "혼효림",
+      "forest_types": [
+        "전체",
+        "침엽수림",
+        "활엽수림",
+        "혼효림"
+      ],
+      "expected_region_count": 18,
+      "area_assert_tolerance_ha": 0,
+      "volume_assert_tolerance_m3": 0,
+      "kosis_age_headers": {
+        "2": "2영급",
+        "3": "3영급",
+        "4": "4영급",
+        "5": "5영급",
+        "6": "6영급이상"
+      },
+      "kosis_group_header": "임상구분",
+      "missing_labels": [
+        "",
+        "-",
+        "…",
+        "...",
+        "nan"
+      ],
+      "admin_member_label": "Ⅴ.행정구역별",
+      "admin_sheets": {
+        "2. 행정구역별 임상별 면적축적": "forest_type",
+        "4. 행정구역별 영급별 면적축적": "age"
+      },
+      "admin_area_label": "산림면적",
+      "admin_volume_label": "임목축적",
+      "admin_categories": {
+        "forest_type": {
+          "계": "전체",
+          "침엽수": "침엽수림",
+          "활엽수": "활엽수림",
+          "혼효림": "혼효림",
+          "죽림": "죽림",
+          "무립목지": "무립목지"
+        },
+        "age": {
+          "계": "전체",
+          "I영급": "1",
+          "II영급": "2",
+          "III영급": "3",
+          "IV영급": "4",
+          "V영급": "5",
+          "VI영급": "6",
+          "죽림": "죽림",
+          "무립목지": "무립목지"
+        }
+      },
+      "sfs_title_pattern": "^[◈○■].*\\(.+\\)$"
+    },
+    "validation": {
+      "mode": "admin",
+      "relative_tolerance": 0.01,
+      "week4": {
+        "summary_path": "../../../../drive/02_분석결과/20261030_금정산_탄소추정_v01/outputs/carbon_B_summary.csv",
+        "polygon_path": "../../../../drive/02_분석결과/20261030_금정산_탄소추정_v01/outputs/carbon_B_polygons_2025.csv",
+        "year": 2025,
+        "scope": "금정산",
+        "fallback_area_ha": 5336,
+        "fallback_carbon_tC": 539000,
+        "spatial_match_min_fraction": 0.99,
+        "geometry_path": "../../../../drive/02_분석결과/20261030_금정산_탄소추정_v01/data/forest_map_merged/forest2025_geumjeong.shp",
+        "geometry_id_field": "FID_U"
+      },
+      "admin": {
+        "district_code": "26410",
+        "district_name": "금정구"
+      },
+      "decomposition": {
+        "enabled": false,
+        "baseline_config": "configs/geumjeongsan_week4_repro.yaml",
+        "steps": [
+          {
+            "label": "재적표",
+            "changes": {
+              "volume.table": "sfs2025"
+            }
+          },
+          {
+            "label": "1영급 규칙",
+            "changes": {
+              "volume.age1_rule": "zero"
+            }
+          },
+          {
+            "label": "CF",
+            "changes": {
+              "factors.cf_mode": "ipcc_inventory"
+            }
+          },
+          {
+            "label": "계수 세트(별도 비교)",
+            "changes": {
+              "factors.set": "forest_type_3",
+              "factors.cf_mode": "from_factor_set"
+            }
+          }
+        ]
+      },
+      "uncertainty_comparison": {
+        "enabled": false
+      },
+      "national_inventory_comparison": {
+        "enabled": false,
+        "baseline_config": "configs/geumjeongsan_2025.yaml"
+      }
+    },
+    "_config_path": "configs/geumjeong_gu_check.yaml"
+  },
+  "packages": {
+    "geopandas": "1.2.0",
+    "pyogrio": "0.11.1",
+    "pyproj": "3.7.1",
+    "shapely": "2.2.0",
+    "pandas": "3.0.3",
+    "numpy": "2.4.6",
+    "rasterio": "1.4.3",
+    "xlrd": "2.0.2",
+    "openpyxl": "3.1.5",
+    "pyyaml": "6.0.3",
+    "matplotlib": "3.11.0",
+    "pytest": "9.2.0"
+  },
+  "forest_map_audit": {
+    "files": [
+      {
+        "path": "../../../../drive/01_원본자료/20261030_산림청_임상도_등산로/2025_임상도/금정구/26410.shp",
+        "retained_candidates": 1715
+      }
+    ],
+    "overlap_removed_ha": -8.328485234798698e-13,
+    "fully_overlapped_count": 0
+  },
+  "uncertainty": {
+    "enabled": true,
+    "n": 1000,
+    "seed": 42,
+    "median_tC": 475100.0282489251,
+    "p05_tC": 449858.23591679416,
+    "p95_tC": 502071.8458662374,
+    "coefficient_fixed": false,
+    "fixed_reason": null,
+    "overrides_applied": [
+      {
+        "factor_set": "nifos2014_species",
+        "species": "곰솔",
+        "parameter": "BEF",
+        "original_unc_pct": 112.782,
+        "override_unc_pct": 11.62,
+        "reason": "원문 오기 추정. 침엽수 BEF 불확도 범위 상한 적용",
+        "source": "NID 2025 BOX 1 (침엽수 BEF 불확도 5.97~11.62%)"
+      }
+    ],
+    "override_input": {
+      "path": "reference/uncertainty_overrides.csv",
+      "sha256": "0de21f93006e72c51315b2c13265d668a7ba214e3d4ba1486e4a671d01190085"
+    },
+    "high_uncertainties": [],
+    "conditional_on_observed_volume": true,
+    "missing_area_ha": 0.0
+  },
+  "uncertainty_sensitivity": [],
+  "implementation": [
+    {
+      "path": "kfcs/__init__.py",
+      "sha256": "3cc14c4d9c09e62e96452664031215894b2f555ddb3f8c726b67b63e9b865db8"
+    },
+    {
+      "path": "kfcs/aoi.py",
+      "sha256": "5672e41b02473f16915152e2ca945966046ed14e61c7f47eb01a896a4850cdb3"
+    },
+    {
+      "path": "kfcs/carbon.py",
+      "sha256": "02f2d3024d568b7c2811b22a80ba2f9925064a1350c5017aa92815a59b1b2caa"
+    },
+    {
+      "path": "kfcs/config.py",
+      "sha256": "ba62e6927b86c93e99b9667abbecba44941a0e079b4403f4e3e92be26c30a59c"
+    },
+    {
+      "path": "kfcs/factors.py",
+      "sha256": "10c95af8e052f73ccbb3eda858a315a98612f4759a8ce85fb3d41fa5d4aa5b64"
+    },
+    {
+      "path": "kfcs/forest_map.py",
+      "sha256": "e4e1058de152d940231a110eecb7c2fc71cad00871b31aad5638f9eb7287f79d"
+    },
+    {
+      "path": "kfcs/publish.py",
+      "sha256": "d6cc760d871f349e84ca0906a8ead0705b8f081915226c9ee502df18e28a1765"
+    },
+    {
+      "path": "kfcs/report.py",
+      "sha256": "24a3adda5a437b4af7f8b2a278746eeaff87f5853c020622f8c5e232b6c626d1"
+    },
+    {
+      "path": "kfcs/run.py",
+      "sha256": "237fcde662fa304f894852d4b2ac3a49cec93aa01ea3749cdf50f4c13392a7ee"
+    },
+    {
+      "path": "kfcs/uncertainty.py",
+      "sha256": "0ffaf1536dd8f10d048a2cfd3f0ed18af027ca1e7e9914aaf3e14304f6402277"
+    },
+    {
+      "path": "kfcs/volume/__init__.py",
+      "sha256": "f427b4d99078195618bb31163132d6ab0acb5379495509500fa9aa129471183e"
+    },
+    {
+      "path": "kfcs/volume/base.py",
+      "sha256": "14a88c499dd0fa2b7cfd5f6ba2dbf8a7d82027af5fe5ad51697545bb6032dc9c"
+    },
+    {
+      "path": "kfcs/volume/raster.py",
+      "sha256": "13ba048a138dcaec5dc097aad1a473646c7dbf71346f8f7ff8a9abb149ffeb70"
+    },
+    {
+      "path": "kfcs/volume/stat_table.py",
+      "sha256": "f69d013a2066ef118ac8c36a6fed1529412d4fd70a3f9090a52be155d66cad73"
+    },
+    {
+      "path": "kfcs/volume/tables.py",
+      "sha256": "93d87fec63b672f973b284524f9253e77d0776e6ebdc476d8619a94715351a5b"
+    }
+  ],
+  "shared_copy": {
+    "path_base": "../..",
+    "path_base_description": "experiment root; paths below are relative to that root",
+    "absolute_paths_removed": true,
+    "full_outputs_location": "Drive local mirror; see README.md"
+  }
+}

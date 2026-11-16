@@ -1,0 +1,19 @@
+﻿sido_name,sido_code,volume_m3,carbon_tC,forest_area_ha,year,source,method
+서울특별시,11,2001661,1169051,18185,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+부산광역시,26,4342684,2292706,38712,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+대구광역시,27,6136812,3159826,52912,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+인천광역시,28,4198223,2363472,39793,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+광주광역시,29,2105867,1043481,19145,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+대전광역시,30,3568367,1883179,32175,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+울산광역시,31,8473833,4619193,74456,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+세종특별자치시,36,2780824,1547526,26181,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+경기도,41,63158870,34698413,560204,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+강원특별자치도,51,186342063,101987778,1454221,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+충청북도,43,64347903,34388133,539978,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+충청남도,44,47221547,24848729,432561,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+전북특별자치도,52,56091622,30009506,465060,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+전라남도,46,81764920,41661484,727279,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+경상북도,47,176037546,92247290,1475235,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+경상남도,48,92063934,48161538,874192,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+제주특별자치도,50,10968016,6133215,96798,2020,"신재원 외 2023 표 3, PDF 7쪽",Landsat+SRTM random forest; land-cover forest mask
+전국,00,811604692,432214520,6837088,2020,"신재원 외 2023 표 3, PDF 7쪽; 합계 원문 그대로",Landsat+SRTM random forest; land-cover forest mask

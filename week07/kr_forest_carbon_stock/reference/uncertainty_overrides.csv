@@ -1,0 +1,2 @@
+factor_set,species,parameter,original_unc_pct,override_unc_pct,reason,source
+nifos2014_species,곰솔,BEF,112.782,11.62,원문 오기 추정. 침엽수 BEF 불확도 범위 상한 적용,NID 2025 BOX 1 (침엽수 BEF 불확도 5.97~11.62%)

@@ -1,0 +1,187 @@
+drive_root: /content/drive/MyDrive/글루리
+reference_dir: ${experiment_root}/reference
+output_dir: ${drive_root}/02_분석결과/20261113_국가기준저장량파이프라인_v01/local_validation/final/geumjeong_gu_check
+editions:
+  forest_map: 2025_임상도 (구획별 갱신년도 함께 보존)
+  sfs2025: 산림기본통계 2025 / NFI8 2021–2025
+  kosis2020: KOSIS NFI 2020 / 20261113 다운로드
+  factors: NIFoS 2014 / CF 2010
+inputs:
+  forest_maps:
+  - ${drive_root}/01_원본자료/20261030_산림청_임상도_등산로/2025_임상도/금정구/26410.shp
+  encoding: cp949
+  sfs_zip: ${drive_root}/01_원본자료/20261113_국가기준_재적표_경계/2025년 산림기본통계_통계표.zip
+  kosis_xlsx: ${drive_root}/01_원본자료/20261113_국가기준_재적표_경계/임상별_영급별_산림통계_표본점_단위면적당_임목축적_20261113144104.xlsx
+  attribute_pdf: ${drive_root}/01_원본자료/20261030_산림청_임상도_등산로/산림청_임상도1대5000_속성정의서.pdf
+boundary:
+  path: none
+  select: {}
+  scope: partial_sido
+  full_sido_codes: []
+  official: false
+spatial:
+  crs: EPSG:5179
+  overlap_priority: configured forest_maps order, then source record order
+units:
+  m2_per_ha: 10000
+classification:
+  eligible_codes:
+  - '1'
+  - '2'
+  - '3'
+  bamboo_codes:
+  - '4'
+  unstocked_codes:
+  - '0'
+  age_min: 1
+  age2: 2
+  age_max: 6
+  national_code: '00'
+volume:
+  provider: stat_table
+  table: sfs2025
+  age1_rule: zero
+  edition: user supplied volume map
+  raster_path: null
+  raster_unit: m3_per_ha
+  band: 1
+  edge_segments: 64
+  cache_files:
+    sfs2025: volume_per_ha_2025.csv
+    kosis2020: volume_per_ha_kosis2020.csv
+factors:
+  set: nifos2014_species
+  mapping_profile: legacy_week4
+  mixed_rule: factor_average_50_50
+  cf_mode: ipcc_inventory
+  uniform_cf: 0.5
+  missing_cf: 0.5
+  mixed_weights:
+    conifer: 0.5
+    broadleaf: 0.5
+  split_groups:
+    conifer:
+      species_type: 침엽수
+      inventory_type: 침엽수
+    broadleaf:
+      species_type: 낙엽활엽수
+      inventory_type: 활엽수
+uncertainty:
+  enabled: true
+  n: 1000
+  seed: 42
+  parameters:
+  - WD
+  - BEF
+  - R
+  ci_halfwidth_divisor: 196
+  quantiles:
+  - 0.05
+  - 0.5
+  - 0.95
+  overrides: reference/uncertainty_overrides.csv
+  warning_threshold_pct: 50
+table_parser:
+  roman_ages:
+  - Ⅰ
+  - Ⅱ
+  - Ⅲ
+  - Ⅳ
+  - Ⅴ
+  - Ⅵ
+  total_label: 총계
+  total_label_count: 2
+  sum_label: 합계
+  sfs_member_label: 전국 및 시도별 통계총괄
+  sfs_sheet_titles:
+    총계: 전체
+    침엽수: 침엽수림
+    혼효림: 혼효림
+  all_type: 전체
+  conifer_type: 침엽수림
+  broadleaf_type: 활엽수림
+  mixed_type: 혼효림
+  forest_types:
+  - 전체
+  - 침엽수림
+  - 활엽수림
+  - 혼효림
+  expected_region_count: 18
+  area_assert_tolerance_ha: 0
+  volume_assert_tolerance_m3: 0
+  kosis_age_headers:
+    '2': 2영급
+    '3': 3영급
+    '4': 4영급
+    '5': 5영급
+    '6': 6영급이상
+  kosis_group_header: 임상구분
+  missing_labels:
+  - ''
+  - '-'
+  - …
+  - '...'
+  - nan
+  admin_member_label: Ⅴ.행정구역별
+  admin_sheets:
+    2. 행정구역별 임상별 면적축적: forest_type
+    4. 행정구역별 영급별 면적축적: age
+  admin_area_label: 산림면적
+  admin_volume_label: 임목축적
+  admin_categories:
+    forest_type:
+      계: 전체
+      침엽수: 침엽수림
+      활엽수: 활엽수림
+      혼효림: 혼효림
+      죽림: 죽림
+      무립목지: 무립목지
+    age:
+      계: 전체
+      I영급: '1'
+      II영급: '2'
+      III영급: '3'
+      IV영급: '4'
+      V영급: '5'
+      VI영급: '6'
+      죽림: 죽림
+      무립목지: 무립목지
+  sfs_title_pattern: ^[◈○■].*\(.+\)$
+validation:
+  mode: admin
+  relative_tolerance: 0.01
+  week4:
+    summary_path: ${drive_root}/02_분석결과/20261030_금정산_탄소추정_v01/outputs/carbon_B_summary.csv
+    polygon_path: ${drive_root}/02_분석결과/20261030_금정산_탄소추정_v01/outputs/carbon_B_polygons_2025.csv
+    year: 2025
+    scope: 금정산
+    fallback_area_ha: 5336
+    fallback_carbon_tC: 539000
+    spatial_match_min_fraction: 0.99
+    geometry_path: ${drive_root}/02_분석결과/20261030_금정산_탄소추정_v01/data/forest_map_merged/forest2025_geumjeong.shp
+    geometry_id_field: FID_U
+  admin:
+    district_code: '26410'
+    district_name: 금정구
+  decomposition:
+    enabled: false
+    baseline_config: ${experiment_root}/configs/geumjeongsan_week4_repro.yaml
+    steps:
+    - label: 재적표
+      changes:
+        volume.table: sfs2025
+    - label: 1영급 규칙
+      changes:
+        volume.age1_rule: zero
+    - label: CF
+      changes:
+        factors.cf_mode: ipcc_inventory
+    - label: 계수 세트(별도 비교)
+      changes:
+        factors.set: forest_type_3
+        factors.cf_mode: from_factor_set
+  uncertainty_comparison:
+    enabled: false
+  national_inventory_comparison:
+    enabled: false
+    baseline_config: ${experiment_root}/configs/geumjeongsan_2025.yaml
