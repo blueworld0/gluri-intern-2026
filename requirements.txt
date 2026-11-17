@@ -1,8 +1,0 @@
-numpy
-pandas
-rasterio
-geopandas
-shapely
-pyproj
-scipy
-matplotlib
