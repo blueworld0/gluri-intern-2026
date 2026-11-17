@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "n": 441,
+  "unique_point_ids": true,
+  "metadata_join": "one_to_one, complete",
+  "coordinates_and_target_match": true,
+  "residual_recalculated": true,
+  "input_sha256_unchanged": {
+    "week06\\step8\\outputs\\predictions.csv": "cba693f136f244663ca772c70537d2e14cf52549316119da400e33589640d3fd",
+    "week06\\step7\\outputs\\new441_evaluation_input.csv": "cc9de4eaebfbe4a5ae4783d9bf47c7291317cbf71b11c004754a4fc908cebe9c"
+  },
+  "model_refit": false
+}

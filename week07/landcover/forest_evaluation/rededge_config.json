@@ -1,0 +1,93 @@
+{
+  "feature_sets": {
+    "bands6": [
+      "reflectance_B02",
+      "reflectance_B03",
+      "reflectance_B04",
+      "reflectance_B08",
+      "reflectance_B11",
+      "reflectance_B12"
+    ],
+    "bands10": [
+      "reflectance_B02",
+      "reflectance_B03",
+      "reflectance_B04",
+      "reflectance_B08",
+      "reflectance_B11",
+      "reflectance_B12",
+      "reflectance_B05",
+      "reflectance_B06",
+      "reflectance_B07",
+      "reflectance_B8A"
+    ]
+  },
+  "rf_params": {
+    "bootstrap": true,
+    "ccp_alpha": 0.0,
+    "criterion": "squared_error",
+    "max_depth": 6,
+    "max_features": 0.67,
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 3,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 100,
+    "n_jobs": 1,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "input_sha256": {
+    "week07\\landcover\\forest_evaluation\\footprint_forest184_input.csv": "f2918f2f2fe659a6c27a4ee4d325e9d98feb3f6f8d9b8f114c0a0f36933ebace",
+    "week07\\landcover\\forest_evaluation\\footprint_pixel_weights.csv": "3b43ca3d422527a24dbcbe2aa216b8980f3b37410d3eaf745fd6b586938063b7",
+    "week07\\landcover\\forest_evaluation\\footprint_config.json": "ae1e416c31dcfd0bf1cde2dd6e2c684e35dbdb247bf8b2da5ff09d729cc5c469",
+    "week07\\landcover\\forest_evaluation\\footprint_validation.json": "39f8b8afc0dfbaf956b6d8345441d26fe179f125d1ab45cfe3f1782d2fdbb1e7",
+    "week07\\landcover\\forest_evaluation\\forest184_split_assignments.csv": "32c8b7fced3a2d1e415298d18bc2909f642f3ec0daaa6df923443c0efa56dc10",
+    "week07\\landcover\\forest_evaluation\\footprint_predictions.csv": "726e8cf65da6375dc540eb87a806690f625dcb9ff88c077992456e3194fbed3a",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\MTD_MSIL2A.xml": "3f298c6b2395e18c6d37ad7a6fbe1f51022a74c80e2beb026e12a97ff3396ac1",
+    "week06\\step5\\process_candidate_a.py": "6ef3db860e28504459c19066e50ba16063d6da4f1c407af0f3f5ded420b80b47",
+    "week07\\landcover\\evaluate_forest.py": "dc624f8ec261bfb32de61874b9a3654836bd25196b2622fa57d3cb0612e7a736",
+    "week06\\step5\\outputs\\rasters\\reflectance_B04.tif": "cca3e428c388baf5e090179cd5231c52bfde0fbd32b42c439428be1bdcd5f9ce",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\IMG_DATA\\R20m\\T52SDD_20250428T020711_B05_20m.jp2": "0801be5922f433b38124a914bc5adebd6fac0be9b14c5c55e5c25b5830ae0b0e",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\QI_DATA\\MSK_QUALIT_B05.jp2": "1c0965337a84ce753c0f30816083c46abb36929626076256d47e981a52e90a47",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\QI_DATA\\MSK_DETFOO_B05.jp2": "19a725b0cf1f150957993009a97314e87c0f949e1a2d04adbfe36522275f9569",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\IMG_DATA\\R20m\\T52SDD_20250428T020711_B06_20m.jp2": "68394f319a01516392d77d1d9534b2a7f111eb35228bfe1cdb253bafb7a58e74",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\QI_DATA\\MSK_QUALIT_B06.jp2": "a1153226c1082e5f3db86e968f3b0911d56608ea0416833b2ea31d8b2111fd38",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\QI_DATA\\MSK_DETFOO_B06.jp2": "d35165fc0e032cdd3a221520711a5a7872f973d4b86beb2e0f5c8fbd1883aed3",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\IMG_DATA\\R20m\\T52SDD_20250428T020711_B07_20m.jp2": "390f9bcd8db600bc2363ad5cd3cf726a0171d482bc19bfa68d9fdcaa0484b694",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\QI_DATA\\MSK_QUALIT_B07.jp2": "5ea36512e55a3ef86fe8dbf59b73b4171e5cdc4bd7c57e9ed1d254901f21abe0",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\QI_DATA\\MSK_DETFOO_B07.jp2": "af3c8fd84a3b150b0bac994c1db607479c80ff03ce1efc59505130571f83651f",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\IMG_DATA\\R20m\\T52SDD_20250428T020711_B8A_20m.jp2": "5f787db07326a48f4824a1683f2198291e0d244dd00c9bef40a4039af44dc6ef",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\QI_DATA\\MSK_QUALIT_B8A.jp2": "4972bc864d3c98c39f93f1e7adff024bc34e3184e1a26b40addbd9a19c2bbde4",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\QI_DATA\\MSK_DETFOO_B8A.jp2": "b8b6dd68e70ba5984fbe9fc0653f9db8bfa01fe09579d1139e8d03d362695937"
+  },
+  "new_band_offsets": {
+    "B05": -1000.0,
+    "B06": -1000.0,
+    "B07": -1000.0,
+    "B8A": -1000.0
+  },
+  "quantification": 10000.0,
+  "quality_policy": "All 8 native QUALIT layers zero, detector 1..12, valid DN; full bilinear valid support",
+  "sampling": "Existing r12.5m/256-segment circle-pixel area weights; no new indices, no forest clipping inside circles",
+  "native_resolution_m": 20,
+  "aligned_resolution_m": 10,
+  "all184_retained": true,
+  "tuning": false,
+  "effective_max_features": {
+    "bands6": 4,
+    "bands10": 6
+  },
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "sklearn": "1.9.1",
+    "rasterio": "1.5.2"
+  },
+  "script_sha256": "0847234fa8f7b78ae82dfc2c8345b29e5f2aad4d510fc704c811e4d8a57cbcf9"
+}

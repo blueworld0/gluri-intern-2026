@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "method": "Raw SHP rings, even/odd ray casting; no Shapely geometry used",
+  "source_records_checked": 64663,
+  "matches": 441,
+  "all_point_polygon_matches_identical": true,
+  "synthetic_hole_and_multipart_check": true,
+  "code_status_mapping_verified": true
+}

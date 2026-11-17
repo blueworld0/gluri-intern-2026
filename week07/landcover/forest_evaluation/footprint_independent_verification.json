@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "all184_exported_reflectance_means_recomputed": true,
+  "all184_indices_recomputed": true,
+  "independent_geometry_method": "True circle/rectangle numerical integration; no Shapely",
+  "sampled_circle_n": 21,
+  "sampled_pixel_n": 232,
+  "max_true_circle_vs_polygon_pixel_area_difference_m2": 0.00897602137007425,
+  "area_tolerance_m2": 0.051,
+  "analytic_whole_circle_quadrant_and_disjoint_checks": true
+}

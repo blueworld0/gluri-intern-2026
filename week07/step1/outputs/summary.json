@@ -1,0 +1,13 @@
+{
+  "n": 441,
+  "rmse": 44.38197993783199,
+  "mae": 29.080558041484213,
+  "top20_high_agbd_n": 20,
+  "top20_underprediction_n": 20,
+  "top20_squared_error_share": 0.44625501478967644,
+  "top20_grid_n": 5,
+  "all_grid_n": 10,
+  "high_agbd_n": 56,
+  "high_agbd_underprediction_n": 56,
+  "high_agbd_grid_n": 6
+}

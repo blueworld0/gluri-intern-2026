@@ -1,0 +1,82 @@
+{
+  "radius_m": 12.5,
+  "crs": "EPSG:32652",
+  "circle_segments": 256,
+  "weighting": "pixel-circle intersection area; average reflectance first, then calculate indices",
+  "valid_policy": "common six-band validity + SCL 4/5/6 + CLASSI cloud/cirrus/snow=0; require >=1-1e-6 full-circle coverage",
+  "forest_mask_inside_circle": false,
+  "all184_retained": true,
+  "feature_sets": {
+    "indices3": [
+      "ndvi",
+      "evi",
+      "ndmi"
+    ],
+    "bands6": [
+      "reflectance_B02",
+      "reflectance_B03",
+      "reflectance_B04",
+      "reflectance_B08",
+      "reflectance_B11",
+      "reflectance_B12"
+    ],
+    "indices3_bands6": [
+      "ndvi",
+      "evi",
+      "ndmi",
+      "reflectance_B02",
+      "reflectance_B03",
+      "reflectance_B04",
+      "reflectance_B08",
+      "reflectance_B11",
+      "reflectance_B12"
+    ]
+  },
+  "rf_params": {
+    "bootstrap": true,
+    "ccp_alpha": 0.0,
+    "criterion": "squared_error",
+    "max_depth": 6,
+    "max_features": 0.67,
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 3,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 100,
+    "n_jobs": 1,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "previous_split_roles_unchanged": true,
+  "new_hyperparameter_search": false,
+  "input_sha256": {
+    "week07\\landcover\\forest_evaluation\\forest184_input.csv": "163ced6441da20b615ece69c8e34fc4c27d34f26fb8895a1dfe3e441dfb1a8ca",
+    "week07\\landcover\\forest_evaluation\\forest184_split_assignments.csv": "32c8b7fced3a2d1e415298d18bc2909f642f3ec0daaa6df923443c0efa56dc10",
+    "week07\\landcover\\forest_evaluation\\experiment_config.json": "2f00ac6ec5c68041dbfe21e1b0dd584d94c1a8b067e3559ec4f84df22a8b8f3f",
+    "week07\\landcover\\forest_evaluation\\predictions.csv": "072630f5116cf0a886d367ceee11220b851e89f4cafc84df5a18a75de27a6e5c",
+    "week07\\landcover\\forest_evaluation\\validation.json": "5f985e5ba93edb9e047cbaf4ead360a032d530d0eb9ac19177b295c4895041d3",
+    "week07\\landcover\\evaluate_forest.py": "dc624f8ec261bfb32de61874b9a3654836bd25196b2622fa57d3cb0612e7a736",
+    "week06\\step5\\outputs\\rasters\\reflectance_B02.tif": "5d8b77a4b3ef9919fc4f9c60e9db608b23e6fdef7de6956db3e2f07858188307",
+    "week06\\step5\\outputs\\rasters\\reflectance_B03.tif": "a70993afc2d715d5be89febc1f1d71c14ce455296f8a0d11960781d3f99832b7",
+    "week06\\step5\\outputs\\rasters\\reflectance_B04.tif": "cca3e428c388baf5e090179cd5231c52bfde0fbd32b42c439428be1bdcd5f9ce",
+    "week06\\step5\\outputs\\rasters\\reflectance_B08.tif": "7224abc4b5ea6f1d63ceef391b0ebd22fe904fa4fd8ce6d25800fb6bdd59295d",
+    "week06\\step5\\outputs\\rasters\\reflectance_B11.tif": "081149f2d664ad9fe98089515d27cf6cb86472904166aa766fb463cd00deb49f",
+    "week06\\step5\\outputs\\rasters\\reflectance_B12.tif": "9ec9a6de41ff96587d059d0c72bad7e2f1a48ab3258101a66ffab5c771c5ba96",
+    "week06\\step5\\outputs\\rasters\\scl.tif": "1aa79c019e380b8026e71059765594bc5fb9587ade1331722c0ef5878744e2c5",
+    "week06\\step5\\source\\S2C_MSIL2A_20250428T020711_N0511_R103_T52SDD_20250428T054014.SAFE\\GRANULE\\L2A_T52SDD_A003362_20250428T021046\\QI_DATA\\MSK_CLASSI_B00.jp2": "ce549fe23632088a08dcace19e8c5659c90d381dec4f3208ebb78d89b70942e6"
+  },
+  "script_sha256": "7387fb9df7fe31b3eba91f9f24dfb845931797568766801b21b04c4a1b99ca5c",
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "sklearn": "1.9.1",
+    "rasterio": "1.5.2",
+    "shapely": "2.2.0"
+  }
+}

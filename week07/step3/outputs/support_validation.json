@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "model_fits": 0,
+  "new_downloads": false,
+  "unique_test_points_per_feature_set": 441,
+  "neighbor_rows": 6615,
+  "train_only_neighbors": true,
+  "buffer_verified": true,
+  "train_only_scaling": true,
+  "neighbor_means_recomputed": true,
+  "input_sha256_unchanged": {
+    "week07\\step3\\outputs\\evaluation_input.csv": "82977931aa518ce1eb12f8e44eab16c6f993ca3def08ce195dbab68c56e5be87",
+    "week07\\step3\\outputs\\predictions.csv": "e814e114fb256bf90bcbb39266e4a7b9a4c1ba4d521c3ed42d905b0dbc05dbf1",
+    "week07\\step3\\outputs\\experiment_config.json": "75962c1f01822ef2700a916ff87aa321fde61bd165eb217e6de96da01ca1db18",
+    "week07\\step3\\outputs\\validation.json": "fa3d8e8a7b7cb8d5a84ebc8c9df600303561a75af716c69e236793ffc1077125",
+    "week06\\step7\\outputs\\split_assignments.csv": "82f17d3fc3c935da09478fa4d55dae9c861ed6b167995bc87ad4c57cd28e367f",
+    "week07\\step1\\outputs\\top20_absolute_errors.csv": "db4bbd6c58ca260182aa946449053d59b3968d112ace0dbd8439f06f3e11c1b7"
+  }
+}

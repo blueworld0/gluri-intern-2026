@@ -1,0 +1,5 @@
+band,original_resolution_m,offset,quantification,native_crop_rows,native_crop_cols,native_invalid_n,footprint_invalid_aligned_pixel_n,minimum_footprint_valid_fraction,minimum_footprint_reflectance,maximum_footprint_reflectance
+B05,20,-1000.0,10000.0,1297,1171,5,0,1.0,0.08356799857303517,0.19860736058716555
+B06,20,-1000.0,10000.0,1297,1171,5,0,1.0,0.2339206648690454,0.4905227882013486
+B07,20,-1000.0,10000.0,1297,1171,8,0,1.0,0.2606212681477971,0.5525988728039203
+B8A,20,-1000.0,10000.0,1297,1171,29,0,1.0,0.28494706331569275,0.570326190352186

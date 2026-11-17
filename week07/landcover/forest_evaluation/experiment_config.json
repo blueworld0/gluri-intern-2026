@@ -1,0 +1,76 @@
+{
+  "feature_sets": {
+    "indices3": [
+      "ndvi",
+      "evi",
+      "ndmi"
+    ],
+    "bands6": [
+      "reflectance_B02",
+      "reflectance_B03",
+      "reflectance_B04",
+      "reflectance_B08",
+      "reflectance_B11",
+      "reflectance_B12"
+    ],
+    "indices3_bands6": [
+      "ndvi",
+      "evi",
+      "ndmi",
+      "reflectance_B02",
+      "reflectance_B03",
+      "reflectance_B04",
+      "reflectance_B08",
+      "reflectance_B11",
+      "reflectance_B12"
+    ]
+  },
+  "rf_params": {
+    "bootstrap": true,
+    "ccp_alpha": 0.0,
+    "criterion": "squared_error",
+    "max_depth": 6,
+    "max_features": 0.67,
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 3,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 100,
+    "n_jobs": 1,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "dummy_params": {
+    "constant": null,
+    "quantile": null,
+    "strategy": "mean"
+  },
+  "primary_population": "184 center-point EGIS forest samples",
+  "circle_mixed_policy": "22 retained; subgroup diagnostics only",
+  "fold_policy": "Original 441-point roles filtered to forest IDs; original buffer-excluded roles retained, no restoration",
+  "excluded_evi_review_point_n": 1,
+  "no_target_based_selection": true,
+  "no_tuning": true,
+  "no_scaling_or_imputation": true,
+  "input_sha256": {
+    "week07\\landcover\\outputs\\landcover_points.csv": "2eaaa64e6e2d108d0e68fba6d1f24b9a016e14739ed0af24d65c83331cbd0fff",
+    "week07\\landcover\\outputs\\validation.json": "2bb6b1770903e158e146585e8adf5fb832b493190b14adbd646fc18fc633924f",
+    "week07\\landcover\\outputs\\independent_verification.json": "550ea024d5a7c232a39e81fdd71fc3d131c144bd03e08f85119ffe87e895d397",
+    "week06\\step7\\outputs\\split_assignments.csv": "82f17d3fc3c935da09478fa4d55dae9c861ed6b167995bc87ad4c57cd28e367f",
+    "week07\\step3\\outputs\\experiment_config.json": "75962c1f01822ef2700a916ff87aa321fde61bd165eb217e6de96da01ca1db18",
+    "week07\\step3\\outputs\\predictions.csv": "e814e114fb256bf90bcbb39266e4a7b9a4c1ba4d521c3ed42d905b0dbc05dbf1",
+    "week06\\step8\\outputs\\predictions.csv": "cba693f136f244663ca772c70537d2e14cf52549316119da400e33589640d3fd"
+  },
+  "script_sha256": "5fe3b53fa031422cf07d685ab77de9fbbb97e3ef76b489824ec24149e13ff1ff",
+  "versions": {
+    "python": "3.12.2",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "sklearn": "1.9.1"
+  }
+}

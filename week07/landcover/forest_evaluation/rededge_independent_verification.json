@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "method": "Explicit four-native-pixel bilinear arithmetic, no GDAL warp or reused processing helper",
+  "band_checks": [
+    {
+      "band": "B05",
+      "aligned_pixel_n": 2036,
+      "native_contributors_all_valid": true,
+      "maximum_manual_bilinear_difference": 7.450580596923828e-09,
+      "maximum_manual_circle_mean_difference": 4.932838942872664e-09
+    },
+    {
+      "band": "B06",
+      "aligned_pixel_n": 2036,
+      "native_contributors_all_valid": true,
+      "maximum_manual_bilinear_difference": 1.4901161193847656e-08,
+      "maximum_manual_circle_mean_difference": 8.854172006689254e-09
+    },
+    {
+      "band": "B07",
+      "aligned_pixel_n": 2036,
+      "native_contributors_all_valid": true,
+      "maximum_manual_bilinear_difference": 2.9802322387695312e-08,
+      "maximum_manual_circle_mean_difference": 1.5480344894847065e-08
+    },
+    {
+      "band": "B8A",
+      "aligned_pixel_n": 2036,
+      "native_contributors_all_valid": true,
+      "maximum_manual_bilinear_difference": 2.9802322387695312e-08,
+      "maximum_manual_circle_mean_difference": 9.480009222073704e-09
+    }
+  ],
+  "metric_and_original_test_ids_verified": true,
+  "reflectance_tolerance": 1e-07
+}

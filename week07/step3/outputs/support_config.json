@@ -1,0 +1,43 @@
+{
+  "k": 5,
+  "high_agbd_threshold": 100,
+  "distance": "Euclidean after train-only median/IQR scaling; zero IQR -> train SD -> 1",
+  "feature_sets": {
+    "indices3": [
+      "ndvi",
+      "evi",
+      "ndmi"
+    ],
+    "bands6": [
+      "reflectance_B02",
+      "reflectance_B03",
+      "reflectance_B04",
+      "reflectance_B08",
+      "reflectance_B11",
+      "reflectance_B12"
+    ],
+    "indices3_bands6": [
+      "ndvi",
+      "evi",
+      "ndmi",
+      "reflectance_B02",
+      "reflectance_B03",
+      "reflectance_B04",
+      "reflectance_B08",
+      "reflectance_B11",
+      "reflectance_B12"
+    ]
+  },
+  "input_sha256": {
+    "week07\\step3\\outputs\\evaluation_input.csv": "82977931aa518ce1eb12f8e44eab16c6f993ca3def08ce195dbab68c56e5be87",
+    "week07\\step3\\outputs\\predictions.csv": "e814e114fb256bf90bcbb39266e4a7b9a4c1ba4d521c3ed42d905b0dbc05dbf1",
+    "week07\\step3\\outputs\\experiment_config.json": "75962c1f01822ef2700a916ff87aa321fde61bd165eb217e6de96da01ca1db18",
+    "week07\\step3\\outputs\\validation.json": "fa3d8e8a7b7cb8d5a84ebc8c9df600303561a75af716c69e236793ffc1077125",
+    "week06\\step7\\outputs\\split_assignments.csv": "82f17d3fc3c935da09478fa4d55dae9c861ed6b167995bc87ad4c57cd28e367f",
+    "week07\\step1\\outputs\\top20_absolute_errors.csv": "db4bbd6c58ca260182aa946449053d59b3968d112ace0dbd8439f06f3e11c1b7"
+  },
+  "script_sha256": "73fb7377ed6657da9b352c1f3f38a7a08c647c70ce4c14b14e766bde020f7ac7",
+  "model_fit": false,
+  "feature_selection": false,
+  "evaluation_changed": false
+}

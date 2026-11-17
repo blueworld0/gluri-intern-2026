@@ -1,0 +1,910 @@
+{
+  "status": "passed",
+  "dataset": "User-supplied EGIS 2025 medium landcover (lv2)",
+  "year_basis": "2025 selected in user download UI; ZIP suffix is not assumed to be imagery acquisition date",
+  "source_file_n": 24,
+  "tiles": [
+    {
+      "tile": "358161",
+      "archive": "week07\\SG04_358161_20251113.zip",
+      "archive_bytes": 2466466,
+      "archive_sha256": "7590e4b393c1572c7db2102b1e4dcc2a3e7d50eda0824da2fe5e0b86eb072da1",
+      "files": [
+        {
+          "path": "week07\\landcover\\source\\358161\\lv2_358161.dbf",
+          "bytes": 2260516,
+          "zip_crc32": "6e03e2af",
+          "sha256": "c5be060e4e1c6cab4053834e28473ea55d8685677210b7d8e2253c6e53768c83"
+        },
+        {
+          "path": "week07\\landcover\\source\\358161\\lv2_358161.prj",
+          "bytes": 425,
+          "zip_crc32": "d5507275",
+          "sha256": "4a79b0e9c0b7baaa89bff7864f2c7efdc716d299901ace52998bb5befee52457"
+        },
+        {
+          "path": "week07\\landcover\\source\\358161\\lv2_358161.shp",
+          "bytes": 16360432,
+          "zip_crc32": "ec133fd5",
+          "sha256": "5b32698a4d04ef5a03f3a7314c3e3f6fec00af40ef67bdf93d8d39e4336a4ebf"
+        },
+        {
+          "path": "week07\\landcover\\source\\358161\\lv2_358161.shx",
+          "bytes": 126548,
+          "zip_crc32": "f8692066",
+          "sha256": "dcd4f54a0bfa441f9549960c95cb5c25058f0319f66f23bbf8ffdabc1cee0582"
+        }
+      ],
+      "shape": {
+        "record_n": 15806,
+        "null_geometry_n": 0,
+        "part_n": 19961,
+        "vertex_n": 966161,
+        "shape_type": 5,
+        "bounds": [
+          359274.3076197291,
+          282365.38315939344,
+          370914.3076197291,
+          296440.38315939344
+        ],
+        "checks": "header lengths, every SHX offset, record count, finite XY and ring closure; not topology validation"
+      },
+      "dbf": {
+        "record_n": 15806,
+        "deleted_n": 0,
+        "fields": [
+          {
+            "name": "L2_CODE",
+            "type": "C",
+            "length": 3,
+            "decimals": 0,
+            "offset": 1
+          },
+          {
+            "name": "L2_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 4
+          },
+          {
+            "name": "IMG_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 29
+          },
+          {
+            "name": "IMG_DATE",
+            "type": "D",
+            "length": 8,
+            "decimals": 0,
+            "offset": 54
+          },
+          {
+            "name": "ETC_INFO",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 62
+          },
+          {
+            "name": "UD_INFO",
+            "type": "C",
+            "length": 50,
+            "decimals": 0,
+            "offset": 87
+          },
+          {
+            "name": "INX_NUM",
+            "type": "C",
+            "length": 6,
+            "decimals": 0,
+            "offset": 137
+          }
+        ],
+        "distinct_value_sample": {
+          "L2_CODE": [
+            "110",
+            "120",
+            "130",
+            "140",
+            "150",
+            "160",
+            "210",
+            "220",
+            "230",
+            "240",
+            "250",
+            "310",
+            "320",
+            "330",
+            "410",
+            "420",
+            "510",
+            "610",
+            "620",
+            "710"
+          ],
+          "L2_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_DATE": [
+            "20241231"
+          ],
+          "ETC_INFO": [
+            ""
+          ],
+          "UD_INFO": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "INX_NUM": [
+            "358161"
+          ]
+        },
+        "language_driver_id": 78,
+        "text_encoding": "not independently confirmed; original DBF preserved"
+      },
+      "crs_wkt": "PROJCS[\"KGD2002 / Central Belt 2010\",GEOGCS[\"KGD2002\",DATUM[\"Korean_Geodetic_Datum_2002\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6737\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",38],PARAMETER[\"central_meridian\",127],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",200000],PARAMETER[\"false_northing\",600000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "epsg": 5186,
+      "points_within_file_bbox_n": 4
+    },
+    {
+      "tile": "358162",
+      "archive": "week07\\SG04_358162_20251113.zip",
+      "archive_bytes": 2291556,
+      "archive_sha256": "321a691131d1d60fc7cce5f61e91c8dc85ccbed92784c75973fa24ab473e5fcf",
+      "files": [
+        {
+          "path": "week07\\landcover\\source\\358162\\lv2_358162.dbf",
+          "bytes": 2609579,
+          "zip_crc32": "e5202c50",
+          "sha256": "716dc3d322426d01ddf4823cf63d7d57542587eb49bf5d1095829e4281a9a2df"
+        },
+        {
+          "path": "week07\\landcover\\source\\358162\\lv2_358162.prj",
+          "bytes": 425,
+          "zip_crc32": "d5507275",
+          "sha256": "4a79b0e9c0b7baaa89bff7864f2c7efdc716d299901ace52998bb5befee52457"
+        },
+        {
+          "path": "week07\\landcover\\source\\358162\\lv2_358162.shp",
+          "bytes": 14643036,
+          "zip_crc32": "193b1d63",
+          "sha256": "6877132f8e800b81a7a96c67ac224cf7d555f94ea4b97fd6c2b891fbe9aa45e3"
+        },
+        {
+          "path": "week07\\landcover\\source\\358162\\lv2_358162.shx",
+          "bytes": 146076,
+          "zip_crc32": "3de5723a",
+          "sha256": "3e6dc83c2a01349cfd60172ddfc2df0cd9183da3b3d1478fb83fb6065d119b9a"
+        }
+      ],
+      "shape": {
+        "record_n": 18247,
+        "null_geometry_n": 0,
+        "part_n": 21863,
+        "vertex_n": 850415,
+        "shape_type": 5,
+        "bounds": [
+          370654.3076197291,
+          282570.3831593953,
+          382309.3076197291,
+          296665.3831593953
+        ],
+        "checks": "header lengths, every SHX offset, record count, finite XY and ring closure; not topology validation"
+      },
+      "dbf": {
+        "record_n": 18247,
+        "deleted_n": 0,
+        "fields": [
+          {
+            "name": "L2_CODE",
+            "type": "C",
+            "length": 3,
+            "decimals": 0,
+            "offset": 1
+          },
+          {
+            "name": "L2_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 4
+          },
+          {
+            "name": "IMG_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 29
+          },
+          {
+            "name": "IMG_DATE",
+            "type": "D",
+            "length": 8,
+            "decimals": 0,
+            "offset": 54
+          },
+          {
+            "name": "ETC_INFO",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 62
+          },
+          {
+            "name": "UD_INFO",
+            "type": "C",
+            "length": 50,
+            "decimals": 0,
+            "offset": 87
+          },
+          {
+            "name": "INX_NUM",
+            "type": "C",
+            "length": 6,
+            "decimals": 0,
+            "offset": 137
+          }
+        ],
+        "distinct_value_sample": {
+          "L2_CODE": [
+            "110",
+            "120",
+            "130",
+            "140",
+            "150",
+            "160",
+            "210",
+            "220",
+            "230",
+            "240",
+            "250",
+            "310",
+            "320",
+            "330",
+            "420",
+            "510",
+            "610",
+            "620",
+            "710"
+          ],
+          "L2_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_DATE": [
+            "20241231"
+          ],
+          "ETC_INFO": [
+            ""
+          ],
+          "UD_INFO": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "INX_NUM": [
+            "358162"
+          ]
+        },
+        "language_driver_id": 78,
+        "text_encoding": "not independently confirmed; original DBF preserved"
+      },
+      "crs_wkt": "PROJCS[\"KGD2002 / Central Belt 2010\",GEOGCS[\"KGD2002\",DATUM[\"Korean_Geodetic_Datum_2002\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6737\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",38],PARAMETER[\"central_meridian\",127],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",200000],PARAMETER[\"false_northing\",600000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "epsg": 5186,
+      "points_within_file_bbox_n": 258
+    },
+    {
+      "tile": "358163",
+      "archive": "week07\\SG04_358163_20251113.zip",
+      "archive_bytes": 1035499,
+      "archive_sha256": "fa9a773e20f73ca0ce35ff0cffd82c19454111cf0e0ee02efe585e4b27ec7ff8",
+      "files": [
+        {
+          "path": "week07\\landcover\\source\\358163\\lv2_358163.dbf",
+          "bytes": 884713,
+          "zip_crc32": "488fc6b6",
+          "sha256": "7ea20b471ffffec7d49ce33f293b127d02f4fd22eed77b644f36818020b8c633"
+        },
+        {
+          "path": "week07\\landcover\\source\\358163\\lv2_358163.prj",
+          "bytes": 425,
+          "zip_crc32": "d5507275",
+          "sha256": "4a79b0e9c0b7baaa89bff7864f2c7efdc716d299901ace52998bb5befee52457"
+        },
+        {
+          "path": "week07\\landcover\\source\\358163\\lv2_358163.shp",
+          "bytes": 6838892,
+          "zip_crc32": "3dc0a62e",
+          "sha256": "351d0b34cd0ac959360e5831722ee5ed3ae238326bd8e4b9405cba3a641e6e27"
+        },
+        {
+          "path": "week07\\landcover\\source\\358163\\lv2_358163.shx",
+          "bytes": 49580,
+          "zip_crc32": "745f81a2",
+          "sha256": "788ccf757a64a0941e4bc112f9e4651c5c2e2ceb38ac2bf1866e848d1dfeea38"
+        }
+      ],
+      "shape": {
+        "record_n": 6185,
+        "null_geometry_n": 0,
+        "part_n": 8137,
+        "vertex_n": 405289,
+        "shape_type": 5,
+        "bounds": [
+          359519.30761973,
+          268495.38315939344,
+          371174.30761973,
+          282570.38315939344
+        ],
+        "checks": "header lengths, every SHX offset, record count, finite XY and ring closure; not topology validation"
+      },
+      "dbf": {
+        "record_n": 6185,
+        "deleted_n": 0,
+        "fields": [
+          {
+            "name": "L2_CODE",
+            "type": "C",
+            "length": 3,
+            "decimals": 0,
+            "offset": 1
+          },
+          {
+            "name": "L2_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 4
+          },
+          {
+            "name": "IMG_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 29
+          },
+          {
+            "name": "IMG_DATE",
+            "type": "D",
+            "length": 8,
+            "decimals": 0,
+            "offset": 54
+          },
+          {
+            "name": "ETC_INFO",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 62
+          },
+          {
+            "name": "UD_INFO",
+            "type": "C",
+            "length": 50,
+            "decimals": 0,
+            "offset": 87
+          },
+          {
+            "name": "INX_NUM",
+            "type": "C",
+            "length": 6,
+            "decimals": 0,
+            "offset": 137
+          }
+        ],
+        "distinct_value_sample": {
+          "L2_CODE": [
+            "110",
+            "120",
+            "130",
+            "140",
+            "150",
+            "160",
+            "210",
+            "220",
+            "230",
+            "240",
+            "250",
+            "310",
+            "320",
+            "330",
+            "410",
+            "420",
+            "510",
+            "520",
+            "610",
+            "620",
+            "710",
+            "720"
+          ],
+          "L2_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_DATE": [
+            "20241231"
+          ],
+          "ETC_INFO": [
+            ""
+          ],
+          "UD_INFO": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "INX_NUM": [
+            "358163"
+          ]
+        },
+        "language_driver_id": 78,
+        "text_encoding": "not independently confirmed; original DBF preserved"
+      },
+      "crs_wkt": "PROJCS[\"KGD2002 / Central Belt 2010\",GEOGCS[\"KGD2002\",DATUM[\"Korean_Geodetic_Datum_2002\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6737\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",38],PARAMETER[\"central_meridian\",127],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",200000],PARAMETER[\"false_northing\",600000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "epsg": 5186,
+      "points_within_file_bbox_n": 158
+    },
+    {
+      "tile": "358164",
+      "archive": "week07\\SG04_358164_20251113.zip",
+      "archive_bytes": 922078,
+      "archive_sha256": "3c7df61a5f50767db08035cc3b635cd06b969fc27af52ea385e7e9e10706915b",
+      "files": [
+        {
+          "path": "week07\\landcover\\source\\358164\\lv2_358164.dbf",
+          "bytes": 772172,
+          "zip_crc32": "1c77bab5",
+          "sha256": "4a376d6fd6f0995b5fa1b2b4a738a05692a67b605c8ee18c03510b7328157a03"
+        },
+        {
+          "path": "week07\\landcover\\source\\358164\\lv2_358164.prj",
+          "bytes": 425,
+          "zip_crc32": "d5507275",
+          "sha256": "4a79b0e9c0b7baaa89bff7864f2c7efdc716d299901ace52998bb5befee52457"
+        },
+        {
+          "path": "week07\\landcover\\source\\358164\\lv2_358164.shp",
+          "bytes": 6028128,
+          "zip_crc32": "95b95fd2",
+          "sha256": "29bafbe17daa534a7274a56f5bfe452151a3c2b4ae9e9e1913ea8955ff1484e9"
+        },
+        {
+          "path": "week07\\landcover\\source\\358164\\lv2_358164.shx",
+          "bytes": 43284,
+          "zip_crc32": "4c63ecc5",
+          "sha256": "ee6eeb886382cdbd97a4ecf934b70a40d3f830cbacaba0d7f4cfcb736abf5c75"
+        }
+      ],
+      "shape": {
+        "record_n": 5398,
+        "null_geometry_n": 0,
+        "part_n": 6869,
+        "vertex_n": 357491,
+        "shape_type": 5,
+        "bounds": [
+          370914.30761973,
+          268700.38315939344,
+          382589.30761973,
+          282795.38315939344
+        ],
+        "checks": "header lengths, every SHX offset, record count, finite XY and ring closure; not topology validation"
+      },
+      "dbf": {
+        "record_n": 5398,
+        "deleted_n": 0,
+        "fields": [
+          {
+            "name": "L2_CODE",
+            "type": "C",
+            "length": 3,
+            "decimals": 0,
+            "offset": 1
+          },
+          {
+            "name": "L2_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 4
+          },
+          {
+            "name": "IMG_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 29
+          },
+          {
+            "name": "IMG_DATE",
+            "type": "D",
+            "length": 8,
+            "decimals": 0,
+            "offset": 54
+          },
+          {
+            "name": "ETC_INFO",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 62
+          },
+          {
+            "name": "UD_INFO",
+            "type": "C",
+            "length": 50,
+            "decimals": 0,
+            "offset": 87
+          },
+          {
+            "name": "INX_NUM",
+            "type": "C",
+            "length": 6,
+            "decimals": 0,
+            "offset": 137
+          }
+        ],
+        "distinct_value_sample": {
+          "L2_CODE": [
+            "110",
+            "120",
+            "130",
+            "140",
+            "150",
+            "160",
+            "210",
+            "220",
+            "230",
+            "240",
+            "250",
+            "310",
+            "320",
+            "330",
+            "410",
+            "420",
+            "510",
+            "520",
+            "610",
+            "620",
+            "710",
+            "720"
+          ],
+          "L2_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_DATE": [
+            "20241231"
+          ],
+          "ETC_INFO": [
+            ""
+          ],
+          "UD_INFO": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "INX_NUM": [
+            "358164"
+          ]
+        },
+        "language_driver_id": 78,
+        "text_encoding": "not independently confirmed; original DBF preserved"
+      },
+      "crs_wkt": "PROJCS[\"KGD2002 / Central Belt 2010\",GEOGCS[\"KGD2002\",DATUM[\"Korean_Geodetic_Datum_2002\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6737\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",38],PARAMETER[\"central_meridian\",127],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",200000],PARAMETER[\"false_northing\",600000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "epsg": 5186,
+      "points_within_file_bbox_n": 40
+    },
+    {
+      "tile": "359131",
+      "archive": "week07\\SG04_359131_20251113.zip",
+      "archive_bytes": 2486508,
+      "archive_sha256": "664de1bf5062da96e9fa7439383ddbf710a9fe6d0c754f3990e0c95ceff51239",
+      "files": [
+        {
+          "path": "week07\\landcover\\source\\359131\\lv2_359131.dbf",
+          "bytes": 2033432,
+          "zip_crc32": "b432c68c",
+          "sha256": "a0d12995e7298a570f23122e80024465406882880a920d0c475b9f8f84266026"
+        },
+        {
+          "path": "week07\\landcover\\source\\359131\\lv2_359131.prj",
+          "bytes": 425,
+          "zip_crc32": "d5507275",
+          "sha256": "4a79b0e9c0b7baaa89bff7864f2c7efdc716d299901ace52998bb5befee52457"
+        },
+        {
+          "path": "week07\\landcover\\source\\359131\\lv2_359131.shp",
+          "bytes": 16631800,
+          "zip_crc32": "0e8b0ddd",
+          "sha256": "34193e983f198b305eca34f8d52c7701b7d22752e547834c819e1d57c8b6eb15"
+        },
+        {
+          "path": "week07\\landcover\\source\\359131\\lv2_359131.shx",
+          "bytes": 113844,
+          "zip_crc32": "415b90b5",
+          "sha256": "5af9dd7b9be273d802371b7c271ddd934a995b24cb78fa0a52330f0c3c38e65c"
+        }
+      ],
+      "shape": {
+        "record_n": 14218,
+        "null_geometry_n": 0,
+        "part_n": 18871,
+        "vertex_n": 988555,
+        "shape_type": 5,
+        "bounds": [
+          382029.3076197291,
+          282795.3831593916,
+          393709.3076197291,
+          296900.3831593916
+        ],
+        "checks": "header lengths, every SHX offset, record count, finite XY and ring closure; not topology validation"
+      },
+      "dbf": {
+        "record_n": 14218,
+        "deleted_n": 0,
+        "fields": [
+          {
+            "name": "L2_CODE",
+            "type": "C",
+            "length": 3,
+            "decimals": 0,
+            "offset": 1
+          },
+          {
+            "name": "L2_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 4
+          },
+          {
+            "name": "IMG_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 29
+          },
+          {
+            "name": "IMG_DATE",
+            "type": "D",
+            "length": 8,
+            "decimals": 0,
+            "offset": 54
+          },
+          {
+            "name": "ETC_INFO",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 62
+          },
+          {
+            "name": "UD_INFO",
+            "type": "C",
+            "length": 50,
+            "decimals": 0,
+            "offset": 87
+          },
+          {
+            "name": "INX_NUM",
+            "type": "C",
+            "length": 6,
+            "decimals": 0,
+            "offset": 137
+          }
+        ],
+        "distinct_value_sample": {
+          "L2_CODE": [
+            "110",
+            "120",
+            "130",
+            "140",
+            "150",
+            "160",
+            "220",
+            "230",
+            "240",
+            "250",
+            "310",
+            "320",
+            "330",
+            "410",
+            "420",
+            "510",
+            "520",
+            "610",
+            "620",
+            "710",
+            "720"
+          ],
+          "L2_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_DATE": [
+            "20241231"
+          ],
+          "ETC_INFO": [
+            ""
+          ],
+          "UD_INFO": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "INX_NUM": [
+            "359131"
+          ]
+        },
+        "language_driver_id": 78,
+        "text_encoding": "not independently confirmed; original DBF preserved"
+      },
+      "crs_wkt": "PROJCS[\"KGD2002 / Central Belt 2010\",GEOGCS[\"KGD2002\",DATUM[\"Korean_Geodetic_Datum_2002\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6737\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",38],PARAMETER[\"central_meridian\",127],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",200000],PARAMETER[\"false_northing\",600000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "epsg": 5186,
+      "points_within_file_bbox_n": 8
+    },
+    {
+      "tile": "359133",
+      "archive": "week07\\SG04_359133_20251113.zip",
+      "archive_bytes": 860160,
+      "archive_sha256": "1b704afef0b505c96b5ba7b332e18c7854333db6574cd427489549446e7633ca",
+      "files": [
+        {
+          "path": "week07\\landcover\\source\\359133\\lv2_359133.dbf",
+          "bytes": 687945,
+          "zip_crc32": "4e8cb908",
+          "sha256": "85d7d90529abf5742ac122e4b31cae6a4ed561b192bb436ad3c7d24bf5d48181"
+        },
+        {
+          "path": "week07\\landcover\\source\\359133\\lv2_359133.prj",
+          "bytes": 425,
+          "zip_crc32": "d5507275",
+          "sha256": "4a79b0e9c0b7baaa89bff7864f2c7efdc716d299901ace52998bb5befee52457"
+        },
+        {
+          "path": "week07\\landcover\\source\\359133\\lv2_359133.shp",
+          "bytes": 5737400,
+          "zip_crc32": "c36e8b53",
+          "sha256": "3c81ed6e0bc9d7a5755c0046eb48d8865130c1819fa73a15857c597070341b16"
+        },
+        {
+          "path": "week07\\landcover\\source\\359133\\lv2_359133.shx",
+          "bytes": 38572,
+          "zip_crc32": "a55687f0",
+          "sha256": "14bd52bc1b12cb2bce25bba6c335a51dca9db679ff1ccc71f4d6d1d4e73708c1"
+        }
+      ],
+      "shape": {
+        "record_n": 4809,
+        "null_geometry_n": 0,
+        "part_n": 6232,
+        "vertex_n": 341394,
+        "shape_type": 5,
+        "bounds": [
+          382309.30761973,
+          268925.3831593916,
+          394004.30761973,
+          283030.3831593916
+        ],
+        "checks": "header lengths, every SHX offset, record count, finite XY and ring closure; not topology validation"
+      },
+      "dbf": {
+        "record_n": 4809,
+        "deleted_n": 0,
+        "fields": [
+          {
+            "name": "L2_CODE",
+            "type": "C",
+            "length": 3,
+            "decimals": 0,
+            "offset": 1
+          },
+          {
+            "name": "L2_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 4
+          },
+          {
+            "name": "IMG_NAME",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 29
+          },
+          {
+            "name": "IMG_DATE",
+            "type": "D",
+            "length": 8,
+            "decimals": 0,
+            "offset": 54
+          },
+          {
+            "name": "ETC_INFO",
+            "type": "C",
+            "length": 25,
+            "decimals": 0,
+            "offset": 62
+          },
+          {
+            "name": "UD_INFO",
+            "type": "C",
+            "length": 50,
+            "decimals": 0,
+            "offset": 87
+          },
+          {
+            "name": "INX_NUM",
+            "type": "C",
+            "length": 6,
+            "decimals": 0,
+            "offset": 137
+          }
+        ],
+        "distinct_value_sample": {
+          "L2_CODE": [
+            "110",
+            "120",
+            "130",
+            "140",
+            "150",
+            "160",
+            "220",
+            "240",
+            "310",
+            "320",
+            "330",
+            "410",
+            "420",
+            "510",
+            "610",
+            "620",
+            "710",
+            "720"
+          ],
+          "L2_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_NAME": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "IMG_DATE": [
+            "20241231"
+          ],
+          "ETC_INFO": [
+            ""
+          ],
+          "UD_INFO": [
+            "<non-ASCII text; original bytes preserved>"
+          ],
+          "INX_NUM": [
+            "359133"
+          ]
+        },
+        "language_driver_id": 78,
+        "text_encoding": "not independently confirmed; original DBF preserved"
+      },
+      "crs_wkt": "PROJCS[\"KGD2002 / Central Belt 2010\",GEOGCS[\"KGD2002\",DATUM[\"Korean_Geodetic_Datum_2002\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6737\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",38],PARAMETER[\"central_meridian\",127],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",200000],PARAMETER[\"false_northing\",600000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "epsg": 5186,
+      "points_within_file_bbox_n": 0
+    }
+  ],
+  "all441_within_combined_file_bboxes": true,
+  "actual_point_polygon_classification": "not yet performed",
+  "topological_geometry_validation": "not performed",
+  "archives_deleted": [
+    "week07\\SG04_358161_20251113.zip",
+    "week07\\SG04_358162_20251113.zip",
+    "week07\\SG04_358163_20251113.zip",
+    "week07\\SG04_358164_20251113.zip",
+    "week07\\SG04_359131_20251113.zip",
+    "week07\\SG04_359133_20251113.zip"
+  ],
+  "kept": "All original SHP/SHX/DBF/PRJ bytes; no member discarded"
+}

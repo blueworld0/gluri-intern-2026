@@ -1,0 +1,14 @@
+{
+  "n": 441,
+  "reviewed_n": 21,
+  "top20_center_native_quality_bad_n": 0,
+  "top20_evi_review_n": 0,
+  "top20_any_nonvegetation_r12p5_n": 0,
+  "top20_any_cloud_shadow_r50_n": 1,
+  "evi_review_error_ranks": [
+    328
+  ],
+  "forest_status": "not_assessed",
+  "fitting_performed": false,
+  "samples_removed": 0
+}
