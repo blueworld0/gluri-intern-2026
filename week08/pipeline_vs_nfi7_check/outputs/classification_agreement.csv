@@ -1,0 +1,13 @@
+﻿scenario,classification,n_total,n_comparable,n_match,match_rate
+main_2025_kosis2020,forest_type,140,112,75,0.6696428571428571
+main_2025_kosis2020,age_exact,140,112,77,0.6875
+main_2025_kosis2020,age_within1,140,112,105,0.9375
+map2013_kosis2020,forest_type,140,111,82,0.7387387387387387
+map2013_kosis2020,age_exact,140,111,30,0.2702702702702703
+map2013_kosis2020,age_within1,140,111,98,0.8828828828828829
+map2025_sfs2025,forest_type,140,112,75,0.6696428571428571
+map2025_sfs2025,age_exact,140,112,77,0.6875
+map2025_sfs2025,age_within1,140,112,105,0.9375
+main_no_edge,forest_type,112,85,64,0.7529411764705882
+main_no_edge,age_exact,112,85,59,0.6941176470588235
+main_no_edge,age_within1,112,85,78,0.9176470588235294

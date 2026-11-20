@@ -1,0 +1,4 @@
+﻿epsg,crs_name,n,n_coordinate_valid,n_covered,n_forest_polygon,forest_coverage_rate,n_type_comparable,n_type_match,forest_type_match_rate,type_match_over_all_rate,n_multiple_polygons
+5174,Korean 1985 / Modified Central Belt,140,116,113,113,0.8071428571428572,112,75,0.6696428571428571,0.5357142857142857,0
+2097,Korean 1985 / Central Belt,140,116,104,104,0.7428571428571429,104,56,0.5384615384615384,0.4,0
+5181,KGD2002 / Central Belt,140,116,94,94,0.6714285714285714,94,42,0.44680851063829785,0.3,0

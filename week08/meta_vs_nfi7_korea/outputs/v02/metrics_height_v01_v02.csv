@@ -1,0 +1,45 @@
+﻿version,pair,scope_kind,scope,n,bias,rmse,mae,r,mean_ratio,n_meta_zero
+v01_all_2097,measured_top_vs_p95,overall,all,1924,-4.326,7.258,5.741,0.21,0.677,269
+v01_all_2097,measured_top_vs_p95,disturbance,excluded,1387,-4.124,7.037,5.567,0.218,0.693,169
+v01_all_2097,measured_top_vs_p95,height_bin,0-10,229,-2.349,5.311,4.373,0.229,0.72,43
+v01_all_2097,measured_top_vs_p95,height_bin,10-15,1172,-3.541,6.541,5.243,0.112,0.721,138
+v01_all_2097,measured_top_vs_p95,height_bin,15-20,473,-6.426,8.563,6.978,0.105,0.614,45
+v01_all_2097,measured_top_vs_p95,height_bin,20+,50,-11.922,14.198,11.965,-0.333,0.465,6
+v01_all_2097,measured_top_vs_p95,forest_type,침엽수림,501,-3.007,6.857,4.753,0.101,0.781,64
+v01_all_2097,measured_top_vs_p95,forest_type,혼효림,568,-3.561,6.778,5.27,0.219,0.735,63
+v01_all_2097,measured_top_vs_p95,forest_type,활엽수림,855,-5.608,7.777,6.633,0.267,0.575,142
+v01_all_2097,measured_top_vs_p95,geography,Busan,271,-3.958,7.365,5.909,0.195,0.696,45
+v01_all_2097,measured_top_vs_p95,geography,Outside Busan,1653,-4.387,7.241,5.713,0.213,0.675,224
+v01_all_2097,lorey_vs_mean,overall,all,1984,-6.614,8.527,7.116,0.218,0.522,269
+v01_all_2097,lorey_vs_mean,disturbance,excluded,1405,-6.191,8.103,6.732,0.235,0.551,169
+v01_all_2097,lorey_vs_mean,height_bin,0-10,228,-4.917,6.399,5.57,0.301,0.481,43
+v01_all_2097,lorey_vs_mean,height_bin,10-15,1168,-5.848,7.787,6.483,0.059,0.561,138
+v01_all_2097,lorey_vs_mean,height_bin,15-20,469,-8.09,9.687,8.308,0.123,0.515,45
+v01_all_2097,lorey_vs_mean,height_bin,20+,49,-13.364,15.214,13.364,-0.305,0.383,6
+v01_all_2097,lorey_vs_mean,forest_type,침엽수림,516,-5.4,8.037,6.019,0.068,0.617,64
+v01_all_2097,lorey_vs_mean,forest_type,혼효림,565,-5.938,8.022,6.575,0.199,0.576,63
+v01_all_2097,lorey_vs_mean,forest_type,활엽수림,903,-7.73,9.086,8.082,0.319,0.432,142
+v01_all_2097,lorey_vs_mean,geography,Busan,276,-6.31,8.463,7.148,0.196,0.53,45
+v01_all_2097,lorey_vs_mean,geography,Outside Busan,1708,-6.663,8.537,7.111,0.222,0.521,224
+v02_precise_10m,measured_top_vs_p95,overall,all,1725,-3.41,6.288,4.979,0.218,0.747,72
+v02_precise_10m,measured_top_vs_p95,disturbance,excluded,1250,-3.239,6.07,4.83,0.221,0.76,35
+v02_precise_10m,measured_top_vs_p95,height_bin,0-10,193,-1.348,4.57,3.724,0.321,0.839,11
+v02_precise_10m,measured_top_vs_p95,height_bin,10-15,1053,-2.587,5.523,4.472,0.094,0.797,23
+v02_precise_10m,measured_top_vs_p95,height_bin,15-20,434,-5.553,7.485,6.156,0.101,0.667,7
+v02_precise_10m,measured_top_vs_p95,height_bin,20+,45,-10.847,13.114,10.894,-0.454,0.514,1
+v02_precise_10m,measured_top_vs_p95,forest_type,침엽수림,451,-1.931,5.592,3.86,0.133,0.86,19
+v02_precise_10m,measured_top_vs_p95,forest_type,혼효림,514,-2.558,5.584,4.431,0.278,0.81,10
+v02_precise_10m,measured_top_vs_p95,forest_type,활엽수림,760,-4.864,7.078,6.015,0.234,0.636,43
+v02_precise_10m,measured_top_vs_p95,geography,Busan,228,-2.152,5.3,4.471,0.352,0.833,1
+v02_precise_10m,measured_top_vs_p95,geography,Outside Busan,1497,-3.602,6.425,5.057,0.204,0.735,71
+v02_precise_10m,lorey_vs_mean,overall,all,1780,-5.901,7.779,6.457,0.227,0.576,72
+v02_precise_10m,lorey_vs_mean,disturbance,excluded,1266,-5.477,7.319,6.072,0.244,0.605,35
+v02_precise_10m,lorey_vs_mean,height_bin,0-10,193,-4.289,5.871,5.061,0.312,0.553,11
+v02_precise_10m,lorey_vs_mean,height_bin,10-15,1050,-5.066,6.943,5.766,0.058,0.62,23
+v02_precise_10m,lorey_vs_mean,height_bin,15-20,431,-7.376,8.856,7.613,0.129,0.559,7
+v02_precise_10m,lorey_vs_mean,height_bin,20+,44,-12.505,14.396,12.505,-0.412,0.425,1
+v02_precise_10m,lorey_vs_mean,forest_type,침엽수림,466,-4.555,7.075,5.24,0.084,0.678,19
+v02_precise_10m,lorey_vs_mean,forest_type,혼효림,512,-5.14,7.093,5.829,0.242,0.633,10
+v02_precise_10m,lorey_vs_mean,forest_type,활엽수림,802,-7.17,8.55,7.566,0.306,0.479,43
+v02_precise_10m,lorey_vs_mean,geography,Busan,232,-4.834,6.759,5.831,0.342,0.637,1
+v02_precise_10m,lorey_vs_mean,geography,Outside Busan,1548,-6.061,7.92,6.551,0.215,0.567,71

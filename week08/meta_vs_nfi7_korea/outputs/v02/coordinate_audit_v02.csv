@@ -1,0 +1,6 @@
+﻿category,n_plots,n_meta_p95_zero_v01,zero_share_v01,nearest_40_60m_share,n_spacing_pairs
+ambiguous,34,18,0.529,,0
+invalid,10,4,0.4,,0
+jeju_origin_unverified,68,67,0.985,,0
+precise_10m,1804,72,0.04,0.95,1765
+precision_100m,181,108,0.597,0.144,111

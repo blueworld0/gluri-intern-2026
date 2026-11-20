@@ -1,0 +1,97 @@
+﻿sample_scope,province,forest_type,n_plots,n_clusters,kind,n_clusters_available,n_clusters_selected
+Busan,부산광역시,침엽수림,81.0,39.0,selected_plot_distribution,,
+Busan,부산광역시,혼효림,103.0,55.0,selected_plot_distribution,,
+Busan,부산광역시,활엽수림,100.0,45.0,selected_plot_distribution,,
+Outside Busan,강원도,침엽수림,67.0,32.0,selected_plot_distribution,,
+Outside Busan,강원도,혼효림,91.0,56.0,selected_plot_distribution,,
+Outside Busan,강원도,활엽수림,198.0,74.0,selected_plot_distribution,,
+Outside Busan,경기도,침엽수림,16.0,8.0,selected_plot_distribution,,
+Outside Busan,경기도,혼효림,29.0,17.0,selected_plot_distribution,,
+Outside Busan,경기도,활엽수림,74.0,32.0,selected_plot_distribution,,
+Outside Busan,경상남도,침엽수림,75.0,33.0,selected_plot_distribution,,
+Outside Busan,경상남도,혼효림,51.0,27.0,selected_plot_distribution,,
+Outside Busan,경상남도,활엽수림,67.0,33.0,selected_plot_distribution,,
+Outside Busan,경상북도,침엽수림,121.0,58.0,selected_plot_distribution,,
+Outside Busan,경상북도,혼효림,114.0,72.0,selected_plot_distribution,,
+Outside Busan,경상북도,활엽수림,147.0,70.0,selected_plot_distribution,,
+Outside Busan,광주광역시,침엽수림,4.0,4.0,selected_plot_distribution,,
+Outside Busan,광주광역시,혼효림,4.0,3.0,selected_plot_distribution,,
+Outside Busan,광주광역시,활엽수림,2.0,1.0,selected_plot_distribution,,
+Outside Busan,대구광역시,침엽수림,15.0,6.0,selected_plot_distribution,,
+Outside Busan,대구광역시,혼효림,11.0,5.0,selected_plot_distribution,,
+Outside Busan,대구광역시,활엽수림,16.0,7.0,selected_plot_distribution,,
+Outside Busan,대전광역시,침엽수림,5.0,5.0,selected_plot_distribution,,
+Outside Busan,대전광역시,혼효림,7.0,6.0,selected_plot_distribution,,
+Outside Busan,대전광역시,활엽수림,13.0,7.0,selected_plot_distribution,,
+Outside Busan,서울특별시,혼효림,2.0,1.0,selected_plot_distribution,,
+Outside Busan,서울특별시,활엽수림,6.0,3.0,selected_plot_distribution,,
+Outside Busan,세종특별자치시,활엽수림,7.0,2.0,selected_plot_distribution,,
+Outside Busan,울산광역시,침엽수림,13.0,5.0,selected_plot_distribution,,
+Outside Busan,울산광역시,혼효림,9.0,6.0,selected_plot_distribution,,
+Outside Busan,울산광역시,활엽수림,17.0,6.0,selected_plot_distribution,,
+Outside Busan,인천광역시,침엽수림,2.0,1.0,selected_plot_distribution,,
+Outside Busan,인천광역시,혼효림,6.0,4.0,selected_plot_distribution,,
+Outside Busan,인천광역시,활엽수림,14.0,6.0,selected_plot_distribution,,
+Outside Busan,전라남도,침엽수림,53.0,24.0,selected_plot_distribution,,
+Outside Busan,전라남도,혼효림,45.0,28.0,selected_plot_distribution,,
+Outside Busan,전라남도,활엽수림,75.0,30.0,selected_plot_distribution,,
+Outside Busan,전라북도,침엽수림,31.0,16.0,selected_plot_distribution,,
+Outside Busan,전라북도,혼효림,28.0,17.0,selected_plot_distribution,,
+Outside Busan,전라북도,활엽수림,65.0,25.0,selected_plot_distribution,,
+Outside Busan,제주특별자치도,침엽수림,15.0,8.0,selected_plot_distribution,,
+Outside Busan,제주특별자치도,혼효림,10.0,6.0,selected_plot_distribution,,
+Outside Busan,제주특별자치도,활엽수림,43.0,16.0,selected_plot_distribution,,
+Outside Busan,충청남도,침엽수림,33.0,18.0,selected_plot_distribution,,
+Outside Busan,충청남도,혼효림,33.0,19.0,selected_plot_distribution,,
+Outside Busan,충청남도,활엽수림,51.0,24.0,selected_plot_distribution,,
+Outside Busan,충청북도,침엽수림,19.0,12.0,selected_plot_distribution,,
+Outside Busan,충청북도,혼효림,45.0,28.0,selected_plot_distribution,,
+Outside Busan,충청북도,활엽수림,64.0,28.0,selected_plot_distribution,,
+,강원도,침엽수림,,,outside_cluster_allocation,173.0,21.0
+,강원도,혼효림,,,outside_cluster_allocation,194.0,24.0
+,강원도,활엽수림,,,outside_cluster_allocation,396.0,49.0
+,경기도,침엽수림,,,outside_cluster_allocation,48.0,6.0
+,경기도,혼효림,,,outside_cluster_allocation,84.0,10.0
+,경기도,활엽수림,,,outside_cluster_allocation,159.0,20.0
+,경상남도,침엽수림,,,outside_cluster_allocation,169.0,21.0
+,경상남도,혼효림,,,outside_cluster_allocation,119.0,15.0
+,경상남도,활엽수림,,,outside_cluster_allocation,146.0,18.0
+,경상북도,침엽수림,,,outside_cluster_allocation,333.0,41.0
+,경상북도,혼효림,,,outside_cluster_allocation,237.0,29.0
+,경상북도,활엽수림,,,outside_cluster_allocation,272.0,34.0
+,광주광역시,침엽수림,,,outside_cluster_allocation,13.0,2.0
+,광주광역시,혼효림,,,outside_cluster_allocation,12.0,1.0
+,광주광역시,활엽수림,,,outside_cluster_allocation,9.0,1.0
+,대구광역시,침엽수림,,,outside_cluster_allocation,32.0,4.0
+,대구광역시,혼효림,,,outside_cluster_allocation,33.0,4.0
+,대구광역시,활엽수림,,,outside_cluster_allocation,24.0,3.0
+,대전광역시,침엽수림,,,outside_cluster_allocation,15.0,2.0
+,대전광역시,혼효림,,,outside_cluster_allocation,19.0,2.0
+,대전광역시,활엽수림,,,outside_cluster_allocation,29.0,4.0
+,서울특별시,침엽수림,,,outside_cluster_allocation,4.0,0.0
+,서울특별시,혼효림,,,outside_cluster_allocation,6.0,1.0
+,서울특별시,활엽수림,,,outside_cluster_allocation,18.0,2.0
+,세종특별자치시,침엽수림,,,outside_cluster_allocation,2.0,0.0
+,세종특별자치시,혼효림,,,outside_cluster_allocation,4.0,0.0
+,세종특별자치시,활엽수림,,,outside_cluster_allocation,14.0,2.0
+,울산광역시,침엽수림,,,outside_cluster_allocation,36.0,4.0
+,울산광역시,혼효림,,,outside_cluster_allocation,16.0,2.0
+,울산광역시,활엽수림,,,outside_cluster_allocation,34.0,4.0
+,인천광역시,침엽수림,,,outside_cluster_allocation,6.0,1.0
+,인천광역시,혼효림,,,outside_cluster_allocation,13.0,2.0
+,인천광역시,활엽수림,,,outside_cluster_allocation,28.0,3.0
+,전라남도,침엽수림,,,outside_cluster_allocation,141.0,17.0
+,전라남도,혼효림,,,outside_cluster_allocation,99.0,12.0
+,전라남도,활엽수림,,,outside_cluster_allocation,136.0,17.0
+,전라북도,침엽수림,,,outside_cluster_allocation,77.0,10.0
+,전라북도,혼효림,,,outside_cluster_allocation,72.0,9.0
+,전라북도,활엽수림,,,outside_cluster_allocation,119.0,15.0
+,제주특별자치도,침엽수림,,,outside_cluster_allocation,43.0,5.0
+,제주특별자치도,혼효림,,,outside_cluster_allocation,21.0,3.0
+,제주특별자치도,활엽수림,,,outside_cluster_allocation,97.0,12.0
+,충청남도,침엽수림,,,outside_cluster_allocation,87.0,11.0
+,충청남도,혼효림,,,outside_cluster_allocation,70.0,9.0
+,충청남도,활엽수림,,,outside_cluster_allocation,95.0,12.0
+,충청북도,침엽수림,,,outside_cluster_allocation,55.0,7.0
+,충청북도,혼효림,,,outside_cluster_allocation,94.0,12.0
+,충청북도,활엽수림,,,outside_cluster_allocation,136.0,17.0
