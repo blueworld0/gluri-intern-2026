@@ -1,0 +1,93 @@
+{
+  "orbit": "O07930",
+  "forest_n": 147,
+  "usable_n": 145,
+  "status": "evaluated",
+  "metrics": {
+    "all": {
+      "dummy_mean": {
+        "n": 145,
+        "rmse": 43.68853057713718,
+        "mae": 33.80343046443037,
+        "r2": -0.1887365008694517,
+        "mean_agbd_minus_prediction": 17.40814872171389,
+        "underprediction_n": 93
+      },
+      "bands10": {
+        "n": 145,
+        "rmse": 42.26731243415782,
+        "mae": 33.71268920031271,
+        "r2": -0.11265363389513428,
+        "mean_agbd_minus_prediction": 12.225850156649424,
+        "underprediction_n": 84
+      },
+      "bands10_with_dsm": {
+        "n": 145,
+        "rmse": 41.87599312511764,
+        "mae": 32.94231972888897,
+        "r2": -0.09214666041975561,
+        "mean_agbd_minus_prediction": 15.933574008528677,
+        "underprediction_n": 93
+      }
+    },
+    "agbd_ge100": {
+      "dummy_mean": {
+        "n": 53,
+        "rmse": 65.22582006933476,
+        "mae": 59.11264762712661,
+        "r2": -4.597149905469014,
+        "mean_agbd_minus_prediction": 59.11264762712661,
+        "underprediction_n": 53
+      },
+      "bands10": {
+        "n": 53,
+        "rmse": 60.194049700027115,
+        "mae": 54.642430959436766,
+        "r2": -3.7668882115266324,
+        "mean_agbd_minus_prediction": 54.642430959436766,
+        "underprediction_n": 53
+      },
+      "bands10_with_dsm": {
+        "n": 53,
+        "rmse": 60.37693928066893,
+        "mae": 54.175977599831505,
+        "r2": -3.795899006491373,
+        "mean_agbd_minus_prediction": 54.175977599831505,
+        "underprediction_n": 53
+      }
+    }
+  },
+  "item_id": "S2A_52SDD_20200504_1_L2A",
+  "scl_n": 147,
+  "scl_high_agbd_n": 55,
+  "product": "S2A_MSIL2A_20200504T020701_N0500_R103_T52SDD_20230509T111642.SAFE",
+  "usable_high_agbd_n": 53,
+  "minimum_train_test_distance_m": 363.01410008650015,
+  "n_within_500m_of_training": 3,
+  "metrics_at_least_500m_from_training": {
+    "dummy_mean": {
+      "n": 142,
+      "rmse": 43.928505533904556,
+      "mae": 33.99965234140056,
+      "r2": -0.18808219820080807,
+      "mean_agbd_minus_prediction": 17.47821310793995,
+      "underprediction_n": 91
+    },
+    "bands10": {
+      "n": 142,
+      "rmse": 42.46987216140671,
+      "mae": 33.88843448055,
+      "r2": -0.11049226734819717,
+      "mean_agbd_minus_prediction": 12.322057828265745,
+      "underprediction_n": 83
+    },
+    "bands10_with_dsm": {
+      "n": 142,
+      "rmse": 42.18647114303048,
+      "mae": 33.24965761841567,
+      "r2": -0.09572110936101619,
+      "mean_agbd_minus_prediction": 16.133126537091293,
+      "underprediction_n": 92
+    }
+  }
+}

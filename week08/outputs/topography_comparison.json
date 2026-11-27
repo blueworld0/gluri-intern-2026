@@ -1,0 +1,88 @@
+{
+  "analysis": "exploratory DSM comparison on the existing February holdout",
+  "train_n": 184,
+  "test_n": 35,
+  "terrain_range": {
+    "april_training": {
+      "dsm_elevation_m": {
+        "min": 10.96340560913086,
+        "max": 281.00897216796875
+      },
+      "dsm_slope_deg": {
+        "min": 2.4303276538848877,
+        "max": 42.79519271850586
+      }
+    },
+    "february_holdout": {
+      "dsm_elevation_m": {
+        "min": 20.984575271606445,
+        "max": 278.3525695800781
+      },
+      "dsm_slope_deg": {
+        "min": 9.220343589782715,
+        "max": 31.40081214904785
+      }
+    }
+  },
+  "metrics": {
+    "all": {
+      "dummy_mean": {
+        "n": 35,
+        "rmse": 42.77200397594862,
+        "mae": 33.82894620936109,
+        "r2": -0.003912299706309241,
+        "mean_agbd_minus_prediction": 2.6701014921161663,
+        "underprediction_n": 17
+      },
+      "bands10": {
+        "n": 35,
+        "rmse": 46.34710517586022,
+        "mae": 38.14758639731636,
+        "r2": -0.17875026936030602,
+        "mean_agbd_minus_prediction": 6.13119557232461,
+        "underprediction_n": 18
+      },
+      "bands10_with_dsm": {
+        "n": 35,
+        "rmse": 46.00537784047084,
+        "mae": 35.57436718153773,
+        "r2": -0.16143198466260555,
+        "mean_agbd_minus_prediction": 5.672519764196738,
+        "underprediction_n": 20
+      }
+    },
+    "agbd_ge100": {
+      "dummy_mean": {
+        "n": 10,
+        "rmse": 64.89976081380995,
+        "mae": 57.378820691160534,
+        "r2": -3.579980925883623,
+        "mean_agbd_minus_prediction": 57.378820691160534,
+        "underprediction_n": 10
+      },
+      "bands10": {
+        "n": 10,
+        "rmse": 68.94773814488934,
+        "mae": 62.34190532835201,
+        "r2": -4.169130826978357,
+        "mean_agbd_minus_prediction": 62.34190532835201,
+        "underprediction_n": 10
+      },
+      "bands10_with_dsm": {
+        "n": 10,
+        "rmse": 69.38695896242483,
+        "mae": 60.34016412115621,
+        "r2": -4.235198881171721,
+        "mean_agbd_minus_prediction": 60.34016412115621,
+        "underprediction_n": 10
+      }
+    }
+  },
+  "sha256": {
+    "Copernicus_DSM_COG_10_N35_00_E128_00_DEM.tif": "e0dded2916256a50ba6972590676269eea48496ae9a1f89a0b37353fb51628be",
+    "Copernicus_DSM_COG_10_N35_00_E129_00_DEM.tif": "2749f616c0a47b8e510df77026c4578b2cb869b0d1940d0544345fdb18faad37",
+    "february_holdout_predictions.csv": "2851e87f523e58f4d4cdce96e3b0bb1835e97f449096fbd3aba4786d2893c012",
+    "rededge_config.json": "b9ffc00296a3bd964407970e239cb117e0bc9bc8719b6b4097bbb730be1e0d66",
+    "rededge_forest184_input.csv": "925680ad72f228fc822c33c9abfadece4be1a8dfc3dc83bc9e36a8f98bbc958a"
+  }
+}

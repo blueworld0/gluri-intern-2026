@@ -1,0 +1,44 @@
+{
+  "candidate_source": "week06/step2/recommended_candidate_points.csv",
+  "region_id": "G025_515_140",
+  "date_utc": "2025-02-04",
+  "orbit": "O34820",
+  "high_agbd_threshold_Mg_ha": 100,
+  "total": {
+    "n": 533,
+    "high_agbd_n": 72
+  },
+  "status_counts": {
+    "forest": {
+      "n": 220,
+      "high_agbd_n": 61
+    },
+    "nonforest": {
+      "n": 313,
+      "high_agbd_n": 11
+    },
+    "unclassified": {
+      "n": 0,
+      "high_agbd_n": 0
+    }
+  },
+  "forest_code_counts": {
+    "310": {
+      "n": 55,
+      "high_agbd_n": 10
+    },
+    "320": {
+      "n": 145,
+      "high_agbd_n": 47
+    },
+    "330": {
+      "n": 20,
+      "high_agbd_n": 4
+    }
+  },
+  "classification_reasons": {
+    "single_valid_polygon_interior": 533
+  },
+  "week07_april_reference_matches": 441,
+  "sentinel2_screening": "pending"
+}

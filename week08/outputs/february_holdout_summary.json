@@ -1,0 +1,86 @@
+{
+  "scl_candidate_n": 60,
+  "n": 35,
+  "high_agbd_n": 10,
+  "train_n": 184,
+  "product": "S2C_MSIL2A_20250128T021001_N0511_R103_T52SDE_20250128T060411.SAFE",
+  "source_sha256": {
+    "B02.jp2": "46e75f6f9a6142522cf9be8fc3b1a38e7da452cc8efaae2d36ad7879f94eda96",
+    "B03.jp2": "c91bdcc43ec33e8d2464ed2aabdc32d9f6dd33390d2ed967c52bd303249d4412",
+    "B04.jp2": "8e14ff066bfbb6ec32dfc3a9afb50dd7c183d809264942e84fd3aa2016ce903a",
+    "B05.jp2": "da3e980782bfccdbab2660fca1b0e19759d2a64c0689da81573d4b0c511293d4",
+    "B06.jp2": "52a77cd9826e6fd9d58417497044376938f15d53f9e0340098c0ada160c7805f",
+    "B07.jp2": "f70e6a489b82a8a2feb78c07075a51d7ccc19b84afc49505cda2cf7632ff030b",
+    "B08.jp2": "7e8ddc1520dc601ecec146d2048fed60665dfc25d38941532ce797eec5275585",
+    "B11.jp2": "26335a5f460a247c6e4b22c31bb5680701e7df491d916bdbe9060e283ae5ae45",
+    "B12.jp2": "3a21706243e90f3076a792ad8d1dc026992c4ca9f207f1d881b4f93f61115a40",
+    "B8A.jp2": "a5b2d42c481a92139535aff4dbb555c13ad4bffbcb6ddb5a3fcd67f76787b4d8",
+    "CLASSI_B00.jp2": "97b1f0af6ac1a6a716399c0f2a20517067c5b52937eb9e24a7dbcbf1b89d2667",
+    "DETFOO_B02.jp2": "feff104512fd00a328ae856755832d0b03b76b014e9f7236552bf2a3197b277d",
+    "DETFOO_B03.jp2": "a3a6af4b153f59f4298eb253fba3bf2972f7797d8e793f0902f21c9c58ed1ead",
+    "DETFOO_B04.jp2": "93301f8229aec4694d1c7906cc1b6e16b417d50fc3d28eda78384fa4fe0ccc1b",
+    "DETFOO_B05.jp2": "41489c2808c2903bd04bc6fd19e945975de3b58f07edf0ca4caf64117dbc1ec8",
+    "DETFOO_B06.jp2": "b34499087906db4f9b9f71cf8b518ddd999638e5c6476f4f8efd57d405c322e8",
+    "DETFOO_B07.jp2": "036ed34f343863001b022d1d9f26e5edafa351974b7be443ba6d00442498a491",
+    "DETFOO_B08.jp2": "fe0a958568243a04c1f5471a4fe00ab86e54577af420ba0662594bdffee94c6b",
+    "DETFOO_B11.jp2": "9df14ce1dfa3688deafa0646becb4faae26427e306e75f4c4380da4e0ed98156",
+    "DETFOO_B12.jp2": "8156a968b7818d8d6471715c1aab4f2c3e1c79c1aa81821b8e64bbc1a021c404",
+    "DETFOO_B8A.jp2": "77bfeb0923e8088dce818184cd1511e299e185b642166f95f072c73e588a7a52",
+    "metadata.xml": "bd3ee71eb5c367c0c643550628d9210f2c35032eb172ba851f32fd6031a717b9",
+    "product_metadata.xml": "3551d96120c81470a6749362f5ea9290b47bdbcf5d01d41f6d13b511a71c56ee",
+    "productInfo.json": "bba873d6387e6b17d9bbf83e4c4d9a778f2b04497859179cb64c4ec48b9baf28",
+    "QUALIT_B02.jp2": "6402c3a5fa35698e01fcecd2a9f99eba8a2eb711f0aa499726eb32cd27bff427",
+    "QUALIT_B03.jp2": "5e54c4e5ef8e8772d4adb09dbf978569bc9fb42384c93318f7a03714da18b335",
+    "QUALIT_B04.jp2": "61f091b947d36b2c2fb558cb4dc9cea98e8237550dd206d1a9d1080f579ab719",
+    "QUALIT_B05.jp2": "ff6c24f1e76ae8c50a0c3686dda2491caa5cb947a7831ab8437139c1c041b13c",
+    "QUALIT_B06.jp2": "05f46f7b4f21fc6379471fc399c0edaf035d8516a279b62feffe412cd7468f68",
+    "QUALIT_B07.jp2": "259d556f154a053f9413b8c37f1735f1803ee9dd167aa0d1abb5a727b1e31385",
+    "QUALIT_B08.jp2": "479101af593e2166cba026461776458449e57c4e1401c4c01acae5aec99e5fd2",
+    "QUALIT_B11.jp2": "9b5ad6d65362cbfb914e7211e1ea07208ade3287ec3729aaed0ea60fdd003fb0",
+    "QUALIT_B12.jp2": "9d26a88cb366dda998482a97aeae9bf5aacb94e36315955d77d8efec334fdc79",
+    "QUALIT_B8A.jp2": "6c79d35d0b84ccb34acc232ebc9db23ba16db839e757665378636d4b860e5c66",
+    "SCL.jp2": "6f858c4a489c263a37c958310df9e2cdad0e0689c36bc81a7993ce6fc1a5c514"
+  },
+  "training_sha256": "925680ad72f228fc822c33c9abfadece4be1a8dfc3dc83bc9e36a8f98bbc958a",
+  "config_sha256": "b9ffc00296a3bd964407970e239cb117e0bc9bc8719b6b4097bbb730be1e0d66",
+  "metrics": {
+    "all": {
+      "rf_bands10": {
+        "n": 35,
+        "rmse": 46.34710517586022,
+        "mae": 38.14758639731636,
+        "r2": -0.17875026936030602,
+        "mean_agbd_minus_prediction": 6.13119557232461,
+        "underprediction_n": 18
+      },
+      "dummy_mean": {
+        "n": 35,
+        "rmse": 42.77200397594862,
+        "mae": 33.82894620936109,
+        "r2": -0.003912299706309241,
+        "mean_agbd_minus_prediction": 2.6701014921161663,
+        "underprediction_n": 17
+      }
+    },
+    "agbd_ge100": {
+      "rf_bands10": {
+        "n": 10,
+        "rmse": 68.94773814488934,
+        "mae": 62.34190532835201,
+        "r2": -4.169130826978357,
+        "mean_agbd_minus_prediction": 62.34190532835201,
+        "underprediction_n": 10
+      },
+      "dummy_mean": {
+        "n": 10,
+        "rmse": 64.89976081380995,
+        "mae": 57.378820691160534,
+        "r2": -3.579980925883623,
+        "mean_agbd_minus_prediction": 57.378820691160534,
+        "underprediction_n": 10
+      }
+    }
+  },
+  "less_than_500m_from_training_n": 0,
+  "minimum_train_test_distance_m": 8262.640169510985
+}
